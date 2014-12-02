@@ -127,13 +127,26 @@ def get_scoring(week, season, num_players=400, wait=0, timeout=30):
 		table = soup.find('table', class_='playerTableTable')
 
 		for row in table.find_all('tr', 'pncPlayerRow'):
+
+                        # Dealing with special case of D/ST. Oof
+                        name = row.find_all('td')[0].a.text.strip()
+                        if 'D/ST' in name:
+                                team = 'D/ST'
+                                position = 'D/ST'
+                        else:
+                                tp = row.find('td').text.split(',')[1].strip()
+                                team = tp.split()[0]
+                                position = tp.split()[1]
+
 			# I'm sorry for what I'm about to do ...
 			try:
 				scoring.append({
 					'season': int(season),
 					'week': int(week),
 					'player_id': int(row.find_all('td')[0].a.get('playerid')),
-					'name': row.find_all('td')[0].a.text.strip(),
+					'name': name,
+                                        'team': team,
+                                        'position': position,
 					'opponent': row.find_all('td')[2].text.strip(),
 					'game_result': row.find_all('td')[3].text.strip(),
 					'pass_completions': int(row.find_all('td')[5].text.split('/')[0]),
@@ -165,7 +178,9 @@ def get_scoring(week, season, num_players=400, wait=0, timeout=30):
 					'season': int(season),
 					'week': int(week),
 					'player_id': int(row.find_all('td')[0].a.get('playerid')),
-					'name': row.find_all('td')[0].a.text.strip(),
+					'name': name,
+                                        'team': team,
+                                        'position': position,
 					'opponent': row.find_all('td')[2].text.strip(),
 					'game_result': None,
 					'pass_completions': int(row.find_all('td')[4].text.split('/')[0]),
@@ -257,3 +272,4 @@ def main():
 
 if __name__ == '__main__':
 	main()
+
