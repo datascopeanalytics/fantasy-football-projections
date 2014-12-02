@@ -1,10 +1,11 @@
-"""Script to reconcile names between projections site and ESPN.
+"""Script to reconcile names between projections and scoring data. Not going to go crazy, but just try to fix any important stuff.
 
 """
 import sys
 import csv
+import os
 
-MAPPING = {
+MANUAL_CORRECTIONS = {
     'Benny Cunningham': 'Benjamin Cunningham',
     'Cecil Shorts': 'Cecil Shorts III',
     'Christopher Ivory': 'Chris Ivory',
@@ -23,74 +24,99 @@ MAPPING = {
 }
 
 
-def format_player(week, raw, unique_names):
+def format_player(week, raw_projection_name, scoring, manual_corrections):
+    """This function manipulates names as necessary to match between
+    projection data and scoring data.
 
-    # get name and team
-    name = raw.split(' (')[0].strip()
+    """
+    # parse name and team from projection data
+    name = raw_projection_name.split(' (')[0].strip()
     try:
-        team = raw.split(' (')[1].strip(') ').lower()
-    except IndexError:  # no team name
+        team = raw_projection_name.split(' (')[1].strip(') ').lower()
+    except IndexError:  # sometimes there is no team name
         team = None
     else:
-        # replace different version of team abbreviation
+        # replace different abbreviation for Washington
         if team == 'was':
             team = 'wsh'
 
-    item = (week, name, team)
-    if (week, name, team) in unique_names:
-        return item
-    elif name in MAPPING:
-        return (week, MAPPING[name], team)
-    else:
-        return None
+    # if there is an exact match with scoring data, return that
+    match = scoring.get((week, name, team))
 
-# get filenames from command line
-scoring_filename = sys.argv[1]
-filename_list = sys.argv[2:]
+    # if there isn't an exact match with scoring data, but there is
+    # after a manual replacement of the player name, return that
+    if match is None and name in manual_corrections:
+        name = manual_corrections[name]
+        match = scoring.get((week, name, team))
 
-# sort filenames by week
-sorted_filenames = []
-for filename in filename_list:
-    week = int(filename.split('-')[2])
-    sorted_filenames.append((week, filename))
-sorted_filenames.sort()
+    return match
 
-# get "natural keys" from scoring file
-scoring = set()
-with open(scoring_filename) as stream:
-    reader = csv.DictReader(stream)
-    for row in reader:
-        unique = (int(row['week']), row['name'], row['team'].lower())
-        if unique in scoring:
-            raise ValueError('%s is not unique' % str(unique))
-        else:
-            scoring.add(unique)
 
-match_count = 0
-total_count = 0
-hit = []
-miss = []
-for week, filename in sorted_filenames:
-    if week > 12:
-        continue
-    with open(filename) as stream:
+def sorted_by_week(filename_list):
+    # sort filenames by week
+    sorted_filenames = []
+    for filename in filename_list:
+        basename, ext = os.path.splitext(filename)
+        label, position, week, expert = basename.split('-')
+        sorted_filenames.append((int(week), position, expert, filename))
+        sorted_filenames.sort()
+    return sorted_filenames
+
+
+def join(scoring_filename, projection_filename_list):
+
+    # get scoring data in dictionary
+    scoring = read_scoring_data(scoring_filename)
+
+    match_list = []
+    miss_list = []
+    decorated = sorted_by_week(projection_filename_list)
+    for week, position, expert, filename in decorated:
+        with open(filename) as stream:
+            reader = csv.DictReader(stream)
+            for row in reader:
+
+                # get formatted player name
+                player = format_player(
+                    week,
+                    row['Player'],
+                    scoring,
+                    MANUAL_CORRECTIONS,
+                )
+
+                if player is None:
+                    miss_list.append(row)
+                else:
+                    match_list.append(row)
+
+    print >> sys.stderr, '%i matches out of %i' % (len(match_list), len(match_list) + len(miss_list))
+
+
+def read_scoring_data(scoring_filename):
+    """Get "natural keys" from scoring file."""
+    result = {}
+    with open(scoring_filename) as stream:
         reader = csv.DictReader(stream)
         for row in reader:
-            try:
-                points = float(row['FPTS'])
-            except ValueError:
-                points = 0
-            player = format_player(week, row['Player'], scoring)
-            if player is None:
-                miss.append(points)
-                if points > 0:
-                    print week, row
+
+            # use combo of week, player name, team as key, and player
+            # name as value
+            key = (int(row['week']), row['name'], row['team'].lower())
+            value = row['name']
+
+            # raise error if the key is not unique
+            if key in result:
+                raise ValueError('%s is not unique' % str(unique))
             else:
-                hit.append(points)
-                match_count += 1
-            total_count += 1
+                result[key] = value
 
-print float(sum(hit)) / len(hit)
-print float(sum(miss)) / len(miss)
+    return result
 
-print >> sys.stderr, '%i matches out of %i' % (match_count, total_count)
+if __name__ == '__main__':
+
+    # get filenames from command line
+    scoring_filename = sys.argv[1]
+    projection_filename_list = sys.argv[2:]
+
+    # try to join scoring data and projection data
+    join(scoring_filename, projection_filename_list)
