@@ -247,11 +247,11 @@ def get_gamelogs(player_id, wait=1, timeout=30):
 	return gamelogs
 
 
-def main():
+def main(current_week):
 	weekly_proj = []
 	weekly_scoring = []
 	
-	for i in range(1, 13):
+	for i in range(1, current_week+1):
 		weekly_proj.append(get_projections(week=i, season=2014))
 		weekly_scoring.append(get_scoring(week=i, season=2014, num_players=1000))
 
@@ -271,5 +271,5 @@ def main():
 		writer.writerows(scoring)
 
 if __name__ == '__main__':
-	main()
+	main(13)
 
