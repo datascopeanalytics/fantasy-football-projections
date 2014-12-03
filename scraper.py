@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from csv import DictWriter
 from time import sleep
 import requests
+import sys
 
 USER_AGENT = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36'}
 PROJ_URL = ('http://games.espn.go.com/ffl/tools/projections'
@@ -251,7 +252,7 @@ def main(current_week):
 	weekly_proj = []
 	weekly_scoring = []
 	
-	for i in range(1, current_week+1):
+	for i in range(1, current_week + 1):
 		weekly_proj.append(get_projections(week=i, season=2014))
 		weekly_scoring.append(get_scoring(week=i, season=2014, num_players=1000))
 
@@ -271,5 +272,4 @@ def main(current_week):
 		writer.writerows(scoring)
 
 if __name__ == '__main__':
-	main(13)
-
+	main(int(sys.argv[1]))
