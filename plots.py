@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 import seaborn as sns
-sns.set(style='white', palette='colorblind')
-np.random.seed(42)
+sns.set(style='white', palette='muted')
 
 def ranker(df):
     """Used for getting the top N players at a given position and week"""
@@ -12,33 +12,40 @@ def ranker(df):
     return df
 
 def bootstrap(data, statfunction=np.mean):
-    """Returns a Series of 10,000 boostrapped values with the given statistical funcion applied"""
+    """Returns a Series of 10,000 boostrapped values with the given statfunction applied"""
+    np.random.seed(42)
     samples = pd.DataFrame(np.random.choice(data, size=(10000, len(data)), replace=True))
     return samples.apply(statfunction, axis=1)
 
 def get_ci(data, alpha=0.05):
-    lower, upper = (alpha/2), 1 - (alpha/2)
+    """Return confidence intervals"""
+    alpha = alpha * 100 # np.percentile wants ints between 0, 100; not floats
+    lower, upper = (alpha/2), 100 - (alpha/2)
     return np.percentile(data, [lower, upper])
 
-def histogram(data, filename, title=None, xlim=(-2.5, 2.5)):
-    plt.figure(figsize=(13, 5))
+def histogram(data, filename, title='', bins=25, xlim=None, xlabel='', ylabel='', **kwargs):
+    fig = plt.figure(figsize=(13, 5))
+    axes = fig.add_subplot(111)
+    axes.xaxis.set_major_locator(MaxNLocator(symmetric=True))
     plt.title(title, fontdict={'fontsize': 13})
-    r = sns.distplot(data)
-    r.set_yticklabels('')
+    r = sns.distplot(data, color='#ff6000', bins=bins, kde=False)
+    r.set_xlabel(xlabel)
+    r.set_ylabel(ylabel)
     r.set_xlim(xlim)
     # r.set_xticks(xticks)
-    r.vlines(0, 0, 4, linestyles=':', color='r', linewidth=.7)
+    r.set_yticklabels('')
+    r.axvline(x=0, ls=':', color='k', linewidth=1.5)
     r.spines['top'].set_visible(False)
     r.spines['left'].set_visible(False)
     r.spines['right'].set_visible(False)
-    plt.savefig(filename)
+    plt.savefig(filename, bbox_inches='tight')
 
-def boxplots(data, filename, title=None, xlabel='', ylabel='', xlim=(-5,5), order=None):
+def boxplots(data, filename, title='', xlabel='', ylabel='', xlim=(-5,5), order=None):
     boxes = 1
     if not isinstance(data, list):
         boxes = len(data.keys())
 
-    plt.figure(figsize=(13, 5))
+    plt.figure(figsize=(11, 5))
     plt.title(title, fontdict={'fontsize': 13})
     b = sns.boxplot(data, vert=False, linewidth=1, fliersize=0,
                     order=order, widths=[.3] * boxes)
@@ -52,6 +59,7 @@ def boxplots(data, filename, title=None, xlabel='', ylabel='', xlim=(-5,5), orde
     b.spines['right'].set_visible(False)
     plt.savefig(filename)
 
+
 projections = pd.read_csv('data/projections.csv', index_col=['player_id', 'name', 'season', 'week'])
 scoring = pd.read_csv('data/scoring.csv', index_col=['player_id', 'name', 'season', 'week'])
 
@@ -61,86 +69,130 @@ espn['relative_diff'] = espn.point_diff / espn.projected_pts
 espn.reset_index(inplace=True)
 ranked = espn.groupby(['position', 'week']).apply(ranker)
 
-
-# only fantasy relevant players
+# # only fantasy relevant players
 frames = []
 relevant = {'QB': 20, 'RB': 60, 'WR': 60, 'TE': 20, 'K': 15, 'D/ST': 15}
-booted_positions = {'points': {}, 'relative': {}}
+booted_positions = {
+    'points': {'mean': {}, 'median': {}},
+    'relative': {'mean': {}, 'median': {}}
+}
 for pos, n in relevant.iteritems():
     condition = (ranked.position == pos) & (ranked.position_rank <= n)
     frames.append(ranked[condition])
-    booted_positions['points'][pos] = bootstrap(ranked[condition]['point_diff'])
-    booted_positions['relative'][pos] = bootstrap(ranked[condition]['relative_diff'])
+    booted_positions['points']['mean'][pos] = bootstrap(ranked[condition]['point_diff'], statfunction=np.mean)
+    booted_positions['points']['median'][pos] = bootstrap(ranked[condition]['point_diff'], statfunction=np.median)
+    booted_positions['relative']['mean'][pos] = bootstrap(ranked[condition]['relative_diff'], statfunction=np.mean)
+    booted_positions['relative']['median'][pos] = bootstrap(ranked[condition]['relative_diff'], statfunction=np.median)
 fantasy_relevant = pd.concat(frames)
 
-booted_weeks = {'points': {}, 'relative': {}}
+
+booted_weeks = {
+    'points': {'mean': {}, 'median': {}},
+    'relative': {'mean': {}, 'median': {}}
+}
 for i in range(1, espn.week.max() + 1):
     condition = fantasy_relevant.week == i
-    booted_weeks['points'][i] = bootstrap(fantasy_relevant[condition]['point_diff'])
-    booted_weeks['relative'][i] = bootstrap(fantasy_relevant[condition]['relative_diff'])
+    booted_weeks['points']['mean'][i] = bootstrap(fantasy_relevant[condition]['point_diff'], statfunction=np.mean)
+    booted_weeks['points']['median'][i] = bootstrap(fantasy_relevant[condition]['point_diff'], statfunction=np.median)
+    booted_weeks['relative']['mean'][i] = bootstrap(fantasy_relevant[condition]['relative_diff'], statfunction=np.mean)
+    booted_weeks['relative']['median'][i] = bootstrap(fantasy_relevant[condition]['relative_diff'], statfunction=np.median)
+
 
 # plots, plots, plots, plots plots plots
-# absolute distribution
-histogram(
-    data=bootstrap(espn.point_diff),
-    filename='charts/all-point-histogram.png',
-    title='Point Difference (Projected - Actual)\n All Players Projected > 0'
-)
-histogram(
-    data=bootstrap(fantasy_relevant.point_diff),
-    filename='charts/relevant-point-histogram.png',
-    title='Point Difference (Projected - Actual)\n FFB Relevant Players Only'
-)
+# ======================================
 
-# relative distribution
+# absolute error histograms
+# -------------------------------------------
+# all players
 histogram(
-    data=bootstrap(espn.relative_diff),
-    filename='charts/all-relative-histogram.png',
-    title='Relative Difference\n FFB Relevant Players Only',
-    xlim=(-.5, .5)
+    data=espn.point_diff,
+    filename='charts/histogram-absolute-error-all-players.png',
+    title='Absolute Error - All Players'
 )
+# FFB relevant players
 histogram(
-    data=bootstrap(fantasy_relevant.relative_diff),
-    filename='charts/relevant-relative-histogram.png',
-    title='Relative Difference\nFFB Relevant Players Only',
-    xlim=(-.5, .5)
+    data=fantasy_relevant.point_diff,
+    filename='charts/histogram-absolute-error-ffb-relevant.png',
+    title='Absolute Error - FFB Relevant'
 )
+# -------------------------------------------
 
-# by position
-positions = ['QB', 'RB', 'WR', 'TE', 'K', 'D/ST']
-boxplots(
-    data=pd.DataFrame(booted_positions['points'], columns=positions),
-    filename='charts/position-point-boxplot.png',
-    title='Point Difference by Position\nFFB Relevant Players Only',
-    xlabel='Point Difference (Projected - Actual)',
-    ylabel='Position',
-    order=positions[::-1]
+# relative error histograms
+# -------------------------------------------
+histogram(
+    data=espn.relative_diff,
+    filename='charts/histogram-relative-error-all-players.png',
+    title='Relative Error - All Players',
+    bins=50,
+    xlim=(-10,10)
 )
-boxplots(
-    data=pd.DataFrame(booted_positions['relative'], columns=positions),
-    filename='charts/position-relative-boxplot.png',
-    title='Relative Difference by Position\n FFB Relevant Players Only',
-    xlabel='Relative Difference',
-    ylabel='Position',
-    xlim=(-.5, .5),
-    order=positions[::-1]
+# FFB relevant players
+print('Total FFB Relevant Obs: {}'.format(len(fantasy_relevant)))
+print('FFB Obs > 0: {}'.format(len(fantasy_relevant.query('relative_diff > 0'))))
+print('FFB Obs >= 25%: {}'.format(len(fantasy_relevant.query('relative_diff >= .25'))))
+histogram(
+    data=fantasy_relevant.relative_diff,
+    filename='charts/histogram-relative-error-ffb-relevant.png',
+    title='Relative Error - FFB Relevant',
+    bins=50,
+    xlim=(-10,10)
 )
+# -------------------------------------------
 
-# by week
-boxplots(
-    data=pd.DataFrame(booted_weeks['points']),
-    filename='charts/weekly-point-boxplot.png',
-    title='Point Difference by Week',
-    xlabel='Point Difference (Projected - Actual)',
-    ylabel='Week',
-    order=sorted(booted_weeks['points'].keys(), reverse=True)
+bs_all = bootstrap(espn.point_diff, statfunction=np.mean)
+bs_ffb = bootstrap(fantasy_relevant.point_diff, statfunction=np.mean)
+print('All - Mean Absolute Error CI:', np.percentile(bs_all, q=[2.5, 50, 97.5]))
+print('FFB - Mean Absolute Error CI:', np.percentile(bs_ffb, q=[2.5, 50, 97.5]))
+# bootstrapped mean absolute error histograms
+# -------------------------------------------
+# all players
+histogram(
+    data=bootstrap(espn.point_diff, statfunction=np.mean),
+    filename='charts/histogram-mean-absolute-error-all-players.png',
+    title='Mean Absolute Error - All Players',
+    bins=50
 )
-boxplots(
-    data=pd.DataFrame(booted_weeks['relative']),
-    filename='charts/weekly-relative-boxplot.png',
-    title='Relative Difference by Week',
-    xlabel='Relative Difference',
-    ylabel='Week',
-    xlim=(-.5, .5),
-    order=sorted(booted_weeks['relative'].keys(), reverse=True)
+# FFB relevant
+histogram(
+    data=bootstrap(fantasy_relevant.point_diff, statfunction=np.mean),
+    filename='charts/histogram-mean-absolute-error-ffb-relevant.png',
+    title='Mean Absolute Error - FFB Relevant',
+    bins=25
 )
+# -------------------------------------------
+
+# bootstrapped mean relative error histograms
+# -------------------------------------------
+# all players
+histogram(
+    data=bootstrap(espn.relative_diff, statfunction=np.mean),
+    filename='charts/histogram-mean-relative-error-all-players.png',
+    title='Mean Relative Error - All Players',
+    bins=25
+)
+# FFB relevant
+histogram(
+    data=bootstrap(fantasy_relevant.relative_diff, statfunction=np.mean),
+    filename='charts/histogram-mean-relative-error-ffb-relevant.png',
+    title='Mean Relative Error - FFB Relevant',
+    bins=50
+)
+# -------------------------------------------
+
+# bootstrapped median relative error histograms
+# -------------------------------------------
+# all players
+histogram(
+    data=bootstrap(espn.relative_diff, statfunction=np.median),
+    filename='charts/histogram-median-relative-error-all-players.png',
+    title='Median Relative Error - All Players',
+    bins=10
+)
+# FFB relevant
+histogram(
+    data=bootstrap(fantasy_relevant.relative_diff, statfunction=np.median),
+    filename='charts/histogram-median-relative-error-ffb-relevant.png',
+    title='Median Relative Error - FFB Relevant',
+    bins=10
+)
+# -------------------------------------------
