@@ -11,4 +11,5 @@ pytz==2014.9
 requests==2.4.3
 scipy==0.14.0
 seaborn==0.5.1
+six==1.8.0
 wsgiref==0.1.2
