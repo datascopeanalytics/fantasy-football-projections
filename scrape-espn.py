@@ -1,3 +1,6 @@
+"""
+Scrape ESPN's weekly fantasy football projections and actual scoring.
+"""
 from itertools import chain
 from bs4 import BeautifulSoup
 from csv import DictWriter
@@ -259,12 +262,12 @@ def main(current_week):
     projections = list(chain.from_iterable(weekly_proj))
     scoring = list(chain.from_iterable(weekly_scoring))
 
-    with open('data/projections.csv', 'w') as f:
+    with open('data/projections-espn.csv', 'w') as f:
         writer = DictWriter(f, fieldnames=projections[0].keys())
         writer.writeheader()
         writer.writerows(projections)
 
-    with open('data/scoring.csv', 'w') as f:
+    with open('data/scoring-espn.csv', 'w') as f:
         # DST scoring is in 0-index position of this -- use 32-index (not a DST)
         writer = DictWriter(f, fieldnames=scoring[32].keys())
         writer.writeheader()
