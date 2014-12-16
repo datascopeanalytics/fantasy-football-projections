@@ -35,8 +35,8 @@ for expert_code, expert_name in sorted(experts.iteritems()):
             }
             response = requests.get(url, params=params)
 
-            # msg = 'getting projections for {}, week {}, postition {}'
-            # print(msg.format(expert_name, week, position))
+            msg = 'getting projections for {}, week {}, postition {}'
+            print(msg.format(expert_name, week, position))
             
             # use expert:expert in request to get only one expert at a time
             # use pandas to parse the HTML table for us
@@ -48,9 +48,8 @@ for expert_code, expert_name in sorted(experts.iteritems()):
             df['POSITION'] = position.upper()
             df.rename(columns=COLUMN_MAPPINGS[position.upper()], inplace=True)
             frames.append(df)
-            print(len(frames))
 
     expert_df = pd.concat(frames)
     expert_df['EXPERT'] = expert_name
-    filename = 'data/projections-{}.csv'.format(expert_code)
+    filename = 'data/fantasypros-projections-{}.csv'.format(expert_code)
     expert_df.to_csv(filename, index=False)
