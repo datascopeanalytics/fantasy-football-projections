@@ -29,7 +29,7 @@ def read_projections():
     get paths for expert projections; read into list of dataframes
     Returns unified dataframe with all projections
     """
-    file_list = glob('data/projections-*.csv')
+    file_list = glob('data/fantasypros-*.csv')
     frames = []
     for item in file_list:
         # don't want the projections-espn file
