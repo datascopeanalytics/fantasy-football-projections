@@ -134,12 +134,12 @@ def get_scoring(week, season, num_players=400, wait=0, timeout=30):
             # Dealing with special case of D/ST. Oof
             name = row.find_all('td')[0].a.text.strip()
             if 'D/ST' in name:
-                    team = 'D/ST'
-                    position = 'D/ST'
+                team = 'D/ST'
+                position = 'D/ST'
             else:
-                    tp = row.find('td').text.split(',')[1].strip()
-                    team = tp.split()[0]
-                    position = tp.split()[1]
+                tp = row.find('td').text.split(',')[1].strip()
+                team = tp.split()[0]
+                position = tp.split()[1]
 
             # I'm sorry for what I'm about to do ...
             try:
