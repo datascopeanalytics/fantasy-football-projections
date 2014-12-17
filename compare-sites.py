@@ -164,7 +164,7 @@ def generate_error_histograms(df, column, title):
         filename = title + '-' + ex_name
         filename = filename.strip().lower().replace(' ', '-')
         utils.histogram(
-            data=df[column],
+            data=df[ df.EXPERT == expert ][column],
             filename='charts/fantasypros/{}.png'.format(filename),
             title='{} - {}'.format(title, expert),
             figsize=(10,5),
@@ -229,7 +229,7 @@ if __name__ == '__main__':
     # rel_err_by_expert_position = bootstrap_experts_positions(joined, 'REL_DIFF')
 
     generate_error_histograms(joined, column='PTS_DIFF',
-                                title='Absolute Error')
+                                title='Point Difference')
     # generate_error_histograms(joined, column='REL_DIFF',
     #                             title='Relative Error')
     generate_bootstrap_histograms(abs_err_by_expert,
