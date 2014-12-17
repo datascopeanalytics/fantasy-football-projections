@@ -34,7 +34,7 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,1,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,1,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Drew Stanton (ARI),,,,0.0,0.0,0.0,1,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,1,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,1,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,1,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,1,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,1,,ESPN
@@ -87,7 +87,7 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,2,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,2,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,2,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,2,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,2,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,2,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,2,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,2,,ESPN
@@ -113,8 +113,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 18.0,,,0.0,20.5,0.0,29.0,1.0,180.0,QB,Cam Newton (CAR),,,,7.0,1.0,33.0,3,,ESPN
 22.0,,,0.0,18.6,1.0,37.0,2.0,280.0,QB,Matthew Stafford (DET),,,,3.0,0.0,14.0,3,,ESPN
 28.0,,,0.0,18.5,1.0,40.0,2.0,280.0,QB,Matt Ryan (ATL),,,,3.0,0.0,13.0,3,,ESPN
-22.0,,,0.0,17.6,1.0,36.0,2.0,261.0,QB,Aaron Rodgers (GB),,,,3.0,0.0,12.0,3,,ESPN
 24.0,,,0.0,17.6,0.0,35.0,2.0,236.0,QB,Tom Brady (NE),,,,1.0,0.0,2.0,3,,ESPN
+22.0,,,0.0,17.6,1.0,36.0,2.0,261.0,QB,Aaron Rodgers (GB),,,,3.0,0.0,12.0,3,,ESPN
 25.0,,,0.0,17.4,1.0,38.0,2.0,255.0,QB,Philip Rivers (SD),,,,3.0,0.0,12.0,3,,ESPN
 19.0,,,0.0,17.3,1.0,31.0,2.0,230.0,QB,Russell Wilson (SEA),,,,5.0,0.0,21.0,3,,ESPN
 19.0,,,0.0,16.0,1.0,30.0,2.0,251.0,QB,Nick Foles (PHI),,,,0.0,0.0,0.0,3,,ESPN
@@ -137,29 +137,29 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 23.0,,,0.0,9.4,2.0,40.0,1.0,213.0,QB,Jake Locker (TEN),,,,3.0,0.0,9.0,3,,ESPN
 22.0,,,0.0,9.4,2.0,36.0,1.0,237.0,QB,Drew Stanton (ARI),,,,1.0,0.0,-1.0,3,,ESPN
 19.0,,,0.0,8.3,2.0,33.0,1.0,194.0,QB,Eli Manning (NYG),,,,1.0,0.0,5.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kyle Orton (BUF),,,,0.0,0.0,0.0,3,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,3,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,3,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,3,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kyle Orton (BUF),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Luke McCown (NO),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Shaun Hill (STL),,,,0.0,0.0,0.0,3,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Seneca Wallace,,,,0.0,0.0,0.0,3,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Rex Grossman (CLE),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Shaun Hill (STL),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,3,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Michael Vick (NYJ),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,3,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Hasselbeck (IND),,,,0.0,0.0,0.0,3,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,3,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Luke McCown (NO),,,,0.0,0.0,0.0,3,,ESPN
 26.0,,,0.0,26.4,0.0,36.0,3.0,305.0,QB,Philip Rivers (SD),,,,6.0,0.0,22.0,4,,ESPN
 29.0,,,0.0,23.2,1.0,41.0,3.0,328.0,QB,Drew Brees (NO),,,,1.0,0.0,1.0,4,,ESPN
 24.0,,,0.0,20.2,1.0,39.0,1.0,277.0,QB,Kirk Cousins (WAS),,,,3.0,1.0,11.0,4,,ESPN
@@ -197,7 +197,7 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,4,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,4,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,4,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,4,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,4,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,4,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,4,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,4,,ESPN
@@ -242,7 +242,7 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,5,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,5,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,5,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,5,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,5,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,5,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,5,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,5,,ESPN
@@ -283,27 +283,27 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 16.0,,,0.0,9.1,2.0,28.0,1.0,213.0,QB,Ryan Fitzpatrick (HOU),,,,2.0,0.0,6.0,6,,ESPN
 20.0,,,0.0,7.8,1.0,38.0,0.0,200.0,QB,Geno Smith (NYJ),,,,5.0,0.0,18.0,6,,ESPN
 17.0,,,0.0,6.1,1.0,32.0,0.0,179.0,QB,Teddy Bridgewater (MIN),,,,2.0,0.0,9.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,6,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Hasselbeck (IND),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Josh McCown (TB),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Drew Stanton (ARI),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,6,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,6,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,6,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Drew Stanton (ARI),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,6,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,6,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Shaun Hill (STL),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,6,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Seneca Wallace,,,,0.0,0.0,0.0,6,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Rex Grossman (CLE),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Shaun Hill (STL),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,6,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Josh McCown (TB),,,,0.0,0.0,0.0,6,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Michael Vick (NYJ),,,,0.0,0.0,0.0,6,,ESPN
 20.0,,,0.0,23.9,0.0,30.0,3.0,259.0,QB,Philip Rivers (SD),,,,6.0,0.0,15.0,7,,ESPN
 21.0,,,0.0,22.3,1.0,35.0,1.0,224.0,QB,Cam Newton (CAR),,,,11.0,1.0,53.0,7,,ESPN
@@ -335,34 +335,34 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 17.0,,,0.0,9.9,1.0,32.0,1.0,151.0,QB,Geno Smith (NYJ),,,,5.0,0.0,19.0,7,,ESPN
 22.0,,,0.0,9.5,2.0,36.0,1.0,217.0,QB,Teddy Bridgewater (MIN),,,,2.0,0.0,8.0,7,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Hasselbeck (IND),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Drew Stanton (ARI),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,7,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Luke McCown (NO),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Drew Stanton (ARI),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Shaun Hill (STL),,,,0.0,0.0,0.0,7,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Seneca Wallace,,,,0.0,0.0,0.0,7,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Rex Grossman (CLE),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Shaun Hill (STL),,,,0.0,0.0,0.0,7,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,7,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Michael Vick (NYJ),,,,0.0,0.0,0.0,7,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,7,,ESPN
 22.0,,,0.0,28.2,1.0,30.0,2.0,213.0,QB,Russell Wilson (SEA),,,,7.0,1.0,77.0,8,,ESPN
 22.0,,,0.0,23.3,0.0,32.0,3.0,256.0,QB,Aaron Rodgers (GB),,,,2.0,0.0,11.0,8,,ESPN
 23.0,,,0.0,22.6,0.0,34.0,3.0,267.0,QB,Peyton Manning (DEN),,,,1.0,0.0,-1.0,8,,ESPN
 25.0,,,0.0,21.2,0.0,37.0,2.0,249.0,QB,Cam Newton (CAR),,,,10.0,0.0,32.0,8,,ESPN
 25.0,,,0.0,21.1,0.0,40.0,2.0,262.0,QB,Ryan Tannehill (MIA),,,,5.0,0.0,26.0,8,,ESPN
-22.0,,,0.0,20.1,1.0,33.0,1.0,283.0,QB,Matthew Stafford (DET),,,,5.0,1.0,8.0,8,,ESPN
 21.0,,,0.0,20.1,1.0,34.0,3.0,248.0,QB,Tom Brady (NE),,,,2.0,0.0,2.0,8,,ESPN
+22.0,,,0.0,20.1,1.0,33.0,1.0,283.0,QB,Matthew Stafford (DET),,,,5.0,1.0,8.0,8,,ESPN
 26.0,,,0.0,19.8,1.0,41.0,2.0,314.0,QB,Andrew Luck (IND),,,,4.0,0.0,12.0,8,,ESPN
 25.0,,,0.0,19.6,0.0,40.0,2.0,272.0,QB,Philip Rivers (SD),,,,4.0,0.0,7.0,8,,ESPN
 18.0,,,0.0,18.5,0.0,25.0,2.0,192.0,QB,Alex Smith (KC),,,,5.0,0.0,28.0,8,,ESPN
@@ -384,30 +384,30 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 21.0,,,0.0,11.3,1.0,36.0,1.0,192.0,QB,Geno Smith (NYJ),,,,4.0,0.0,16.0,8,,ESPN
 23.0,,,0.0,10.7,1.0,39.0,1.0,183.0,QB,Blake Bortles (JAC),,,,3.0,0.0,14.0,8,,ESPN
 21.0,,,0.0,10.3,2.0,36.0,1.0,213.0,QB,Derek Carr (OAK),,,,2.0,0.0,18.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Michael Vick (NYJ),,,,0.0,0.0,0.0,8,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Hasselbeck (IND),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Drew Stanton (ARI),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Luke McCown (NO),,,,0.0,0.0,0.0,8,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,8,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Josh McCown (TB),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Drew Stanton (ARI),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,8,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,8,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Luke McCown (NO),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Shaun Hill (STL),,,,0.0,0.0,0.0,8,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Seneca Wallace,,,,0.0,0.0,0.0,8,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Rex Grossman (CLE),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Shaun Hill (STL),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,8,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Josh McCown (TB),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Michael Vick (NYJ),,,,0.0,0.0,0.0,8,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,8,,ESPN
 27.0,,,0.0,22.4,0.0,43.0,3.0,257.0,QB,Tom Brady (NE),,,,1.0,0.0,1.0,9,,ESPN
 18.0,,,0.0,22.0,0.0,25.0,2.0,193.0,QB,Russell Wilson (SEA),,,,9.0,0.0,63.0,9,,ESPN
 27.0,,,0.0,21.7,1.0,42.0,2.0,355.0,QB,Andrew Luck (IND),,,,4.0,0.0,15.0,9,,ESPN
@@ -482,7 +482,7 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,10,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,10,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,10,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,10,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,10,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,10,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,10,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,10,,ESPN
@@ -528,7 +528,7 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,11,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,11,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,11,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,11,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,11,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,11,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,11,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,11,,ESPN
@@ -573,7 +573,7 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,12,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,12,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,12,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,12,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,12,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,12,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,12,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,12,,ESPN
@@ -622,7 +622,7 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,13,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,13,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,13,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,13,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,13,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,13,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,13,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,13,,ESPN
@@ -670,27 +670,27 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 18.0,,,0.0,9.5,1.0,32.0,1.0,152.0,QB,Geno Smith (NYJ),,,,3.0,0.0,14.0,14,,ESPN
 22.0,,,0.0,9.1,2.0,37.0,1.0,225.0,QB,Josh McCown (TB),,,,1.0,0.0,1.0,14,,ESPN
 21.0,,,0.0,7.6,2.0,38.0,1.0,175.0,QB,Derek Carr (OAK),,,,1.0,0.0,6.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,14,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Luke McCown (NO),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Derek Anderson (CAR),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,14,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Seneca Wallace,,,,0.0,0.0,0.0,14,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Rex Grossman (CLE),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,14,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Michael Vick (NYJ),,,,0.0,0.0,0.0,14,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,14,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Hasselbeck (IND),,,,0.0,0.0,0.0,14,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,14,,ESPN
 28.0,,,0.0,25.9,1.0,46.0,3.0,346.0,QB,Andrew Luck (IND),,,,6.0,0.0,21.0,15,,ESPN
 30.0,,,0.0,23.4,1.0,41.0,3.0,323.0,QB,Drew Brees (NO),,,,2.0,0.0,5.0,15,,ESPN
 25.0,,,0.0,21.1,1.0,38.0,3.0,283.0,QB,Peyton Manning (DEN),,,,2.0,0.0,-2.0,15,,ESPN
@@ -723,32 +723,32 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 20.0,,,0.0,9.8,2.0,35.0,1.0,218.0,QB,Andy Dalton (CIN),,,,4.0,0.0,11.0,15,,ESPN
 21.0,,,0.0,9.5,1.0,37.0,1.0,170.0,QB,Derek Carr (OAK),,,,2.0,0.0,7.0,15,,ESPN
 21.0,,,0.0,8.3,2.0,35.0,1.0,188.0,QB,Teddy Bridgewater (MIN),,,,2.0,0.0,8.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Luke McCown (NO),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (CHI),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,15,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tyler Thigpen (CLE),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jordan Palmer (TEN),,,,0.0,0.0,0.0,15,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Trent Edwards (OAK),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kevin Kolb,,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Brady Quinn,,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Bruce Gradkowski (PIT),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Charlie Whitehurst (TEN),,,,0.0,0.0,0.0,15,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Tarvaris Jackson (SEA),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Kellen Clemens (SD),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Vince Young,,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Dan Orlovsky (DET),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jason Campbell (CIN),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Luke McCown (NO),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,15,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Seneca Wallace,,,,0.0,0.0,0.0,15,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Rex Grossman (CLE),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,David Garrard (NYJ),,,,0.0,0.0,0.0,15,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Michael Vick (NYJ),,,,0.0,0.0,0.0,15,,ESPN
-0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Schaub (OAK),,,,0.0,0.0,0.0,15,,ESPN
 0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Matt Hasselbeck (IND),,,,0.0,0.0,0.0,15,,ESPN
+0.0,,,0.0,0.0,0.0,0.0,0.0,0.0,QB,Jon Kitna (DAL),,,,0.0,0.0,0.0,15,,ESPN
 ,,,0.0,26.6,,,,,RB,LeSean McCoy (PHI),3.0,0.0,32.0,24.0,2.0,114.0,1,,ESPN
 ,,,0.0,25.1,,,,,RB,Jamaal Charles (KC),6.0,0.0,47.0,17.0,2.0,84.0,1,,ESPN
 ,,,0.0,22.6,,,,,RB,Adrian Peterson (MIN),3.0,0.0,22.0,18.0,2.0,84.0,1,,ESPN
 ,,,0.0,18.3,,,,,RB,Marshawn Lynch (SEA),3.0,0.0,28.0,19.0,1.0,95.0,1,,ESPN
-,,,0.0,17.0,,,,,RB,Giovani Bernard (CIN),5.0,0.0,48.0,16.0,1.0,62.0,1,,ESPN
 ,,,0.0,17.0,,,,,RB,Matt Forte (CHI),4.0,0.0,30.0,18.0,1.0,80.0,1,,ESPN
+,,,0.0,17.0,,,,,RB,Giovani Bernard (CIN),5.0,0.0,48.0,16.0,1.0,62.0,1,,ESPN
 ,,,0.0,15.4,,,,,RB,Arian Foster (HOU),3.0,0.0,28.0,14.0,1.0,66.0,1,,ESPN
 ,,,0.0,15.3,,,,,RB,C.J. Spiller (BUF),2.0,0.0,19.0,15.0,1.0,74.0,1,,ESPN
 ,,,0.0,15.1,,,,,RB,Eddie Lacy (GB),2.0,1.0,14.0,18.0,0.0,77.0,1,,ESPN
@@ -789,11 +789,11 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,3.8,,,,,RB,Terrance West (CLE),2.0,0.0,13.0,6.0,0.0,25.0,1,,ESPN
 ,,,0.0,3.8,,,,,RB,Shonn Greene (TEN),0.0,0.0,3.0,10.0,0.0,35.0,1,,ESPN
 ,,,0.0,3.6,,,,,RB,C.J. Anderson (DEN),1.0,0.0,11.0,5.0,0.0,25.0,1,,ESPN
-,,,0.0,3.5,,,,,RB,Bryce Brown (BUF),0.0,0.0,0.0,6.0,0.0,35.0,1,,ESPN
 ,,,0.0,3.5,,,,,RB,Jonathan Stewart (CAR),2.0,0.0,15.0,5.0,0.0,20.0,1,,ESPN
+,,,0.0,3.5,,,,,RB,Bryce Brown (BUF),0.0,0.0,0.0,6.0,0.0,35.0,1,,ESPN
 ,,,0.0,3.4,,,,,RB,Marcel Reece (OAK),2.0,0.0,23.0,3.0,0.0,11.0,1,,ESPN
-,,,0.0,3.2,,,,,RB,Darren McFadden (OAK),1.0,0.0,7.0,7.0,0.0,25.0,1,,ESPN
 ,,,0.0,3.2,,,,,RB,Roy Helu (WAS),2.0,0.0,12.0,5.0,0.0,20.0,1,,ESPN
+,,,0.0,3.2,,,,,RB,Darren McFadden (OAK),1.0,0.0,7.0,7.0,0.0,25.0,1,,ESPN
 ,,,0.0,3.1,,,,,RB,Jordan Todman (JAC),3.0,0.0,18.0,5.0,0.0,13.0,1,,ESPN
 ,,,0.0,2.7,,,,,RB,Brandon Bolden (NE),1.0,0.0,4.0,5.0,0.0,23.0,1,,ESPN
 ,,,0.0,2.6,,,,,RB,Andre Williams (NYG),1.0,0.0,4.0,5.0,0.0,22.0,1,,ESPN
@@ -802,28 +802,28 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,2.5,,,,,RB,Donald Brown (SD),1.0,0.0,7.0,5.0,0.0,18.0,1,,ESPN
 ,,,0.0,2.5,,,,,RB,Stepfan Taylor (ARI),1.0,0.0,5.0,6.0,0.0,20.0,1,,ESPN
 ,,,0.0,2.5,,,,,RB,Lance Dunbar (DAL),1.0,0.0,6.0,5.0,0.0,19.0,1,,ESPN
-,,,0.0,2.3,,,,,RB,Robert Turbin (SEA),0.0,0.0,0.0,7.0,0.0,23.0,1,,ESPN
 ,,,0.0,2.3,,,,,RB,James White (NE),1.0,0.0,5.0,4.0,0.0,18.0,1,,ESPN
-,,,0.0,2.2,,,,,RB,Ka'Deem Carey (CHI),0.0,0.0,0.0,6.0,0.0,22.0,1,,ESPN
+,,,0.0,2.3,,,,,RB,Robert Turbin (SEA),0.0,0.0,0.0,7.0,0.0,23.0,1,,ESPN
 ,,,0.0,2.2,,,,,RB,Bilal Powell (NYJ),1.0,0.0,7.0,4.0,0.0,15.0,1,,ESPN
-,,,0.0,2.1,,,,,RB,Khiry Robinson (NO),0.0,0.0,0.0,5.0,0.0,21.0,1,,ESPN
+,,,0.0,2.2,,,,,RB,Ka'Deem Carey (CHI),0.0,0.0,0.0,6.0,0.0,22.0,1,,ESPN
 ,,,0.0,2.1,,,,,RB,Devonta Freeman (ATL),1.0,0.0,5.0,3.0,0.0,16.0,1,,ESPN
-,,,0.0,2.1,,,,,RB,Jonathan Grimes (HOU),1.0,0.0,4.0,5.0,0.0,17.0,1,,ESPN
 ,,,0.0,2.1,,,,,RB,Jacquizz Rodgers (ATL),3.0,0.0,14.0,2.0,0.0,7.0,1,,ESPN
+,,,0.0,2.1,,,,,RB,Khiry Robinson (NO),0.0,0.0,0.0,5.0,0.0,21.0,1,,ESPN
+,,,0.0,2.1,,,,,RB,Jonathan Grimes (HOU),1.0,0.0,4.0,5.0,0.0,17.0,1,,ESPN
 ,,,0.0,1.9,,,,,RB,Bobby Rainey (TB),1.0,0.0,5.0,4.0,0.0,14.0,1,,ESPN
 ,,,0.0,1.5,,,,,RB,Benny Cunningham (STL),1.0,0.0,5.0,3.0,0.0,10.0,1,,ESPN
 ,,,0.0,1.4,,,,,RB,Justin Forsett (BAL),0.0,0.0,0.0,5.0,0.0,14.0,1,,ESPN
-,,,0.0,1.3,,,,,RB,De'Anthony Thomas (KC),1.0,0.0,10.0,1.0,0.0,3.0,1,,ESPN
 ,,,0.0,1.3,,,,,RB,DuJuan Harris (GB),0.0,0.0,0.0,3.0,0.0,13.0,1,,ESPN
+,,,0.0,1.3,,,,,RB,De'Anthony Thomas (KC),1.0,0.0,10.0,1.0,0.0,3.0,1,,ESPN
 ,,,0.0,1.2,,,,,RB,James Starks (GB),0.0,0.0,0.0,3.0,0.0,12.0,1,,ESPN
 ,,,0.0,1.2,,,,,RB,Matt Asiata (MIN),0.0,0.0,0.0,4.0,0.0,12.0,1,,ESPN
 ,,,0.0,1.0,,,,,RB,Silas Redd (WAS),0.0,0.0,0.0,2.0,0.0,10.0,1,,ESPN
 ,,,0.0,1.0,,,,,RB,Shaun Draughn (CLE),0.0,0.0,0.0,2.0,0.0,10.0,1,,ESPN
-,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,1,,ESPN
-,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,1,,ESPN
-,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,1,,ESPN
 ,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,1,,ESPN
+,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,1,,ESPN
 ,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,1,,ESPN
+,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,1,,ESPN
+,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,1,,ESPN
 ,,,0.0,19.1,,,,,RB,LeSean McCoy (PHI),3.0,0.0,31.0,18.0,1.0,100.0,2,,ESPN
 ,,,0.0,17.9,,,,,RB,Giovani Bernard (CIN),6.0,1.0,47.0,16.0,0.0,72.0,2,,ESPN
 ,,,0.0,17.6,,,,,RB,Matt Forte (CHI),5.0,0.0,47.0,16.0,1.0,69.0,2,,ESPN
@@ -870,9 +870,9 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,3.5,,,,,RB,Donald Brown (SD),1.0,0.0,10.0,6.0,0.0,25.0,2,,ESPN
 ,,,0.0,3.5,,,,,RB,Steven Jackson (ATL),1.0,0.0,2.0,10.0,0.0,33.0,2,,ESPN
 ,,,0.0,3.2,,,,,RB,Ronnie Hillman (DEN),1.0,0.0,8.0,5.0,0.0,24.0,2,,ESPN
+,,,0.0,3.1,,,,,RB,Brandon Bolden (NE),1.0,0.0,4.0,6.0,0.0,27.0,2,,ESPN
 ,,,0.0,3.1,,,,,RB,Mike Tolbert (CAR),2.0,0.0,12.0,6.0,0.0,19.0,2,,ESPN
 ,,,0.0,3.1,,,,,RB,C.J. Anderson (DEN),0.0,0.0,0.0,7.0,0.0,31.0,2,,ESPN
-,,,0.0,3.1,,,,,RB,Brandon Bolden (NE),1.0,0.0,4.0,6.0,0.0,27.0,2,,ESPN
 ,,,0.0,2.8,,,,,RB,Andre Williams (NYG),2.0,0.0,13.0,5.0,0.0,15.0,2,,ESPN
 ,,,0.0,2.6,,,,,RB,Bobby Rainey (TB),1.0,0.0,4.0,7.0,0.0,22.0,2,,ESPN
 ,,,0.0,2.5,,,,,RB,Isaiah Crowell (CLE),0.0,0.0,0.0,6.0,0.0,25.0,2,,ESPN
@@ -880,15 +880,15 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,2.2,,,,,RB,Jordan Todman (JAC),2.0,0.0,11.0,4.0,0.0,11.0,2,,ESPN
 ,,,0.0,2.1,,,,,RB,Robert Turbin (SEA),0.0,0.0,0.0,5.0,0.0,21.0,2,,ESPN
 ,,,0.0,2.1,,,,,RB,Ka'Deem Carey (CHI),1.0,0.0,7.0,4.0,0.0,14.0,2,,ESPN
-,,,0.0,1.9,,,,,RB,Leon Washington (TEN),2.0,0.0,11.0,2.0,0.0,8.0,2,,ESPN
 ,,,0.0,1.9,,,,,RB,Jacquizz Rodgers (ATL),1.0,0.0,3.0,4.0,0.0,16.0,2,,ESPN
-,,,0.0,1.9,,,,,RB,Khiry Robinson (NO),0.0,0.0,0.0,5.0,0.0,19.0,2,,ESPN
 ,,,0.0,1.9,,,,,RB,Anthony Dixon (BUF),0.0,0.0,0.0,5.0,0.0,19.0,2,,ESPN
+,,,0.0,1.9,,,,,RB,Leon Washington (TEN),2.0,0.0,11.0,2.0,0.0,8.0,2,,ESPN
+,,,0.0,1.9,,,,,RB,Khiry Robinson (NO),0.0,0.0,0.0,5.0,0.0,19.0,2,,ESPN
 ,,,0.0,1.9,,,,,RB,Knile Davis (KC),1.0,0.0,6.0,4.0,0.0,13.0,2,,ESPN
 ,,,0.0,1.9,,,,,RB,Jonathan Grimes (HOU),1.0,0.0,4.0,5.0,0.0,15.0,2,,ESPN
 ,,,0.0,1.8,,,,,RB,Stepfan Taylor (ARI),1.0,0.0,6.0,4.0,0.0,12.0,2,,ESPN
-,,,0.0,1.7,,,,,RB,Chris Polk (PHI),1.0,0.0,7.0,2.0,0.0,10.0,2,,ESPN
 ,,,0.0,1.7,,,,,RB,Lance Dunbar (DAL),1.0,0.0,5.0,3.0,0.0,12.0,2,,ESPN
+,,,0.0,1.7,,,,,RB,Chris Polk (PHI),1.0,0.0,7.0,2.0,0.0,10.0,2,,ESPN
 ,,,0.0,1.6,,,,,RB,LeGarrette Blount (NE),0.0,0.0,0.0,6.0,0.0,16.0,2,,ESPN
 ,,,0.0,1.5,,,,,RB,Devonta Freeman (ATL),1.0,0.0,5.0,2.0,0.0,10.0,2,,ESPN
 ,,,0.0,1.1,,,,,RB,Jorvorskie Lane (TB),0.0,0.0,0.0,3.0,0.0,11.0,2,,ESPN
@@ -896,12 +896,12 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,1.0,,,,,RB,Bilal Powell (NYJ),0.0,0.0,0.0,2.0,0.0,10.0,2,,ESPN
 ,,,0.0,1.0,,,,,RB,Mike James (TB),0.0,0.0,0.0,2.0,0.0,10.0,2,,ESPN
 ,,,0.0,0.2,,,,,RB,John Kuhn (GB),0.0,0.0,0.0,1.0,0.0,2.0,2,,ESPN
-,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
 ,,,0.0,0.0,,,,,RB,DeAngelo Williams (CAR),0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
 ,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
-,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
-,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
 ,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
+,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
+,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
+,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,2,,ESPN
 ,,,0.0,19.4,,,,,RB,LeSean McCoy (PHI),4.0,0.0,42.0,23.0,1.0,92.0,3,,ESPN
 ,,,0.0,18.2,,,,,RB,Giovani Bernard (CIN),5.0,1.0,56.0,19.0,0.0,66.0,3,,ESPN
 ,,,0.0,18.0,,,,,RB,DeMarco Murray (DAL),3.0,0.0,21.0,20.0,1.0,99.0,3,,ESPN
@@ -909,8 +909,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,16.0,,,,,RB,Rashad Jennings (NYG),4.0,0.0,36.0,16.0,1.0,64.0,3,,ESPN
 ,,,0.0,15.7,,,,,RB,Joique Bell (DET),3.0,0.0,28.0,15.0,1.0,69.0,3,,ESPN
 ,,,0.0,15.6,,,,,RB,Matt Asiata (MIN),3.0,0.0,29.0,16.0,1.0,67.0,3,,ESPN
-,,,0.0,15.5,,,,,RB,C.J. Spiller (BUF),3.0,0.0,17.0,15.0,1.0,78.0,3,,ESPN
 ,,,0.0,15.5,,,,,RB,Lamar Miller (MIA),3.0,1.0,20.0,14.0,0.0,75.0,3,,ESPN
+,,,0.0,15.5,,,,,RB,C.J. Spiller (BUF),3.0,0.0,17.0,15.0,1.0,78.0,3,,ESPN
 ,,,0.0,15.2,,,,,RB,Darren McFadden (OAK),2.0,0.0,25.0,19.0,1.0,67.0,3,,ESPN
 ,,,0.0,14.5,,,,,RB,Marshawn Lynch (SEA),2.0,0.0,16.0,15.0,1.0,69.0,3,,ESPN
 ,,,0.0,14.3,,,,,RB,Justin Forsett (BAL),5.0,0.0,20.0,15.0,1.0,63.0,3,,ESPN
@@ -918,8 +918,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,13.6,,,,,RB,Chris Johnson (NYJ),2.0,0.0,14.0,12.0,1.0,62.0,3,,ESPN
 ,,,0.0,13.5,,,,,RB,Christopher Ivory (NYJ),0.0,0.0,0.0,11.0,1.0,75.0,3,,ESPN
 ,,,0.0,13.4,,,,,RB,Zac Stacy (STL),1.0,0.0,8.0,15.0,1.0,66.0,3,,ESPN
-,,,0.0,13.2,,,,,RB,Khiry Robinson (NO),3.0,0.0,19.0,15.0,1.0,53.0,3,,ESPN
 ,,,0.0,13.2,,,,,RB,Alfred Blue (HOU),2.0,0.0,12.0,15.0,1.0,60.0,3,,ESPN
+,,,0.0,13.2,,,,,RB,Khiry Robinson (NO),3.0,0.0,19.0,15.0,1.0,53.0,3,,ESPN
 ,,,0.0,12.8,,,,,RB,Alfred Morris (WAS),0.0,0.0,0.0,18.0,1.0,68.0,3,,ESPN
 ,,,0.0,12.6,,,,,RB,Trent Richardson (IND),1.0,0.0,10.0,15.0,1.0,56.0,3,,ESPN
 ,,,0.0,12.2,,,,,RB,Frank Gore (SF),2.0,0.0,12.0,14.0,1.0,50.0,3,,ESPN
@@ -929,8 +929,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,8.9,,,,,RB,Matt Forte (CHI),5.0,0.0,39.0,16.0,0.0,50.0,3,,ESPN
 ,,,0.0,8.5,,,,,RB,Darren Sproles (PHI),3.0,0.0,33.0,8.0,0.0,52.0,3,,ESPN
 ,,,0.0,8.1,,,,,RB,Pierre Thomas (NO),5.0,0.0,41.0,9.0,0.0,40.0,3,,ESPN
-,,,0.0,7.6,,,,,RB,Shane Vereen (NE),5.0,0.0,32.0,7.0,0.0,44.0,3,,ESPN
 ,,,0.0,7.6,,,,,RB,Fred Jackson (BUF),3.0,0.0,24.0,10.0,0.0,52.0,3,,ESPN
+,,,0.0,7.6,,,,,RB,Shane Vereen (NE),5.0,0.0,32.0,7.0,0.0,44.0,3,,ESPN
 ,,,0.0,7.0,,,,,RB,Terrance West (CLE),1.0,0.0,11.0,15.0,0.0,59.0,3,,ESPN
 ,,,0.0,6.6,,,,,RB,Donald Brown (SD),2.0,0.0,5.0,17.0,0.0,61.0,3,,ESPN
 ,,,0.0,6.6,,,,,RB,Reggie Bush (DET),4.0,0.0,30.0,9.0,0.0,36.0,3,,ESPN
@@ -941,8 +941,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,5.2,,,,,RB,Toby Gerhart (JAC),2.0,0.0,12.0,15.0,0.0,40.0,3,,ESPN
 ,,,0.0,5.1,,,,,RB,Jonathan Stewart (CAR),1.0,0.0,6.0,12.0,0.0,45.0,3,,ESPN
 ,,,0.0,5.0,,,,,RB,Steven Jackson (ATL),2.0,0.0,9.0,11.0,0.0,41.0,3,,ESPN
-,,,0.0,4.5,,,,,RB,DeAngelo Williams (CAR),1.0,0.0,8.0,8.0,0.0,37.0,3,,ESPN
 ,,,0.0,4.5,,,,,RB,Roy Helu (WAS),3.0,0.0,22.0,5.0,0.0,23.0,3,,ESPN
+,,,0.0,4.5,,,,,RB,DeAngelo Williams (CAR),1.0,0.0,8.0,8.0,0.0,37.0,3,,ESPN
 ,,,0.0,3.5,,,,,RB,Stepfan Taylor (ARI),2.0,0.0,12.0,6.0,0.0,23.0,3,,ESPN
 ,,,0.0,3.4,,,,,RB,C.J. Anderson (DEN),1.0,0.0,8.0,5.0,0.0,26.0,3,,ESPN
 ,,,0.0,3.2,,,,,RB,Robert Turbin (SEA),1.0,0.0,15.0,5.0,0.0,17.0,3,,ESPN
@@ -955,26 +955,26 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,2.6,,,,,RB,Mike Tolbert (CAR),1.0,0.0,8.0,4.0,0.0,18.0,3,,ESPN
 ,,,0.0,2.6,,,,,RB,Damien Williams (MIA),0.0,0.0,0.0,6.0,0.0,26.0,3,,ESPN
 ,,,0.0,2.5,,,,,RB,Devonta Freeman (ATL),2.0,0.0,18.0,1.0,0.0,7.0,3,,ESPN
+,,,0.0,2.1,,,,,RB,Lance Dunbar (DAL),1.0,0.0,7.0,4.0,0.0,14.0,3,,ESPN
 ,,,0.0,2.1,,,,,RB,Andre Williams (NYG),1.0,0.0,3.0,6.0,0.0,18.0,3,,ESPN
 ,,,0.0,2.1,,,,,RB,Latavius Murray (OAK),1.0,0.0,6.0,4.0,0.0,15.0,3,,ESPN
-,,,0.0,2.1,,,,,RB,Lance Dunbar (DAL),1.0,0.0,7.0,4.0,0.0,14.0,3,,ESPN
 ,,,0.0,2.0,,,,,RB,James Starks (GB),0.0,0.0,0.0,4.0,0.0,20.0,3,,ESPN
-,,,0.0,1.9,,,,,RB,Jacquizz Rodgers (ATL),0.0,0.0,0.0,5.0,0.0,19.0,3,,ESPN
 ,,,0.0,1.9,,,,,RB,Silas Redd (WAS),0.0,0.0,0.0,4.0,0.0,19.0,3,,ESPN
+,,,0.0,1.9,,,,,RB,Jacquizz Rodgers (ATL),0.0,0.0,0.0,5.0,0.0,19.0,3,,ESPN
 ,,,0.0,1.7,,,,,RB,Darrel Young (WAS),2.0,0.0,17.0,0.0,0.0,0.0,3,,ESPN
 ,,,0.0,1.4,,,,,RB,Jordan Todman (JAC),1.0,0.0,3.0,3.0,0.0,11.0,3,,ESPN
 ,,,0.0,1.3,,,,,RB,Bishop Sankey (TEN),0.0,0.0,0.0,4.0,0.0,13.0,3,,ESPN
 ,,,0.0,1.1,,,,,RB,Brandon Bolden (NE),0.0,0.0,0.0,3.0,0.0,11.0,3,,ESPN
-,,,0.0,1.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,3.0,0.0,10.0,3,,ESPN
 ,,,0.0,1.0,,,,,RB,Fitzgerald Toussaint (BAL),0.0,0.0,0.0,3.0,0.0,10.0,3,,ESPN
+,,,0.0,1.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,3.0,0.0,10.0,3,,ESPN
 ,,,0.0,0.3,,,,,RB,John Kuhn (GB),0.0,0.0,0.0,1.0,0.0,3.0,3,,ESPN
-,,,0.0,0.0,,,,,RB,Leon Washington (TEN),0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
 ,,,0.0,0.0,,,,,RB,Michael Robinson,0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
 ,,,0.0,0.0,,,,,RB,Maurice Jones-Drew (OAK),0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
-,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
-,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
+,,,0.0,0.0,,,,,RB,Leon Washington (TEN),0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
 ,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
+,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
 ,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
+,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,3,,ESPN
 ,,,0.0,19.3,,,,,RB,Le'Veon Bell (PIT),4.0,1.0,49.0,19.0,0.0,84.0,4,,ESPN
 ,,,0.0,18.4,,,,,RB,Matt Forte (CHI),5.0,0.0,41.0,20.0,1.0,83.0,4,,ESPN
 ,,,0.0,17.9,,,,,RB,DeMarco Murray (DAL),3.0,0.0,23.0,19.0,1.0,96.0,4,,ESPN
@@ -1055,8 +1055,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,12.0,,,,,RB,Steven Jackson (ATL),2.0,0.0,15.0,11.0,1.0,45.0,5,,ESPN
 ,,,0.0,11.9,,,,,RB,Ben Tate (MIN),0.0,0.0,0.0,13.0,1.0,59.0,5,,ESPN
 ,,,0.0,11.2,,,,,RB,Lorenzo Taliaferro (BAL),0.0,0.0,0.0,11.0,1.0,52.0,5,,ESPN
-,,,0.0,10.9,,,,,RB,Darrin Reaves (CAR),2.0,0.0,8.0,9.0,1.0,41.0,5,,ESPN
 ,,,0.0,10.9,,,,,RB,Matt Forte (CHI),5.0,0.0,32.0,14.0,0.0,77.0,5,,ESPN
+,,,0.0,10.9,,,,,RB,Darrin Reaves (CAR),2.0,0.0,8.0,9.0,1.0,41.0,5,,ESPN
 ,,,0.0,10.7,,,,,RB,Shonn Greene (TEN),0.0,0.0,0.0,9.0,1.0,47.0,5,,ESPN
 ,,,0.0,10.4,,,,,RB,Isaiah Crowell (CLE),0.0,0.0,0.0,10.0,1.0,44.0,5,,ESPN
 ,,,0.0,10.3,,,,,RB,Andre Williams (NYG),0.0,0.0,0.0,12.0,1.0,43.0,5,,ESPN
@@ -1076,8 +1076,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,5.2,,,,,RB,Shane Vereen (NE),4.0,0.0,21.0,6.0,0.0,31.0,5,,ESPN
 ,,,0.0,4.8,,,,,RB,Chris Johnson (NYJ),2.0,0.0,10.0,8.0,0.0,38.0,5,,ESPN
 ,,,0.0,4.1,,,,,RB,Knile Davis (KC),2.0,0.0,8.0,7.0,0.0,33.0,5,,ESPN
-,,,0.0,4.1,,,,,RB,LeGarrette Blount (NE),0.0,0.0,0.0,6.0,0.0,41.0,5,,ESPN
 ,,,0.0,4.1,,,,,RB,Donald Brown (SD),3.0,0.0,20.0,13.0,0.0,21.0,5,,ESPN
+,,,0.0,4.1,,,,,RB,LeGarrette Blount (NE),0.0,0.0,0.0,6.0,0.0,41.0,5,,ESPN
 ,,,0.0,3.8,,,,,RB,Alfred Blue (HOU),1.0,0.0,7.0,7.0,0.0,31.0,5,,ESPN
 ,,,0.0,3.7,,,,,RB,Fozzy Whittaker (CAR),1.0,0.0,8.0,7.0,0.0,29.0,5,,ESPN
 ,,,0.0,3.4,,,,,RB,Bobby Rainey (TB),1.0,0.0,9.0,6.0,0.0,25.0,5,,ESPN
@@ -1086,10 +1086,10 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,3.0,,,,,RB,Terrance West (CLE),1.0,0.0,3.0,8.0,0.0,27.0,5,,ESPN
 ,,,0.0,2.9,,,,,RB,Carlos Hyde (SF),0.0,0.0,0.0,6.0,0.0,29.0,5,,ESPN
 ,,,0.0,2.6,,,,,RB,Jacquizz Rodgers (ATL),1.0,0.0,10.0,4.0,0.0,16.0,5,,ESPN
+,,,0.0,2.5,,,,,RB,Robert Turbin (SEA),1.0,0.0,13.0,3.0,0.0,12.0,5,,ESPN
 ,,,0.0,2.5,,,,,RB,Branden Oliver (SD),1.0,0.0,9.0,8.0,0.0,16.0,5,,ESPN
 ,,,0.0,2.5,,,,,RB,Devonta Freeman (ATL),2.0,0.0,15.0,3.0,0.0,10.0,5,,ESPN
 ,,,0.0,2.5,,,,,RB,Kyle Juszczyk (BAL),2.0,0.0,25.0,0.0,0.0,0.0,5,,ESPN
-,,,0.0,2.5,,,,,RB,Robert Turbin (SEA),1.0,0.0,13.0,3.0,0.0,12.0,5,,ESPN
 ,,,0.0,2.3,,,,,RB,Ka'Deem Carey (CHI),0.0,0.0,0.0,4.0,0.0,23.0,5,,ESPN
 ,,,0.0,2.1,,,,,RB,George Winn (DET),0.0,0.0,0.0,8.0,0.0,21.0,5,,ESPN
 ,,,0.0,2.1,,,,,RB,James Starks (GB),0.0,0.0,0.0,4.0,0.0,21.0,5,,ESPN
@@ -1099,16 +1099,16 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,1.4,,,,,RB,Trey Watts (STL),0.0,0.0,0.0,3.0,0.0,14.0,5,,ESPN
 ,,,0.0,1.3,,,,,RB,Chris Ogbonnaya (NYG),0.0,0.0,0.0,4.0,0.0,13.0,5,,ESPN
 ,,,0.0,1.2,,,,,RB,Bernard Pierce (BAL),0.0,0.0,0.0,3.0,0.0,12.0,5,,ESPN
-,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
-,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
 ,,,0.0,0.0,,,,,RB,Montell Owens (CHI),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
-,,,0.0,0.0,,,,,RB,Leon Washington (TEN),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
 ,,,0.0,0.0,,,,,RB,Michael Robinson,0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
-,,,0.0,0.0,,,,,RB,DeAngelo Williams (CAR),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
+,,,0.0,0.0,,,,,RB,Leon Washington (TEN),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
 ,,,0.0,0.0,,,,,RB,John Kuhn (GB),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
+,,,0.0,0.0,,,,,RB,DeAngelo Williams (CAR),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
+,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
 ,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
-,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
+,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
 ,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
+,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,5,,ESPN
 ,,,0.0,20.7,,,,,RB,Le'Veon Bell (PIT),5.0,0.0,48.0,19.0,1.0,99.0,6,,ESPN
 ,,,0.0,19.3,,,,,RB,Matt Forte (CHI),6.0,0.0,50.0,20.0,1.0,83.0,6,,ESPN
 ,,,0.0,18.6,,,,,RB,Giovani Bernard (CIN),5.0,1.0,52.0,17.0,0.0,74.0,6,,ESPN
@@ -1465,9 +1465,9 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,15.2,,,,,RB,Eddie Lacy (GB),3.0,1.0,36.0,15.0,0.0,56.0,11,,ESPN
 ,,,0.0,15.2,,,,,RB,Jamaal Charles (KC),4.0,0.0,24.0,17.0,1.0,68.0,11,,ESPN
 ,,,0.0,15.1,,,,,RB,LeSean McCoy (PHI),3.0,0.0,13.0,20.0,1.0,78.0,11,,ESPN
-,,,0.0,14.4,,,,,RB,Rashad Jennings (NYG),3.0,0.0,23.0,16.0,1.0,61.0,11,,ESPN
-,,,0.0,14.4,,,,,RB,Frank Gore (SF),1.0,0.0,8.0,17.0,1.0,76.0,11,,ESPN
 ,,,0.0,14.4,,,,,RB,C.J. Anderson (DEN),2.0,0.0,17.0,15.0,1.0,67.0,11,,ESPN
+,,,0.0,14.4,,,,,RB,Frank Gore (SF),1.0,0.0,8.0,17.0,1.0,76.0,11,,ESPN
+,,,0.0,14.4,,,,,RB,Rashad Jennings (NYG),3.0,0.0,23.0,16.0,1.0,61.0,11,,ESPN
 ,,,0.0,14.1,,,,,RB,Shane Vereen (NE),4.0,1.0,31.0,11.0,0.0,50.0,11,,ESPN
 ,,,0.0,13.3,,,,,RB,Alfred Morris (WAS),1.0,0.0,8.0,19.0,1.0,65.0,11,,ESPN
 ,,,0.0,12.9,,,,,RB,Bishop Sankey (TEN),2.0,0.0,15.0,12.0,1.0,54.0,11,,ESPN
@@ -1483,12 +1483,12 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,6.3,,,,,RB,Joique Bell (DET),3.0,0.0,28.0,14.0,0.0,35.0,11,,ESPN
 ,,,0.0,6.2,,,,,RB,Trent Richardson (IND),2.0,0.0,17.0,12.0,0.0,45.0,11,,ESPN
 ,,,0.0,6.1,,,,,RB,Darren McFadden (OAK),3.0,0.0,20.0,11.0,0.0,41.0,11,,ESPN
-,,,0.0,5.7,,,,,RB,Roy Helu (WAS),3.0,0.0,31.0,6.0,0.0,26.0,11,,ESPN
 ,,,0.0,5.7,,,,,RB,Theo Riddick (DET),6.0,0.0,47.0,5.0,0.0,10.0,11,,ESPN
+,,,0.0,5.7,,,,,RB,Roy Helu (WAS),3.0,0.0,31.0,6.0,0.0,26.0,11,,ESPN
 ,,,0.0,5.6,,,,,RB,Branden Oliver (SD),2.0,0.0,15.0,12.0,0.0,41.0,11,,ESPN
 ,,,0.0,5.4,,,,,RB,Bryce Brown (BUF),2.0,0.0,17.0,10.0,0.0,37.0,11,,ESPN
-,,,0.0,4.8,,,,,RB,Lamar Miller (MIA),3.0,0.0,14.0,7.0,0.0,34.0,11,,ESPN
 ,,,0.0,4.8,,,,,RB,Anthony Dixon (BUF),1.0,0.0,3.0,12.0,0.0,45.0,11,,ESPN
+,,,0.0,4.8,,,,,RB,Lamar Miller (MIA),3.0,0.0,14.0,7.0,0.0,34.0,11,,ESPN
 ,,,0.0,4.6,,,,,RB,Damien Williams (MIA),1.0,0.0,7.0,12.0,0.0,39.0,11,,ESPN
 ,,,0.0,4.6,,,,,RB,Ben Tate (MIN),1.0,0.0,7.0,12.0,0.0,39.0,11,,ESPN
 ,,,0.0,4.2,,,,,RB,Devonta Freeman (ATL),3.0,0.0,20.0,4.0,0.0,22.0,11,,ESPN
@@ -1506,8 +1506,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,2.8,,,,,RB,Robert Turbin (SEA),1.0,0.0,12.0,3.0,0.0,16.0,11,,ESPN
 ,,,0.0,2.8,,,,,RB,James Starks (GB),1.0,0.0,4.0,6.0,0.0,24.0,11,,ESPN
 ,,,0.0,2.8,,,,,RB,Dexter McCluster (TEN),2.0,0.0,16.0,2.0,0.0,12.0,11,,ESPN
-,,,0.0,2.5,,,,,RB,Jacquizz Rodgers (ATL),2.0,0.0,10.0,2.0,0.0,15.0,11,,ESPN
 ,,,0.0,2.5,,,,,RB,Jonas Gray (NE),0.0,0.0,0.0,6.0,0.0,25.0,11,,ESPN
+,,,0.0,2.5,,,,,RB,Jacquizz Rodgers (ATL),2.0,0.0,10.0,2.0,0.0,15.0,11,,ESPN
 ,,,0.0,2.4,,,,,RB,Daniel Thomas (MIA),1.0,0.0,10.0,4.0,0.0,14.0,11,,ESPN
 ,,,0.0,2.3,,,,,RB,Ka'Deem Carey (CHI),1.0,0.0,7.0,3.0,0.0,16.0,11,,ESPN
 ,,,0.0,2.0,,,,,RB,Shonn Greene (TEN),0.0,0.0,0.0,5.0,0.0,20.0,11,,ESPN
@@ -1516,16 +1516,16 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,1.2,,,,,RB,Daniel Herron (IND),0.0,0.0,0.0,3.0,0.0,12.0,11,,ESPN
 ,,,0.0,1.1,,,,,RB,Christine Michael (SEA),0.0,0.0,0.0,2.0,0.0,11.0,11,,ESPN
 ,,,0.0,0.6,,,,,RB,John Kuhn (GB),0.0,0.0,0.0,2.0,0.0,6.0,11,,ESPN
-,,,0.0,0.0,,,,,RB,Reggie Bush (DET),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
-,,,0.0,0.0,,,,,RB,Montell Owens (CHI),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
-,,,0.0,0.0,,,,,RB,Michael Robinson,0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
-,,,0.0,0.0,,,,,RB,Leon Washington (TEN),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
-,,,0.0,0.0,,,,,RB,Fred Jackson (BUF),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
-,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
 ,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
-,,,0.0,0.0,,,,,RB,Adrian Peterson (MIN),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
-,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
 ,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
+,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
+,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
+,,,0.0,0.0,,,,,RB,Adrian Peterson (MIN),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
+,,,0.0,0.0,,,,,RB,Fred Jackson (BUF),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
+,,,0.0,0.0,,,,,RB,Montell Owens (CHI),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
+,,,0.0,0.0,,,,,RB,Leon Washington (TEN),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
+,,,0.0,0.0,,,,,RB,Michael Robinson,0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
+,,,0.0,0.0,,,,,RB,Reggie Bush (DET),0.0,0.0,0.0,0.0,0.0,0.0,11,,ESPN
 ,,,0.0,23.9,,,,,RB,Jamaal Charles (KC),2.0,0.0,15.0,25.0,2.0,104.0,12,,ESPN
 ,,,0.0,23.6,,,,,RB,DeMarco Murray (DAL),3.0,0.0,28.0,27.0,1.0,148.0,12,,ESPN
 ,,,0.0,19.2,,,,,RB,Matt Forte (CHI),7.0,0.0,58.0,20.0,1.0,74.0,12,,ESPN
@@ -1548,16 +1548,16 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,11.0,,,,,RB,Jonas Gray (NE),0.0,0.0,0.0,15.0,1.0,50.0,12,,ESPN
 ,,,0.0,8.3,,,,,RB,Tre Mason (STL),1.0,0.0,4.0,19.0,0.0,79.0,12,,ESPN
 ,,,0.0,7.7,,,,,RB,Bishop Sankey (TEN),1.0,0.0,11.0,15.0,0.0,66.0,12,,ESPN
-,,,0.0,7.6,,,,,RB,Frank Gore (SF),1.0,0.0,12.0,16.0,0.0,64.0,12,,ESPN
 ,,,0.0,7.6,,,,,RB,Giovani Bernard (CIN),5.0,0.0,40.0,9.0,0.0,36.0,12,,ESPN
+,,,0.0,7.6,,,,,RB,Frank Gore (SF),1.0,0.0,12.0,16.0,0.0,64.0,12,,ESPN
 ,,,0.0,7.4,,,,,RB,Joique Bell (DET),1.0,0.0,11.0,17.0,0.0,63.0,12,,ESPN
 ,,,0.0,7.3,,,,,RB,Fred Jackson (BUF),4.0,0.0,31.0,12.0,0.0,42.0,12,,ESPN
 ,,,0.0,6.4,,,,,RB,Jonathan Grimes (HOU),1.0,0.0,6.0,10.0,0.0,58.0,12,,ESPN
 ,,,0.0,6.4,,,,,RB,Charles Sims (TB),3.0,0.0,22.0,12.0,0.0,42.0,12,,ESPN
 ,,,0.0,6.1,,,,,RB,Lamar Miller (MIA),3.0,0.0,13.0,13.0,0.0,48.0,12,,ESPN
 ,,,0.0,5.8,,,,,RB,Pierre Thomas (NO),4.0,0.0,37.0,4.0,0.0,21.0,12,,ESPN
-,,,0.0,5.5,,,,,RB,Darren Sproles (PHI),2.0,0.0,28.0,4.0,0.0,27.0,12,,ESPN
 ,,,0.0,5.5,,,,,RB,Darren McFadden (OAK),2.0,0.0,13.0,10.0,0.0,42.0,12,,ESPN
+,,,0.0,5.5,,,,,RB,Darren Sproles (PHI),2.0,0.0,28.0,4.0,0.0,27.0,12,,ESPN
 ,,,0.0,5.3,,,,,RB,Theo Riddick (DET),5.0,0.0,38.0,6.0,0.0,15.0,12,,ESPN
 ,,,0.0,5.0,,,,,RB,Devonta Freeman (ATL),2.0,0.0,16.0,7.0,0.0,34.0,12,,ESPN
 ,,,0.0,4.6,,,,,RB,Branden Oliver (SD),2.0,0.0,15.0,9.0,0.0,31.0,12,,ESPN
@@ -1571,38 +1571,38 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,3.4,,,,,RB,Chris Johnson (NYJ),2.0,0.0,13.0,6.0,0.0,21.0,12,,ESPN
 ,,,0.0,3.3,,,,,RB,Knile Davis (KC),1.0,0.0,6.0,7.0,0.0,27.0,12,,ESPN
 ,,,0.0,3.2,,,,,RB,Jacquizz Rodgers (ATL),3.0,0.0,15.0,3.0,0.0,17.0,12,,ESPN
-,,,0.0,2.6,,,,,RB,James Starks (GB),1.0,0.0,5.0,6.0,0.0,21.0,12,,ESPN
 ,,,0.0,2.6,,,,,RB,Kyle Juszczyk (BAL),2.0,0.0,26.0,0.0,0.0,0.0,12,,ESPN
+,,,0.0,2.6,,,,,RB,James Starks (GB),1.0,0.0,5.0,6.0,0.0,21.0,12,,ESPN
 ,,,0.0,2.6,,,,,RB,Dexter McCluster (TEN),2.0,0.0,16.0,3.0,0.0,10.0,12,,ESPN
 ,,,0.0,2.5,,,,,RB,Robert Turbin (SEA),1.0,0.0,11.0,3.0,0.0,14.0,12,,ESPN
 ,,,0.0,2.5,,,,,RB,Bernard Pierce (BAL),0.0,0.0,0.0,7.0,0.0,25.0,12,,ESPN
-,,,0.0,2.4,,,,,RB,Daniel Thomas (MIA),2.0,0.0,11.0,4.0,0.0,13.0,12,,ESPN
 ,,,0.0,2.4,,,,,RB,Joseph Randle (DAL),0.0,0.0,0.0,3.0,0.0,24.0,12,,ESPN
+,,,0.0,2.4,,,,,RB,Daniel Thomas (MIA),2.0,0.0,11.0,4.0,0.0,13.0,12,,ESPN
 ,,,0.0,2.3,,,,,RB,Carlos Hyde (SF),0.0,0.0,0.0,6.0,0.0,23.0,12,,ESPN
 ,,,0.0,2.2,,,,,RB,Lance Dunbar (DAL),1.0,0.0,13.0,2.0,0.0,9.0,12,,ESPN
 ,,,0.0,2.2,,,,,RB,Juwan Thompson (DEN),1.0,0.0,2.0,5.0,0.0,20.0,12,,ESPN
 ,,,0.0,2.2,,,,,RB,Andre Williams (NYG),1.0,0.0,7.0,5.0,0.0,15.0,12,,ESPN
-,,,0.0,2.1,,,,,RB,Toby Gerhart (JAC),1.0,0.0,11.0,4.0,0.0,10.0,12,,ESPN
 ,,,0.0,2.1,,,,,RB,Travaris Cadet (NO),2.0,0.0,18.0,1.0,0.0,3.0,12,,ESPN
+,,,0.0,2.1,,,,,RB,Toby Gerhart (JAC),1.0,0.0,11.0,4.0,0.0,10.0,12,,ESPN
 ,,,0.0,2.0,,,,,RB,Bryce Brown (BUF),1.0,0.0,13.0,3.0,0.0,7.0,12,,ESPN
 ,,,0.0,2.0,,,,,RB,Jordan Todman (JAC),2.0,0.0,16.0,1.0,0.0,4.0,12,,ESPN
 ,,,0.0,2.0,,,,,RB,Shonn Greene (TEN),0.0,0.0,0.0,5.0,0.0,20.0,12,,ESPN
 ,,,0.0,1.9,,,,,RB,Chris Polk (PHI),0.0,0.0,0.0,5.0,0.0,19.0,12,,ESPN
 ,,,0.0,1.9,,,,,RB,Lorenzo Taliaferro (BAL),0.0,0.0,6.0,3.0,0.0,13.0,12,,ESPN
 ,,,0.0,1.8,,,,,RB,Stepfan Taylor (ARI),1.0,0.0,6.0,5.0,0.0,12.0,12,,ESPN
-,,,0.0,1.6,,,,,RB,Ka'Deem Carey (CHI),0.0,0.0,0.0,3.0,0.0,16.0,12,,ESPN
 ,,,0.0,1.6,,,,,RB,Anthony Dixon (BUF),0.0,0.0,0.0,6.0,0.0,16.0,12,,ESPN
+,,,0.0,1.6,,,,,RB,Ka'Deem Carey (CHI),0.0,0.0,0.0,3.0,0.0,16.0,12,,ESPN
 ,,,0.0,1.1,,,,,RB,Leon Washington (TEN),1.0,0.0,7.0,1.0,0.0,4.0,12,,ESPN
 ,,,0.0,1.0,,,,,RB,LeGarrette Blount (NE),0.0,0.0,0.0,5.0,0.0,10.0,12,,ESPN
 ,,,0.0,0.9,,,,,RB,John Kuhn (GB),1.0,0.0,4.0,2.0,0.0,5.0,12,,ESPN
 ,,,0.0,0.4,,,,,RB,Maurice Jones-Drew (OAK),0.0,0.0,0.0,2.0,0.0,4.0,12,,ESPN
-,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
-,,,0.0,0.0,,,,,RB,Reggie Bush (DET),0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
 ,,,0.0,0.0,,,,,RB,Michael Robinson,0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
-,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
+,,,0.0,0.0,,,,,RB,Reggie Bush (DET),0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
 ,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
-,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
+,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
 ,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
+,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
+,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,12,,ESPN
 ,,,0.0,21.1,,,,,RB,DeMarco Murray (DAL),3.0,0.0,24.0,25.0,1.0,127.0,13,,ESPN
 ,,,0.0,20.3,,,,,RB,Le'Veon Bell (PIT),5.0,0.0,44.0,19.0,1.0,99.0,13,,ESPN
 ,,,0.0,18.2,,,,,RB,Arian Foster (HOU),2.0,0.0,16.0,22.0,1.0,106.0,13,,ESPN
@@ -1692,8 +1692,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,18.5,,,,,RB,Matt Forte (CHI),7.0,0.0,55.0,16.0,1.0,70.0,14,,ESPN
 ,,,0.0,17.6,,,,,RB,Justin Forsett (BAL),3.0,0.0,15.0,20.0,1.0,101.0,14,,ESPN
 ,,,0.0,17.3,,,,,RB,Eddie Lacy (GB),3.0,0.0,32.0,19.0,1.0,81.0,14,,ESPN
-,,,0.0,16.6,,,,,RB,C.J. Anderson (DEN),3.0,1.0,27.0,19.0,0.0,79.0,14,,ESPN
 ,,,0.0,16.6,,,,,RB,Marshawn Lynch (SEA),3.0,0.0,32.0,19.0,1.0,74.0,14,,ESPN
+,,,0.0,16.6,,,,,RB,C.J. Anderson (DEN),3.0,1.0,27.0,19.0,0.0,79.0,14,,ESPN
 ,,,0.0,15.7,,,,,RB,Giovani Bernard (CIN),4.0,0.0,46.0,12.0,1.0,51.0,14,,ESPN
 ,,,0.0,15.4,,,,,RB,Alfred Morris (WAS),1.0,0.0,9.0,19.0,1.0,85.0,14,,ESPN
 ,,,0.0,15.4,,,,,RB,Jamaal Charles (KC),3.0,0.0,19.0,18.0,1.0,75.0,14,,ESPN
@@ -1702,16 +1702,16 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,14.2,,,,,RB,Lamar Miller (MIA),3.0,0.0,17.0,14.0,1.0,65.0,14,,ESPN
 ,,,0.0,14.1,,,,,RB,LeSean McCoy (PHI),3.0,0.0,14.0,18.0,1.0,67.0,14,,ESPN
 ,,,0.0,13.9,,,,,RB,Isaiah Crowell (CLE),1.0,0.0,10.0,18.0,1.0,69.0,14,,ESPN
-,,,0.0,13.8,,,,,RB,Frank Gore (SF),1.0,0.0,9.0,18.0,1.0,69.0,14,,ESPN
 ,,,0.0,13.8,,,,,RB,Bishop Sankey (TEN),2.0,0.0,18.0,13.0,1.0,60.0,14,,ESPN
-,,,0.0,13.4,,,,,RB,Steven Jackson (ATL),1.0,0.0,6.0,16.0,1.0,68.0,14,,ESPN
+,,,0.0,13.8,,,,,RB,Frank Gore (SF),1.0,0.0,9.0,18.0,1.0,69.0,14,,ESPN
 ,,,0.0,13.4,,,,,RB,Tre Mason (STL),1.0,0.0,10.0,16.0,1.0,64.0,14,,ESPN
+,,,0.0,13.4,,,,,RB,Steven Jackson (ATL),1.0,0.0,6.0,16.0,1.0,68.0,14,,ESPN
 ,,,0.0,12.8,,,,,RB,Joique Bell (DET),1.0,0.0,8.0,17.0,1.0,60.0,14,,ESPN
 ,,,0.0,12.7,,,,,RB,Jonathan Stewart (CAR),2.0,0.0,14.0,12.0,1.0,53.0,14,,ESPN
 ,,,0.0,12.6,,,,,RB,Fred Jackson (BUF),4.0,1.0,29.0,12.0,0.0,37.0,14,,ESPN
 ,,,0.0,11.9,,,,,RB,Daniel Herron (IND),1.0,0.0,5.0,10.0,1.0,54.0,14,,ESPN
-,,,0.0,11.7,,,,,RB,Matt Asiata (MIN),3.0,0.0,21.0,11.0,1.0,36.0,14,,ESPN
 ,,,0.0,11.7,,,,,RB,Christopher Ivory (NYJ),0.0,0.0,0.0,12.0,1.0,57.0,14,,ESPN
+,,,0.0,11.7,,,,,RB,Matt Asiata (MIN),3.0,0.0,21.0,11.0,1.0,36.0,14,,ESPN
 ,,,0.0,11.4,,,,,RB,LeGarrette Blount (NE),0.0,0.0,0.0,12.0,1.0,54.0,14,,ESPN
 ,,,0.0,10.7,,,,,RB,Roy Helu (WAS),3.0,1.0,27.0,4.0,0.0,20.0,14,,ESPN
 ,,,0.0,8.8,,,,,RB,Terrance West (CLE),0.0,0.0,0.0,8.0,1.0,28.0,14,,ESPN
@@ -1732,21 +1732,21 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,3.7,,,,,RB,Latavius Murray (OAK),1.0,0.0,6.0,8.0,0.0,31.0,14,,ESPN
 ,,,0.0,3.4,,,,,RB,Reggie Bush (DET),3.0,0.0,16.0,5.0,0.0,18.0,14,,ESPN
 ,,,0.0,3.4,,,,,RB,Daniel Thomas (MIA),2.0,0.0,14.0,6.0,0.0,20.0,14,,ESPN
-,,,0.0,3.2,,,,,RB,Branden Oliver (SD),2.0,0.0,14.0,5.0,0.0,18.0,14,,ESPN
 ,,,0.0,3.2,,,,,RB,Ben Tate (MIN),1.0,0.0,5.0,7.0,0.0,27.0,14,,ESPN
-,,,0.0,3.1,,,,,RB,Theo Riddick (DET),3.0,0.0,27.0,2.0,0.0,4.0,14,,ESPN
-,,,0.0,3.1,,,,,RB,Carlos Hyde (SF),0.0,0.0,0.0,9.0,0.0,31.0,14,,ESPN
+,,,0.0,3.2,,,,,RB,Branden Oliver (SD),2.0,0.0,14.0,5.0,0.0,18.0,14,,ESPN
 ,,,0.0,3.1,,,,,RB,Robert Turbin (SEA),1.0,0.0,11.0,5.0,0.0,20.0,14,,ESPN
+,,,0.0,3.1,,,,,RB,Carlos Hyde (SF),0.0,0.0,0.0,9.0,0.0,31.0,14,,ESPN
+,,,0.0,3.1,,,,,RB,Theo Riddick (DET),3.0,0.0,27.0,2.0,0.0,4.0,14,,ESPN
 ,,,0.0,2.9,,,,,RB,Alfred Blue (HOU),1.0,0.0,8.0,6.0,0.0,21.0,14,,ESPN
 ,,,0.0,2.7,,,,,RB,Charles Sims (TB),3.0,0.0,17.0,4.0,0.0,10.0,14,,ESPN
-,,,0.0,2.7,,,,,RB,Zac Stacy (STL),1.0,0.0,12.0,4.0,0.0,15.0,14,,ESPN
 ,,,0.0,2.7,,,,,RB,Darren McFadden (OAK),2.0,0.0,10.0,5.0,0.0,17.0,14,,ESPN
+,,,0.0,2.7,,,,,RB,Zac Stacy (STL),1.0,0.0,12.0,4.0,0.0,15.0,14,,ESPN
 ,,,0.0,2.6,,,,,RB,Jonathan Grimes (HOU),1.0,0.0,16.0,3.0,0.0,10.0,14,,ESPN
 ,,,0.0,2.5,,,,,RB,James Starks (GB),1.0,0.0,7.0,5.0,0.0,18.0,14,,ESPN
-,,,0.0,2.4,,,,,RB,Jonas Gray (NE),0.0,0.0,0.0,5.0,0.0,24.0,14,,ESPN
-,,,0.0,2.4,,,,,RB,Joe Banyard (MIN),1.0,0.0,4.0,4.0,0.0,20.0,14,,ESPN
-,,,0.0,2.4,,,,,RB,Jacquizz Rodgers (ATL),2.0,0.0,11.0,3.0,0.0,13.0,14,,ESPN
 ,,,0.0,2.4,,,,,RB,Bilal Powell (NYJ),1.0,0.0,10.0,3.0,0.0,14.0,14,,ESPN
+,,,0.0,2.4,,,,,RB,Joe Banyard (MIN),1.0,0.0,4.0,4.0,0.0,20.0,14,,ESPN
+,,,0.0,2.4,,,,,RB,Jonas Gray (NE),0.0,0.0,0.0,5.0,0.0,24.0,14,,ESPN
+,,,0.0,2.4,,,,,RB,Jacquizz Rodgers (ATL),2.0,0.0,11.0,3.0,0.0,13.0,14,,ESPN
 ,,,0.0,2.4,,,,,RB,Toby Gerhart (JAC),1.0,0.0,10.0,6.0,0.0,14.0,14,,ESPN
 ,,,0.0,2.3,,,,,RB,Benny Cunningham (STL),2.0,0.0,15.0,2.0,0.0,8.0,14,,ESPN
 ,,,0.0,2.1,,,,,RB,Bernard Pierce (BAL),0.0,0.0,0.0,6.0,0.0,21.0,14,,ESPN
@@ -1756,20 +1756,20 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,1.9,,,,,RB,MarQueis Gray (BUF),2.0,0.0,19.0,0.0,0.0,0.0,14,,ESPN
 ,,,0.0,1.9,,,,,RB,Travaris Cadet (NO),2.0,0.0,13.0,1.0,0.0,6.0,14,,ESPN
 ,,,0.0,1.8,,,,,RB,Jordan Todman (JAC),2.0,0.0,14.0,1.0,0.0,4.0,14,,ESPN
-,,,0.0,1.7,,,,,RB,Fozzy Whittaker (CAR),0.0,0.0,0.0,4.0,0.0,17.0,14,,ESPN
 ,,,0.0,1.7,,,,,RB,Chris Polk (PHI),0.0,0.0,0.0,5.0,0.0,17.0,14,,ESPN
+,,,0.0,1.7,,,,,RB,Fozzy Whittaker (CAR),0.0,0.0,0.0,4.0,0.0,17.0,14,,ESPN
 ,,,0.0,1.6,,,,,RB,Joseph Randle (DAL),0.0,0.0,0.0,2.0,0.0,16.0,14,,ESPN
 ,,,0.0,1.5,,,,,RB,Marcel Reece (OAK),2.0,0.0,11.0,1.0,0.0,4.0,14,,ESPN
 ,,,0.0,1.5,,,,,RB,Knile Davis (KC),0.0,0.0,0.0,4.0,0.0,15.0,14,,ESPN
 ,,,0.0,1.3,,,,,RB,Ka'Deem Carey (CHI),0.0,0.0,0.0,3.0,0.0,13.0,14,,ESPN
 ,,,0.0,1.0,,,,,RB,Christine Michael (SEA),0.0,0.0,0.0,2.0,0.0,10.0,14,,ESPN
-,,,0.0,0.0,,,,,RB,DeAngelo Williams (CAR),0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
 ,,,0.0,0.0,,,,,RB,John Kuhn (GB),0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
-,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
-,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
-,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
 ,,,0.0,0.0,,,,,RB,Greg Jones (NO),0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
+,,,0.0,0.0,,,,,RB,DeAngelo Williams (CAR),0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
+,,,0.0,0.0,,,,,RB,Brandon Jacobs,0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
 ,,,0.0,0.0,,,,,RB,Willis McGahee,0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
+,,,0.0,0.0,,,,,RB,Vonta Leach,0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
+,,,0.0,0.0,,,,,RB,Ronnie Brown (SD),0.0,0.0,0.0,0.0,0.0,0.0,14,,ESPN
 ,,,0.0,24.0,,,,,RB,Le'Veon Bell (PIT),6.0,0.0,59.0,25.0,1.0,121.0,15,,ESPN
 ,,,0.0,23.4,,,,,RB,Jamaal Charles (KC),2.0,0.0,13.0,21.0,2.0,101.0,15,,ESPN
 ,,,0.0,20.6,,,,,RB,DeMarco Murray (DAL),4.0,0.0,32.0,27.0,1.0,114.0,15,,ESPN
@@ -2153,10 +2153,10 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,15.7,,,,,WR,Antonio Brown (PIT),7.0,1.0,93.0,1.0,0.0,4.0,4,,ESPN
 ,,,0.0,15.3,,,,,WR,Dez Bryant (DAL),8.0,1.0,93.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,14.3,,,,,WR,Pierre Garcon (WAS),8.0,1.0,83.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,14.1,,,,,WR,Jeremy Maclin (PHI),4.0,1.0,81.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,14.1,,,,,WR,Mike Wallace (MIA),6.0,1.0,72.0,1.0,0.0,9.0,4,,ESPN
-,,,0.0,14.0,,,,,WR,Steve Smith (BAL),7.0,1.0,80.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,14.1,,,,,WR,Jeremy Maclin (PHI),4.0,1.0,81.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,14.0,,,,,WR,Andre Johnson (HOU),8.0,1.0,80.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,14.0,,,,,WR,Steve Smith (BAL),7.0,1.0,80.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,13.9,,,,,WR,Kelvin Benjamin (CAR),5.0,1.0,79.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,13.7,,,,,WR,Marques Colston (NO),4.0,1.0,77.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,13.5,,,,,WR,Michael Crabtree (SF),7.0,1.0,75.0,0.0,0.0,0.0,4,,ESPN
@@ -2178,8 +2178,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,7.1,,,,,WR,DeSean Jackson (WAS),6.0,0.0,71.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,5.8,,,,,WR,Steve Johnson (SF),4.0,0.0,58.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,5.7,,,,,WR,Markus Wheaton (PIT),5.0,0.0,57.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,5.3,,,,,WR,Sammy Watkins (BUF),4.0,0.0,53.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,5.3,,,,,WR,Anquan Boldin (SF),5.0,0.0,53.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,5.3,,,,,WR,Sammy Watkins (BUF),4.0,0.0,53.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,5.1,,,,,WR,Kendall Wright (TEN),5.0,0.0,51.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,4.7,,,,,WR,Eric Decker (NYJ),3.0,0.0,47.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,4.6,,,,,WR,Allen Hurns (JAC),3.0,0.0,46.0,0.0,0.0,0.0,4,,ESPN
@@ -2195,40 +2195,40 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,3.5,,,,,WR,Dexter McCluster (TEN),2.0,0.0,22.0,3.0,0.0,13.0,4,,ESPN
 ,,,0.0,3.4,,,,,WR,Philly Brown (CAR),3.0,0.0,34.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,3.4,,,,,WR,Brian Hartline (MIA),4.0,0.0,34.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,3.3,,,,,WR,Andre Holmes (OAK),3.0,0.0,33.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,3.3,,,,,WR,Rueben Randle (NYG),4.0,0.0,33.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,3.3,,,,,WR,Andre Holmes (OAK),3.0,0.0,33.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,3.2,,,,,WR,Robert Woods (BUF),3.0,0.0,32.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,2.8,,,,,WR,Donnie Avery (KC),3.0,0.0,28.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,2.6,,,,,WR,David Nelson (NYJ),2.0,0.0,26.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,2.6,,,,,WR,Kenny Stills (NO),3.0,0.0,26.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,2.6,,,,,WR,David Nelson (NYJ),2.0,0.0,26.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,2.4,,,,,WR,Hakeem Nicks (IND),3.0,0.0,24.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,2.4,,,,,WR,Nate Washington (TEN),2.0,0.0,24.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,2.3,,,,,WR,Davante Adams (GB),3.0,0.0,23.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,2.3,,,,,WR,Cole Beasley (DAL),2.0,0.0,23.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,2.3,,,,,WR,Jarius Wright (MIN),2.0,0.0,23.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,2.2,,,,,WR,Riley Cooper (PHI),3.0,0.0,22.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,2.2,,,,,WR,Kenbrell Thompkins (OAK),2.0,0.0,22.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,2.2,,,,,WR,Santonio Holmes (CHI),2.0,0.0,22.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,2.3,,,,,WR,Davante Adams (GB),3.0,0.0,23.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,2.2,,,,,WR,Damaris Johnson (HOU),2.0,0.0,22.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,2.2,,,,,WR,Riley Cooper (PHI),3.0,0.0,22.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,2.2,,,,,WR,Santonio Holmes (CHI),2.0,0.0,22.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,2.2,,,,,WR,Kenbrell Thompkins (OAK),2.0,0.0,22.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,2.0,,,,,WR,Jason Avant (KC),2.0,0.0,20.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.9,,,,,WR,Robert Meachem (NO),1.0,0.0,19.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.8,,,,,WR,Donte Moncrief (IND),2.0,0.0,18.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.8,,,,,WR,Justin Brown (PIT),2.0,0.0,18.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.7,,,,,WR,Jarvis Landry (MIA),2.0,0.0,17.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,1.6,,,,,WR,Brandon LaFell (NE),1.0,0.0,16.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.6,,,,,WR,Jeremy Ross (DET),2.0,0.0,16.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,1.6,,,,,WR,Brandon LaFell (NE),1.0,0.0,16.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.4,,,,,WR,Mike Williams (BUF),2.0,0.0,14.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.4,,,,,WR,Courtney Roby (ATL),1.0,0.0,14.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.3,,,,,WR,Mike Brown (JAC),1.0,0.0,13.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.2,,,,,WR,Lance Moore (PIT),1.0,0.0,12.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.1,,,,,WR,Danny Amendola (NE),1.0,0.0,11.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,1.0,,,,,WR,Jerricho Cotchery (CAR),1.0,0.0,10.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,0.0,,,,,WR,Plaxico Burress,0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,0.0,,,,,WR,Brandon Stokley (BAL),0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,0.0,,,,,WR,Kassim Osgood (SF),0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,0.0,,,,,WR,Kevin Walter,0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,0.0,,,,,WR,Brandon Lloyd (SF),0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,0.0,,,,,WR,Santana Moss (WAS),0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,0.0,,,,,WR,Kevin Walter,0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
-,,,0.0,0.0,,,,,WR,Kassim Osgood (SF),0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,0.0,,,,,WR,Plaxico Burress,0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
+,,,0.0,0.0,,,,,WR,Brandon Stokley (BAL),0.0,0.0,0.0,0.0,0.0,0.0,4,,ESPN
 ,,,0.0,17.2,,,,,WR,Antonio Brown (PIT),8.0,1.0,109.0,1.0,0.0,3.0,5,,ESPN
 ,,,0.0,17.1,,,,,WR,Julio Jones (ATL),7.0,1.0,111.0,0.0,0.0,0.0,5,,ESPN
 ,,,0.0,16.1,,,,,WR,Jordy Nelson (GB),8.0,1.0,101.0,0.0,0.0,0.0,5,,ESPN
@@ -2474,8 +2474,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,4.4,,,,,WR,Jerricho Cotchery (CAR),4.0,0.0,44.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,4.2,,,,,WR,Brandon Tate (CIN),3.0,0.0,38.0,1.0,0.0,4.0,7,,ESPN
 ,,,0.0,4.1,,,,,WR,Brandon LaFell (NE),3.0,0.0,41.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,4.0,,,,,WR,Jeremy Ross (DET),2.0,0.0,40.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,4.0,,,,,WR,Taylor Gabriel (CLE),3.0,0.0,40.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,4.0,,,,,WR,Jeremy Ross (DET),2.0,0.0,40.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.8,,,,,WR,Brian Tyms (NE),3.0,0.0,38.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.7,,,,,WR,Robert Woods (BUF),3.0,0.0,37.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.6,,,,,WR,Junior Hemingway (KC),3.0,0.0,36.0,0.0,0.0,0.0,7,,ESPN
@@ -2483,41 +2483,41 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,3.4,,,,,WR,Corey Fuller (DET),2.0,0.0,34.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.1,,,,,WR,Kenny Britt (STL),2.0,0.0,31.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.1,,,,,WR,Steve Johnson (SF),3.0,0.0,31.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,3.1,,,,,WR,Lance Moore (PIT),2.0,0.0,31.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.1,,,,,WR,Allen Hurns (JAC),2.0,0.0,31.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.1,,,,,WR,Davante Adams (GB),3.0,0.0,31.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,3.1,,,,,WR,Lance Moore (PIT),2.0,0.0,31.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,3.0,,,,,WR,Eddie Royal (SD),2.0,0.0,30.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.0,,,,,WR,Andre Roberts (WAS),3.0,0.0,30.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.0,,,,,WR,Brian Hartline (MIA),3.0,0.0,30.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,3.0,,,,,WR,Eddie Royal (SD),2.0,0.0,30.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,3.0,,,,,WR,Dexter McCluster (TEN),2.0,0.0,17.0,4.0,0.0,13.0,7,,ESPN
 ,,,0.0,2.8,,,,,WR,Brice Butler (OAK),2.0,0.0,28.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,2.8,,,,,WR,Hakeem Nicks (IND),3.0,0.0,28.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.8,,,,,WR,Chris Hogan (BUF),2.0,0.0,28.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,2.8,,,,,WR,Hakeem Nicks (IND),3.0,0.0,28.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.7,,,,,WR,Preston Parker (NYG),2.0,0.0,27.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.5,,,,,WR,Jason Avant (KC),3.0,0.0,25.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,2.4,,,,,WR,Wes Welker (DEN),3.0,0.0,24.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.4,,,,,WR,Kamar Aiken (BAL),2.0,0.0,24.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,2.3,,,,,WR,Kenny Stills (NO),2.0,0.0,23.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,2.4,,,,,WR,Wes Welker (DEN),3.0,0.0,24.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.3,,,,,WR,John Brown (ARI),2.0,0.0,22.0,0.0,0.0,1.0,7,,ESPN
+,,,0.0,2.3,,,,,WR,Kenny Stills (NO),2.0,0.0,23.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.3,,,,,WR,Nate Washington (TEN),2.0,0.0,23.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.2,,,,,WR,Jeremy Kerley (NYJ),3.0,0.0,22.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.2,,,,,WR,Devin Hester (ATL),2.0,0.0,22.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,2.1,,,,,WR,Chris Givens (STL),2.0,0.0,21.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.1,,,,,WR,Marqise Lee (JAC),2.0,0.0,21.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,2.1,,,,,WR,Chris Givens (STL),2.0,0.0,21.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,2.0,,,,,WR,Travis Benjamin (CLE),1.0,0.0,16.0,1.0,0.0,4.0,7,,ESPN
 ,,,0.0,2.0,,,,,WR,Cole Beasley (DAL),2.0,0.0,20.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,2.0,,,,,WR,Brandon Lloyd (SF),2.0,0.0,20.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,2.0,,,,,WR,Travis Benjamin (CLE),1.0,0.0,16.0,1.0,0.0,4.0,7,,ESPN
-,,,0.0,1.7,,,,,WR,Damaris Johnson (HOU),1.0,0.0,17.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,1.7,,,,,WR,Philly Brown (CAR),1.0,0.0,10.0,1.0,0.0,7.0,7,,ESPN
+,,,0.0,1.7,,,,,WR,Damaris Johnson (HOU),1.0,0.0,17.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,1.6,,,,,WR,Justin Brown (PIT),2.0,0.0,16.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,1.5,,,,,WR,Robert Meachem (NO),1.0,0.0,15.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,1.2,,,,,WR,Jacoby Jones (BAL),1.0,0.0,12.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,1.1,,,,,WR,Jarrett Boykin (GB),1.0,0.0,11.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,1.1,,,,,WR,Brenton Bersin (CAR),1.0,0.0,11.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,1.1,,,,,WR,Jarrett Boykin (GB),1.0,0.0,11.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,1.0,,,,,WR,Charles Johnson (MIN),1.0,0.0,10.0,0.0,0.0,0.0,7,,ESPN
+,,,0.0,0.0,,,,,WR,Santana Moss (WAS),0.0,0.0,0.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,0.0,,,,,WR,Plaxico Burress,0.0,0.0,0.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,0.0,,,,,WR,Brandon Stokley (BAL),0.0,0.0,0.0,0.0,0.0,0.0,7,,ESPN
-,,,0.0,0.0,,,,,WR,Santana Moss (WAS),0.0,0.0,0.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,0.0,,,,,WR,Nate Burleson (CLE),0.0,0.0,0.0,0.0,0.0,0.0,7,,ESPN
 ,,,0.0,16.7,,,,,WR,Golden Tate (DET),7.0,1.0,107.0,0.0,0.0,0.0,8,,ESPN
 ,,,0.0,16.4,,,,,WR,Jordy Nelson (GB),7.0,1.0,104.0,0.0,0.0,0.0,8,,ESPN
@@ -3004,11 +3004,11 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,14.3,,,,,WR,Josh Gordon (CLE),6.0,1.0,83.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,13.8,,,,,WR,Marques Colston (NO),5.0,1.0,78.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,13.7,,,,,WR,Michael Floyd (ARI),4.0,1.0,77.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,13.6,,,,,WR,Calvin Johnson (DET),5.0,1.0,76.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,13.6,,,,,WR,Mike Evans (TB),5.0,1.0,76.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,13.6,,,,,WR,Calvin Johnson (DET),5.0,1.0,76.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,13.5,,,,,WR,Reggie Wayne (IND),6.0,1.0,75.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,13.2,,,,,WR,Steve Smith (BAL),5.0,1.0,72.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,13.2,,,,,WR,Kelvin Benjamin (CAR),6.0,1.0,72.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,13.2,,,,,WR,Steve Smith (BAL),5.0,1.0,72.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,13.0,,,,,WR,DeAndre Hopkins (HOU),5.0,1.0,70.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,12.9,,,,,WR,Alshon Jeffery (CHI),6.0,1.0,69.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,12.8,,,,,WR,Anquan Boldin (SF),6.0,1.0,68.0,0.0,0.0,0.0,13,,ESPN
@@ -3048,50 +3048,50 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,4.1,,,,,WR,Jermaine Kearse (SEA),3.0,0.0,41.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,4.1,,,,,WR,Pierre Garcon (WAS),4.0,0.0,41.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,4.0,,,,,WR,Robert Woods (BUF),4.0,0.0,40.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,4.0,,,,,WR,Eddie Royal (SD),3.0,0.0,40.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,4.0,,,,,WR,Nate Washington (TEN),3.0,0.0,40.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,4.0,,,,,WR,Doug Baldwin (SEA),4.0,0.0,40.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,4.0,,,,,WR,Louis Murphy (TB),5.0,0.0,40.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,4.0,,,,,WR,Eddie Royal (SD),3.0,0.0,40.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,4.0,,,,,WR,Nate Washington (TEN),3.0,0.0,40.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.9,,,,,WR,Brian Hartline (MIA),4.0,0.0,39.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.8,,,,,WR,Markus Wheaton (PIT),3.0,0.0,38.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.6,,,,,WR,Steve Johnson (SF),3.0,0.0,36.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.5,,,,,WR,Devin Hester (ATL),3.0,0.0,35.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,3.3,,,,,WR,Chris Hogan (BUF),3.0,0.0,33.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.3,,,,,WR,Preston Parker (NYG),3.0,0.0,33.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.3,,,,,WR,Riley Cooper (PHI),3.0,0.0,33.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,3.3,,,,,WR,Chris Hogan (BUF),3.0,0.0,33.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,3.2,,,,,WR,Greg Jennings (MIN),3.0,0.0,32.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,3.2,,,,,WR,Andre Roberts (WAS),3.0,0.0,32.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.2,,,,,WR,Jeremy Kerley (NYJ),4.0,0.0,32.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,3.2,,,,,WR,Andre Roberts (WAS),3.0,0.0,32.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,3.2,,,,,WR,Greg Jennings (MIN),3.0,0.0,32.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.1,,,,,WR,Cordarrelle Patterson (MIN),2.0,0.0,23.0,1.0,0.0,8.0,13,,ESPN
-,,,0.0,3.1,,,,,WR,Marqise Lee (JAC),2.0,0.0,31.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.1,,,,,WR,Tavon Austin (STL),2.0,0.0,17.0,3.0,0.0,14.0,13,,ESPN
+,,,0.0,3.1,,,,,WR,Marqise Lee (JAC),2.0,0.0,31.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,3.0,,,,,WR,Jaron Brown (ARI),2.0,0.0,30.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,2.9,,,,,WR,Cole Beasley (DAL),2.0,0.0,29.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,2.5,,,,,WR,Donte Moncrief (IND),2.0,0.0,25.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,2.3,,,,,WR,Dexter McCluster (TEN),2.0,0.0,14.0,3.0,0.0,9.0,13,,ESPN
-,,,0.0,2.2,,,,,WR,Harry Douglas (ATL),2.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,2.2,,,,,WR,Damaris Johnson (HOU),2.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,2.2,,,,,WR,Taylor Gabriel (CLE),2.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,2.2,,,,,WR,Jeremy Ross (DET),2.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,2.2,,,,,WR,Wes Welker (DEN),3.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,2.2,,,,,WR,Brice Butler (OAK),2.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,2.1,,,,,WR,Brandon Gibson (MIA),3.0,0.0,21.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,2.2,,,,,WR,Damaris Johnson (HOU),2.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,2.2,,,,,WR,Jeremy Ross (DET),2.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,2.2,,,,,WR,Harry Douglas (ATL),2.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,2.2,,,,,WR,Wes Welker (DEN),3.0,0.0,22.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,2.1,,,,,WR,Davante Adams (GB),2.0,0.0,21.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,2.1,,,,,WR,Kamar Aiken (BAL),2.0,0.0,21.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,2.1,,,,,WR,Brandon Gibson (MIA),3.0,0.0,21.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.8,,,,,WR,Vincent Brown (OAK),2.0,0.0,18.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.7,,,,,WR,Corey Fuller (DET),1.0,0.0,17.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.4,,,,,WR,Jason Avant (KC),2.0,0.0,14.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.4,,,,,WR,Marquess Wilson (CHI),2.0,0.0,14.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,1.3,,,,,WR,James Wright (CIN),1.0,0.0,13.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.3,,,,,WR,Jarius Wright (MIN),1.0,0.0,13.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.3,,,,,WR,Ricardo Lockette (SEA),1.0,0.0,13.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.3,,,,,WR,Lance Moore (PIT),1.0,0.0,13.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,1.3,,,,,WR,James Wright (CIN),1.0,0.0,13.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.2,,,,,WR,Philly Brown (CAR),1.0,0.0,12.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,1.0,,,,,WR,Hakeem Nicks (IND),1.0,0.0,10.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,0.0,,,,,WR,Nate Burleson (CLE),0.0,0.0,0.0,0.0,0.0,0.0,13,,ESPN
+,,,0.0,0.0,,,,,WR,Santana Moss (WAS),0.0,0.0,0.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,0.0,,,,,WR,Plaxico Burress,0.0,0.0,0.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,0.0,,,,,WR,Brandon Stokley (BAL),0.0,0.0,0.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,0.0,,,,,WR,Santana Moss (WAS),0.0,0.0,0.0,0.0,0.0,0.0,13,,ESPN
-,,,0.0,0.0,,,,,WR,Nate Burleson (CLE),0.0,0.0,0.0,0.0,0.0,0.0,13,,ESPN
 ,,,0.0,16.3,,,,,WR,Jordy Nelson (GB),6.0,1.0,103.0,0.0,0.0,0.0,14,,ESPN
 ,,,0.0,16.1,,,,,WR,Ty Hilton (IND),7.0,1.0,91.0,1.0,0.0,10.0,14,,ESPN
 ,,,0.0,15.7,,,,,WR,Demaryius Thomas (DEN),8.0,1.0,97.0,0.0,0.0,0.0,14,,ESPN
@@ -3438,9 +3438,9 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,2.5,,,,,TE,John Carlson (ARI),2.0,0.0,25.0,,,,3,,ESPN
 ,,,0.0,2.4,,,,,TE,Ladarius Green (SD),2.0,0.0,24.0,,,,3,,ESPN
 ,,,0.0,2.2,,,,,TE,Gary Barnidge (CLE),2.0,0.0,22.0,,,,3,,ESPN
-,,,0.0,2.1,,,,,TE,Taylor Thompson (TEN),2.0,0.0,21.0,,,,3,,ESPN
 ,,,0.0,2.1,,,,,TE,Owen Daniels (BAL),3.0,0.0,21.0,,,,3,,ESPN
 ,,,0.0,2.1,,,,,TE,Levine Toilolo (ATL),3.0,0.0,21.0,,,,3,,ESPN
+,,,0.0,2.1,,,,,TE,Taylor Thompson (TEN),2.0,0.0,21.0,,,,3,,ESPN
 ,,,0.0,1.7,,,,,TE,Andrew Quarless (GB),2.0,0.0,17.0,,,,3,,ESPN
 ,,,0.0,1.6,,,,,TE,Scott Chandler (BUF),1.0,0.0,16.0,,,,3,,ESPN
 ,,,0.0,1.5,,,,,TE,Lance Kendricks (STL),2.0,0.0,15.0,,,,3,,ESPN
@@ -3448,13 +3448,13 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,1.3,,,,,TE,Rhett Ellison (MIN),1.0,0.0,13.0,,,,3,,ESPN
 ,,,0.0,1.2,,,,,TE,Jim Dray (CLE),1.0,0.0,12.0,,,,3,,ESPN
 ,,,0.0,1.0,,,,,TE,Brent Celek (PHI),2.0,0.0,10.0,,,,3,,ESPN
-,,,0.0,0.0,,,,,TE,Billy Bajema,0.0,0.0,0.0,,,,3,,ESPN
-,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,3,,ESPN
-,,,0.0,0.0,,,,,TE,Ben Hartsock,0.0,0.0,0.0,,,,3,,ESPN
-,,,0.0,0.0,,,,,TE,Benjamin Watson (NO),0.0,0.0,0.0,,,,3,,ESPN
 ,,,0.0,0.0,,,,,TE,Kellen Winslow,0.0,0.0,0.0,,,,3,,ESPN
-,,,0.0,0.0,,,,,TE,Visanthe Shiancoe,0.0,0.0,0.0,,,,3,,ESPN
+,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,3,,ESPN
 ,,,0.0,0.0,,,,,TE,Dallas Clark,0.0,0.0,0.0,,,,3,,ESPN
+,,,0.0,0.0,,,,,TE,Billy Bajema,0.0,0.0,0.0,,,,3,,ESPN
+,,,0.0,0.0,,,,,TE,Benjamin Watson (NO),0.0,0.0,0.0,,,,3,,ESPN
+,,,0.0,0.0,,,,,TE,Ben Hartsock,0.0,0.0,0.0,,,,3,,ESPN
+,,,0.0,0.0,,,,,TE,Visanthe Shiancoe,0.0,0.0,0.0,,,,3,,ESPN
 ,,,0.0,0.0,,,,,TE,Tony Gonzalez,0.0,0.0,0.0,,,,3,,ESPN
 ,,,0.0,15.2,,,,,TE,Jimmy Graham (NO),9.0,1.0,92.0,,,,4,,ESPN
 ,,,0.0,13.2,,,,,TE,Delanie Walker (TEN),5.0,1.0,72.0,,,,4,,ESPN
@@ -3753,20 +3753,20 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,11.6,,,,,TE,Jason Witten (DAL),5.0,1.0,56.0,,,,10,,ESPN
 ,,,0.0,11.2,,,,,TE,Jared Cook (STL),4.0,1.0,52.0,,,,10,,ESPN
 ,,,0.0,11.0,,,,,TE,Larry Donnell (NYG),5.0,1.0,50.0,,,,10,,ESPN
-,,,0.0,10.3,,,,,TE,Heath Miller (PIT),4.0,1.0,43.0,,,,10,,ESPN
 ,,,0.0,10.3,,,,,TE,Julius Thomas (DEN),4.0,1.0,43.0,,,,10,,ESPN
+,,,0.0,10.3,,,,,TE,Heath Miller (PIT),4.0,1.0,43.0,,,,10,,ESPN
 ,,,0.0,9.7,,,,,TE,Mychal Rivera (OAK),5.0,1.0,37.0,,,,10,,ESPN
 ,,,0.0,9.2,,,,,TE,Scott Chandler (BUF),4.0,1.0,32.0,,,,10,,ESPN
 ,,,0.0,8.6,,,,,TE,Richard Rodgers (GB),2.0,1.0,26.0,,,,10,,ESPN
 ,,,0.0,6.1,,,,,TE,Delanie Walker (TEN),5.0,0.0,61.0,,,,10,,ESPN
 ,,,0.0,5.3,,,,,TE,Travis Kelce (KC),5.0,0.0,53.0,,,,10,,ESPN
-,,,0.0,5.1,,,,,TE,Owen Daniels (BAL),5.0,0.0,51.0,,,,10,,ESPN
 ,,,0.0,5.1,,,,,TE,Martellus Bennett (CHI),5.0,0.0,51.0,,,,10,,ESPN
+,,,0.0,5.1,,,,,TE,Owen Daniels (BAL),5.0,0.0,51.0,,,,10,,ESPN
 ,,,0.0,4.2,,,,,TE,Zach Ertz (PHI),3.0,0.0,42.0,,,,10,,ESPN
 ,,,0.0,3.1,,,,,TE,Charles Clay (MIA),4.0,0.0,31.0,,,,10,,ESPN
 ,,,0.0,3.1,,,,,TE,Clay Harbor (JAC),3.0,0.0,31.0,,,,10,,ESPN
-,,,0.0,3.0,,,,,TE,Gary Barnidge (CLE),3.0,0.0,30.0,,,,10,,ESPN
 ,,,0.0,3.0,,,,,TE,Levine Toilolo (ATL),3.0,0.0,30.0,,,,10,,ESPN
+,,,0.0,3.0,,,,,TE,Gary Barnidge (CLE),3.0,0.0,30.0,,,,10,,ESPN
 ,,,0.0,2.9,,,,,TE,Austin Seferian-Jenkins (TB),2.0,0.0,29.0,,,,10,,ESPN
 ,,,0.0,2.9,,,,,TE,Jim Dray (CLE),2.0,0.0,29.0,,,,10,,ESPN
 ,,,0.0,2.8,,,,,TE,Vernon Davis (SF),2.0,0.0,28.0,,,,10,,ESPN
@@ -3774,31 +3774,31 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,2.3,,,,,TE,Jermaine Gresham (CIN),3.0,0.0,23.0,,,,10,,ESPN
 ,,,0.0,2.0,,,,,TE,John Carlson (ARI),2.0,0.0,20.0,,,,10,,ESPN
 ,,,0.0,1.9,,,,,TE,Daniel Fells (NYG),2.0,0.0,19.0,,,,10,,ESPN
-,,,0.0,1.8,,,,,TE,Jace Amaro (NYJ),2.0,0.0,18.0,,,,10,,ESPN
 ,,,0.0,1.8,,,,,TE,Brandon Myers (TB),2.0,0.0,18.0,,,,10,,ESPN
+,,,0.0,1.8,,,,,TE,Jace Amaro (NYJ),2.0,0.0,18.0,,,,10,,ESPN
 ,,,0.0,1.7,,,,,TE,Anthony Fasano (KC),2.0,0.0,17.0,,,,10,,ESPN
 ,,,0.0,1.5,,,,,TE,Josh Hill (NO),1.0,0.0,15.0,,,,10,,ESPN
 ,,,0.0,1.2,,,,,TE,Brent Celek (PHI),2.0,0.0,12.0,,,,10,,ESPN
 ,,,0.0,1.2,,,,,TE,Derek Carrier (SF),1.0,0.0,12.0,,,,10,,ESPN
-,,,0.0,1.1,,,,,TE,Luke Willson (SEA),1.0,0.0,11.0,,,,10,,ESPN
 ,,,0.0,1.1,,,,,TE,Brandon Pettigrew (DET),1.0,0.0,11.0,,,,10,,ESPN
+,,,0.0,1.1,,,,,TE,Luke Willson (SEA),1.0,0.0,11.0,,,,10,,ESPN
 ,,,0.0,1.0,,,,,TE,Jeff Cumberland (NYJ),1.0,0.0,10.0,,,,10,,ESPN
-,,,0.0,0.0,,,,,TE,Marcedes Lewis (JAC),0.0,0.0,0.0,,,,10,,ESPN
-,,,0.0,0.0,,,,,TE,Kellen Winslow,0.0,0.0,0.0,,,,10,,ESPN
-,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,10,,ESPN
-,,,0.0,0.0,,,,,TE,Dallas Clark,0.0,0.0,0.0,,,,10,,ESPN
-,,,0.0,0.0,,,,,TE,Billy Bajema,0.0,0.0,0.0,,,,10,,ESPN
-,,,0.0,0.0,,,,,TE,Benjamin Watson (NO),0.0,0.0,0.0,,,,10,,ESPN
-,,,0.0,0.0,,,,,TE,Ben Hartsock,0.0,0.0,0.0,,,,10,,ESPN
-,,,0.0,0.0,,,,,TE,Visanthe Shiancoe,0.0,0.0,0.0,,,,10,,ESPN
 ,,,0.0,0.0,,,,,TE,Tony Scheffler,0.0,0.0,0.0,,,,10,,ESPN
+,,,0.0,0.0,,,,,TE,Marcedes Lewis (JAC),0.0,0.0,0.0,,,,10,,ESPN
+,,,0.0,0.0,,,,,TE,Billy Bajema,0.0,0.0,0.0,,,,10,,ESPN
+,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,10,,ESPN
+,,,0.0,0.0,,,,,TE,Ben Hartsock,0.0,0.0,0.0,,,,10,,ESPN
+,,,0.0,0.0,,,,,TE,Benjamin Watson (NO),0.0,0.0,0.0,,,,10,,ESPN
+,,,0.0,0.0,,,,,TE,Kellen Winslow,0.0,0.0,0.0,,,,10,,ESPN
+,,,0.0,0.0,,,,,TE,Visanthe Shiancoe,0.0,0.0,0.0,,,,10,,ESPN
+,,,0.0,0.0,,,,,TE,Dallas Clark,0.0,0.0,0.0,,,,10,,ESPN
 ,,,0.0,0.0,,,,,TE,Tony Gonzalez,0.0,0.0,0.0,,,,10,,ESPN
 ,,,0.0,14.8,,,,,TE,Rob Gronkowski (NE),6.0,1.0,88.0,,,,11,,ESPN
 ,,,0.0,13.4,,,,,TE,Jimmy Graham (NO),7.0,1.0,74.0,,,,11,,ESPN
 ,,,0.0,11.7,,,,,TE,Antonio Gates (SD),5.0,1.0,57.0,,,,11,,ESPN
 ,,,0.0,11.6,,,,,TE,Julius Thomas (DEN),5.0,1.0,56.0,,,,11,,ESPN
-,,,0.0,11.5,,,,,TE,Dwayne Allen (IND),4.0,1.0,55.0,,,,11,,ESPN
 ,,,0.0,11.5,,,,,TE,Jared Cook (STL),5.0,1.0,55.0,,,,11,,ESPN
+,,,0.0,11.5,,,,,TE,Dwayne Allen (IND),4.0,1.0,55.0,,,,11,,ESPN
 ,,,0.0,11.1,,,,,TE,Travis Kelce (KC),5.0,1.0,51.0,,,,11,,ESPN
 ,,,0.0,10.8,,,,,TE,Jordan Reed (WAS),5.0,1.0,48.0,,,,11,,ESPN
 ,,,0.0,10.7,,,,,TE,Martellus Bennett (CHI),5.0,1.0,47.0,,,,11,,ESPN
@@ -3811,16 +3811,16 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,4.1,,,,,TE,Heath Miller (PIT),4.0,0.0,41.0,,,,11,,ESPN
 ,,,0.0,4.0,,,,,TE,Coby Fleener (IND),3.0,0.0,40.0,,,,11,,ESPN
 ,,,0.0,3.6,,,,,TE,Scott Chandler (BUF),4.0,0.0,36.0,,,,11,,ESPN
-,,,0.0,3.4,,,,,TE,Kyle Rudolph (MIN),4.0,0.0,34.0,,,,11,,ESPN
 ,,,0.0,3.4,,,,,TE,Gary Barnidge (CLE),2.0,0.0,34.0,,,,11,,ESPN
+,,,0.0,3.4,,,,,TE,Kyle Rudolph (MIN),4.0,0.0,34.0,,,,11,,ESPN
 ,,,0.0,2.9,,,,,TE,Niles Paul (WAS),2.0,0.0,29.0,,,,11,,ESPN
 ,,,0.0,2.8,,,,,TE,Jim Dray (CLE),2.0,0.0,28.0,,,,11,,ESPN
-,,,0.0,2.3,,,,,TE,Timothy Wright (NE),2.0,0.0,23.0,,,,11,,ESPN
 ,,,0.0,2.3,,,,,TE,Vernon Davis (SF),2.0,0.0,23.0,,,,11,,ESPN
+,,,0.0,2.3,,,,,TE,Timothy Wright (NE),2.0,0.0,23.0,,,,11,,ESPN
 ,,,0.0,2.2,,,,,TE,Andrew Quarless (GB),2.0,0.0,22.0,,,,11,,ESPN
 ,,,0.0,2.1,,,,,TE,John Carlson (ARI),2.0,0.0,21.0,,,,11,,ESPN
-,,,0.0,2.0,,,,,TE,Levine Toilolo (ATL),2.0,0.0,20.0,,,,11,,ESPN
 ,,,0.0,2.0,,,,,TE,Cooper Helfet (SEA),2.0,0.0,20.0,,,,11,,ESPN
+,,,0.0,2.0,,,,,TE,Levine Toilolo (ATL),2.0,0.0,20.0,,,,11,,ESPN
 ,,,0.0,2.0,,,,,TE,Lance Kendricks (STL),3.0,0.0,20.0,,,,11,,ESPN
 ,,,0.0,1.9,,,,,TE,Austin Seferian-Jenkins (TB),2.0,0.0,19.0,,,,11,,ESPN
 ,,,0.0,1.8,,,,,TE,Ladarius Green (SD),1.0,0.0,18.0,,,,11,,ESPN
@@ -3828,21 +3828,21 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,1.3,,,,,TE,Richard Rodgers (GB),1.0,0.0,13.0,,,,11,,ESPN
 ,,,0.0,1.3,,,,,TE,Brandon Myers (TB),2.0,0.0,13.0,,,,11,,ESPN
 ,,,0.0,1.2,,,,,TE,Brent Celek (PHI),2.0,0.0,12.0,,,,11,,ESPN
-,,,0.0,1.1,,,,,TE,Benjamin Watson (NO),2.0,0.0,11.0,,,,11,,ESPN
-,,,0.0,1.1,,,,,TE,Chase Coffman (TEN),1.0,0.0,11.0,,,,11,,ESPN
 ,,,0.0,1.1,,,,,TE,Jacob Tamme (DEN),1.0,0.0,11.0,,,,11,,ESPN
+,,,0.0,1.1,,,,,TE,Chase Coffman (TEN),1.0,0.0,11.0,,,,11,,ESPN
+,,,0.0,1.1,,,,,TE,Benjamin Watson (NO),2.0,0.0,11.0,,,,11,,ESPN
 ,,,0.0,1.0,,,,,TE,Eric Ebron (DET),1.0,0.0,10.0,,,,11,,ESPN
 ,,,0.0,1.0,,,,,TE,Garrett Graham (HOU),1.0,0.0,10.0,,,,11,,ESPN
-,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,11,,ESPN
-,,,0.0,0.0,,,,,TE,Ben Hartsock,0.0,0.0,0.0,,,,11,,ESPN
 ,,,0.0,0.0,,,,,TE,Visanthe Shiancoe,0.0,0.0,0.0,,,,11,,ESPN
 ,,,0.0,0.0,,,,,TE,Tony Gonzalez,0.0,0.0,0.0,,,,11,,ESPN
+,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,11,,ESPN
+,,,0.0,0.0,,,,,TE,Ben Hartsock,0.0,0.0,0.0,,,,11,,ESPN
 ,,,0.0,14.0,,,,,TE,Rob Gronkowski (NE),7.0,1.0,80.0,,,,12,,ESPN
 ,,,0.0,13.2,,,,,TE,Coby Fleener (IND),5.0,1.0,72.0,,,,12,,ESPN
 ,,,0.0,12.2,,,,,TE,Jimmy Graham (NO),6.0,1.0,62.0,,,,12,,ESPN
 ,,,0.0,11.3,,,,,TE,Larry Donnell (NYG),5.0,1.0,53.0,,,,12,,ESPN
-,,,0.0,11.0,,,,,TE,Jason Witten (DAL),4.0,1.0,50.0,,,,12,,ESPN
 ,,,0.0,11.0,,,,,TE,Travis Kelce (KC),5.0,1.0,50.0,,,,12,,ESPN
+,,,0.0,11.0,,,,,TE,Jason Witten (DAL),4.0,1.0,50.0,,,,12,,ESPN
 ,,,0.0,10.1,,,,,TE,Antonio Gates (SD),4.0,1.0,41.0,,,,12,,ESPN
 ,,,0.0,9.9,,,,,TE,Mychal Rivera (OAK),5.0,1.0,39.0,,,,12,,ESPN
 ,,,0.0,9.7,,,,,TE,Dion Sims (MIA),4.0,1.0,37.0,,,,12,,ESPN
@@ -3861,14 +3861,14 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,2.7,,,,,TE,Garrett Graham (HOU),3.0,0.0,27.0,,,,12,,ESPN
 ,,,0.0,2.3,,,,,TE,Luke Willson (SEA),2.0,0.0,23.0,,,,12,,ESPN
 ,,,0.0,2.1,,,,,TE,Eric Ebron (DET),2.0,0.0,21.0,,,,12,,ESPN
-,,,0.0,2.1,,,,,TE,John Carlson (ARI),2.0,0.0,21.0,,,,12,,ESPN
 ,,,0.0,2.1,,,,,TE,Jim Dray (CLE),1.0,0.0,21.0,,,,12,,ESPN
+,,,0.0,2.1,,,,,TE,John Carlson (ARI),2.0,0.0,21.0,,,,12,,ESPN
 ,,,0.0,2.0,,,,,TE,Austin Seferian-Jenkins (TB),2.0,0.0,20.0,,,,12,,ESPN
 ,,,0.0,2.0,,,,,TE,Brent Celek (PHI),2.0,0.0,20.0,,,,12,,ESPN
 ,,,0.0,1.9,,,,,TE,Levine Toilolo (ATL),2.0,0.0,19.0,,,,12,,ESPN
-,,,0.0,1.7,,,,,TE,Vernon Davis (SF),2.0,0.0,17.0,,,,12,,ESPN
 ,,,0.0,1.7,,,,,TE,Gary Barnidge (CLE),1.0,0.0,17.0,,,,12,,ESPN
 ,,,0.0,1.7,,,,,TE,Anthony Fasano (KC),2.0,0.0,17.0,,,,12,,ESPN
+,,,0.0,1.7,,,,,TE,Vernon Davis (SF),2.0,0.0,17.0,,,,12,,ESPN
 ,,,0.0,1.6,,,,,TE,Timothy Wright (NE),2.0,0.0,16.0,,,,12,,ESPN
 ,,,0.0,1.5,,,,,TE,Andrew Quarless (GB),2.0,0.0,15.0,,,,12,,ESPN
 ,,,0.0,1.4,,,,,TE,Lance Kendricks (STL),2.0,0.0,14.0,,,,12,,ESPN
@@ -3878,13 +3878,13 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,1.1,,,,,TE,Clay Harbor (JAC),1.0,0.0,11.0,,,,12,,ESPN
 ,,,0.0,1.0,,,,,TE,Richard Rodgers (GB),1.0,0.0,10.0,,,,12,,ESPN
 ,,,0.0,0.0,,,,,TE,Tony Scheffler,0.0,0.0,0.0,,,,12,,ESPN
-,,,0.0,0.0,,,,,TE,Tony Gonzalez,0.0,0.0,0.0,,,,12,,ESPN
-,,,0.0,0.0,,,,,TE,Kellen Winslow,0.0,0.0,0.0,,,,12,,ESPN
-,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,12,,ESPN
-,,,0.0,0.0,,,,,TE,Dallas Clark,0.0,0.0,0.0,,,,12,,ESPN
 ,,,0.0,0.0,,,,,TE,Billy Bajema,0.0,0.0,0.0,,,,12,,ESPN
+,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,12,,ESPN
 ,,,0.0,0.0,,,,,TE,Benjamin Watson (NO),0.0,0.0,0.0,,,,12,,ESPN
+,,,0.0,0.0,,,,,TE,Kellen Winslow,0.0,0.0,0.0,,,,12,,ESPN
 ,,,0.0,0.0,,,,,TE,Visanthe Shiancoe,0.0,0.0,0.0,,,,12,,ESPN
+,,,0.0,0.0,,,,,TE,Dallas Clark,0.0,0.0,0.0,,,,12,,ESPN
+,,,0.0,0.0,,,,,TE,Tony Gonzalez,0.0,0.0,0.0,,,,12,,ESPN
 ,,,0.0,14.1,,,,,TE,Rob Gronkowski (NE),6.0,1.0,81.0,,,,13,,ESPN
 ,,,0.0,13.7,,,,,TE,Delanie Walker (TEN),5.0,1.0,77.0,,,,13,,ESPN
 ,,,0.0,13.0,,,,,TE,Jimmy Graham (NO),7.0,1.0,70.0,,,,13,,ESPN
@@ -4008,37 +4008,37 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,,,0.0,3.4,,,,,TE,Scott Chandler (BUF),4.0,0.0,34.0,,,,15,,ESPN
 ,,,0.0,3.2,,,,,TE,Marcedes Lewis (JAC),3.0,0.0,32.0,,,,15,,ESPN
 ,,,0.0,3.1,,,,,TE,Brandon Myers (TB),3.0,0.0,31.0,,,,15,,ESPN
-,,,0.0,3.0,,,,,TE,Charles Clay (MIA),3.0,0.0,30.0,,,,15,,ESPN
 ,,,0.0,3.0,,,,,TE,Owen Daniels (BAL),3.0,0.0,30.0,,,,15,,ESPN
+,,,0.0,3.0,,,,,TE,Charles Clay (MIA),3.0,0.0,30.0,,,,15,,ESPN
 ,,,0.0,2.6,,,,,TE,Eric Ebron (DET),3.0,0.0,26.0,,,,15,,ESPN
 ,,,0.0,2.6,,,,,TE,Niles Paul (WAS),2.0,0.0,26.0,,,,15,,ESPN
 ,,,0.0,2.4,,,,,TE,Vernon Davis (SF),3.0,0.0,24.0,,,,15,,ESPN
 ,,,0.0,2.3,,,,,TE,Mychal Rivera (OAK),3.0,0.0,23.0,,,,15,,ESPN
-,,,0.0,2.2,,,,,TE,Ladarius Green (SD),2.0,0.0,22.0,,,,15,,ESPN
 ,,,0.0,2.2,,,,,TE,John Carlson (ARI),2.0,0.0,22.0,,,,15,,ESPN
-,,,0.0,2.1,,,,,TE,Jeff Cumberland (NYJ),2.0,0.0,21.0,,,,15,,ESPN
+,,,0.0,2.2,,,,,TE,Ladarius Green (SD),2.0,0.0,22.0,,,,15,,ESPN
 ,,,0.0,2.1,,,,,TE,Brent Celek (PHI),2.0,0.0,21.0,,,,15,,ESPN
+,,,0.0,2.1,,,,,TE,Jeff Cumberland (NYJ),2.0,0.0,21.0,,,,15,,ESPN
 ,,,0.0,1.9,,,,,TE,Lance Kendricks (STL),2.0,0.0,19.0,,,,15,,ESPN
 ,,,0.0,1.7,,,,,TE,Levine Toilolo (ATL),2.0,0.0,17.0,,,,15,,ESPN
 ,,,0.0,1.6,,,,,TE,Kyle Rudolph (MIN),2.0,0.0,16.0,,,,15,,ESPN
-,,,0.0,1.4,,,,,TE,Dante Rosario (CHI),1.0,0.0,14.0,,,,15,,ESPN
 ,,,0.0,1.4,,,,,TE,Luke Willson (SEA),1.0,0.0,14.0,,,,15,,ESPN
-,,,0.0,1.4,,,,,TE,Jim Dray (CLE),1.0,0.0,14.0,,,,15,,ESPN
+,,,0.0,1.4,,,,,TE,Dante Rosario (CHI),1.0,0.0,14.0,,,,15,,ESPN
 ,,,0.0,1.4,,,,,TE,Kevin Brock (CIN),2.0,0.0,14.0,,,,15,,ESPN
-,,,0.0,1.2,,,,,TE,Richard Rodgers (GB),1.0,0.0,12.0,,,,15,,ESPN
-,,,0.0,1.2,,,,,TE,Dion Sims (MIA),1.0,0.0,12.0,,,,15,,ESPN
+,,,0.0,1.4,,,,,TE,Jim Dray (CLE),1.0,0.0,14.0,,,,15,,ESPN
 ,,,0.0,1.2,,,,,TE,Ryan Griffin (HOU),1.0,0.0,12.0,,,,15,,ESPN
+,,,0.0,1.2,,,,,TE,Dion Sims (MIA),1.0,0.0,12.0,,,,15,,ESPN
+,,,0.0,1.2,,,,,TE,Richard Rodgers (GB),1.0,0.0,12.0,,,,15,,ESPN
 ,,,0.0,1.1,,,,,TE,Gavin Escobar (DAL),1.0,0.0,11.0,,,,15,,ESPN
 ,,,0.0,1.0,,,,,TE,Timothy Wright (NE),1.0,0.0,10.0,,,,15,,ESPN
 ,,,0.0,1.0,,,,,TE,Andrew Quarless (GB),1.0,0.0,10.0,,,,15,,ESPN
 ,,,0.0,1.0,,,,,TE,Tony Moeaki (SEA),1.0,0.0,10.0,,,,15,,ESPN
 ,,,0.0,0.7,,,,,TE,Benjamin Watson (NO),1.0,0.0,7.0,,,,15,,ESPN
-,,,0.0,0.0,,,,,TE,Billy Bajema,0.0,0.0,0.0,,,,15,,ESPN
-,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,15,,ESPN
-,,,0.0,0.0,,,,,TE,Ben Hartsock,0.0,0.0,0.0,,,,15,,ESPN
 ,,,0.0,0.0,,,,,TE,Kellen Winslow,0.0,0.0,0.0,,,,15,,ESPN
-,,,0.0,0.0,,,,,TE,Visanthe Shiancoe,0.0,0.0,0.0,,,,15,,ESPN
+,,,0.0,0.0,,,,,TE,Joel Dreessen (DEN),0.0,0.0,0.0,,,,15,,ESPN
 ,,,0.0,0.0,,,,,TE,Dallas Clark,0.0,0.0,0.0,,,,15,,ESPN
+,,,0.0,0.0,,,,,TE,Billy Bajema,0.0,0.0,0.0,,,,15,,ESPN
+,,,0.0,0.0,,,,,TE,Ben Hartsock,0.0,0.0,0.0,,,,15,,ESPN
+,,,0.0,0.0,,,,,TE,Visanthe Shiancoe,0.0,0.0,0.0,,,,15,,ESPN
 ,,,0.0,0.0,,,,,TE,Tony Gonzalez,0.0,0.0,0.0,,,,15,,ESPN
 ,2.2,2.0,,9.4,,,,,K,Phil Dawson (SF),,,,,,,1,3.0,ESPN
 ,2.1,2.0,,9.3,,,,,K,Stephen Gostkowski (NE),,,,,,,1,3.1,ESPN
@@ -4187,8 +4187,8 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,2.0,2.1,,8.9,,,,,K,Cody Parkey (PHI),,,,,,,5,3.0,ESPN
 ,2.1,2.3,,8.8,,,,,K,Robbie Gould (CHI),,,,,,,5,2.4,ESPN
 ,2.1,2.2,,8.6,,,,,K,Justin Tucker (BAL),,,,,,,5,2.4,ESPN
-,1.8,1.9,,8.5,,,,,K,Josh Brown (NYG),,,,,,,5,3.2,ESPN
 ,2.2,2.3,,8.5,,,,,K,Stephen Gostkowski (NE),,,,,,,5,2.0,ESPN
+,1.8,1.9,,8.5,,,,,K,Josh Brown (NYG),,,,,,,5,3.2,ESPN
 ,1.6,1.8,,8.2,,,,,K,Shayne Graham (NO),,,,,,,5,3.2,ESPN
 ,2.0,2.2,,8.0,,,,,K,Graham Gano (CAR),,,,,,,5,2.1,ESPN
 ,2.0,2.2,,7.9,,,,,K,Nick Folk (NYJ),,,,,,,5,1.9,ESPN
@@ -4207,9 +4207,9 @@ CMP,FG,FGA,FL,FPTS,INTS,PASS_ATT,PASS_TD,PASS_YDS,POSITION,Player,REC,REC_TD,REC
 ,1.4,1.7,,6.7,,,,,K,Ryan Succop (TEN),,,,,,,5,2.4,ESPN
 ,1.5,1.7,,6.6,,,,,K,Randy Bullock (HOU),,,,,,,5,2.2,ESPN
 ,1.6,1.7,,6.0,,,,,K,Kai Forbath (WAS),,,,,,,5,1.3,ESPN
-,0.0,0.0,,0.0,,,,,K,Caleb Sturgis (MIA),,,,,,,5,0.0,ESPN
 ,0.0,0.0,,0.0,,,,,K,Sebastian Janikowski (OAK),,,,,,,5,0.0,ESPN
 ,0.0,0.0,,0.0,,,,,K,Matt Prater (DET),,,,,,,5,0.0,ESPN
+,0.0,0.0,,0.0,,,,,K,Caleb Sturgis (MIA),,,,,,,5,0.0,ESPN
 ,2.3,2.4,,9.9,,,,,K,Nick Novak (SD),,,,,,,6,3.0,ESPN
 ,2.4,2.6,,9.8,,,,,K,Phil Dawson (SF),,,,,,,6,2.6,ESPN
 ,2.6,2.7,,9.6,,,,,K,Justin Tucker (BAL),,,,,,,6,2.0,ESPN

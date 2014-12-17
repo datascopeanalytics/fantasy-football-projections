@@ -677,7 +677,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,@Phi,1,0,2014,0,0,Brandon Barden,L 17-34,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,@Pit,1,0,2014,0,0,Josh Cooper,L 27-30,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,@Dal,1,0,2014,0,0,Garrett Celek,W 28-17,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,@Pit,1,0,2014,0,0,Gerell Robinson,L 27-30,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,NE,1,0,2014,0,0,Gerell Robinson,W 33-20,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,@Dal,1,0,2014,0,0,Jewel Hampton,W 28-17,0,SF,RB,0
 0,0,4,0,15226,0,0,0,0,0,0,Min,1,1,2014,0,0,Cory Harkey,L 6-34,0,StL,TE,0
 0,0,0,0,15245,0,0,0,0,0,0,@NYJ,1,0,2014,0,0,Giorgio Tavecchio,L 14-19,0,Oak,K,0
@@ -1670,7 +1670,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,@Wsh,2,0,2014,0,0,Brandon Barden,L 10-41,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,NO,2,0,2014,0,0,Josh Cooper,W 26-24,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,Chi,2,0,2014,0,0,Garrett Celek,L 20-28,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,NO,2,0,2014,0,0,Gerell Robinson,W 26-24,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,@Buf,2,0,2014,0,0,Gerell Robinson,L 10-29,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,Chi,2,0,2014,0,0,Jewel Hampton,L 20-28,0,SF,RB,0
 0,0,8,0,15226,0,0,0,0,0,0,@TB,2,2,2014,0,0,Cory Harkey,W 19-17,0,StL,TE,0
 0,0,0,0,15230,0,0,0,0,0,0,@GB,2,0,2014,0,0,Chris Owusu,L 24-31,0,NYJ,WR,0
@@ -2657,7 +2657,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,Ind,3,0,2014,0,0,Brandon Barden,L 17-44,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,Bal,3,0,2014,0,0,Josh Cooper,L 21-23,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,@Ari,3,0,2014,0,0,Garrett Celek,L 14-23,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,Bal,3,0,2014,0,0,Gerell Robinson,L 21-23,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,KC,3,0,2014,0,0,Gerell Robinson,L 15-34,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,@Ari,3,0,2014,0,0,Jewel Hampton,L 14-23,0,SF,RB,0
 0,0,0,0,15226,0,0,0,0,0,0,Dal,3,0,2014,0,0,Cory Harkey,L 31-34,0,StL,TE,0
 0,0,0,0,15230,0,0,0,0,0,0,Chi,3,0,2014,0,0,Chris Owusu,L 19-27,0,NYJ,WR,0
@@ -4412,7 +4412,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,Pit,5,0,2014,0,0,Brandon Barden,L 9-17,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,@Ten,5,0,2014,0,0,Josh Cooper,W 29-28,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,KC,5,0,2014,0,0,Garrett Celek,W 22-17,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,@Ten,5,0,2014,0,0,Gerell Robinson,W 29-28,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,** BYE **,5,0,2014,0,0,Gerell Robinson,,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,KC,5,0,2014,0,0,Jewel Hampton,W 22-17,0,SF,RB,0
 0,0,0,0,15226,0,0,0,0,0,0,@Phi,5,0,2014,0,0,Cory Harkey,L 28-34,0,StL,TE,0
 0,0,0,0,15230,0,0,0,0,0,0,@SD,5,0,2014,0,0,Chris Owusu,L 0-31,0,NYJ,WR,0
@@ -5345,7 +5345,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,@Ten,6,0,2014,0,0,Brandon Barden,L 14-16,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,Pit,6,0,2014,0,0,Josh Cooper,W 31-10,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,@StL,6,0,2014,0,0,Garrett Celek,W 31-17,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,Pit,6,0,2014,0,0,Gerell Robinson,W 31-10,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,GB,6,0,2014,0,0,Gerell Robinson,L 24-27,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,@StL,6,0,2014,0,0,Jewel Hampton,W 31-17,0,SF,RB,0
 0,0,0,0,15226,0,0,0,0,0,0,SF,6,0,2014,0,0,Cory Harkey,L 17-31,0,StL,TE,0
 0,0,0,0,15230,0,0,0,0,0,0,Den,6,0,2014,0,0,Chris Owusu,L 17-31,0,NYJ,WR,0
@@ -6270,7 +6270,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,Cle,7,0,2014,0,0,Brandon Barden,W 24-6,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,@Jac,7,0,2014,0,0,Josh Cooper,L 6-24,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,@Den,7,0,2014,0,0,Garrett Celek,L 17-42,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,@Jac,7,0,2014,0,0,Gerell Robinson,L 6-24,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,@Chi,7,0,2014,0,0,Gerell Robinson,W 27-14,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,@Den,7,0,2014,0,0,Jewel Hampton,L 17-42,0,SF,RB,0
 0,0,9,0,15226,0,0,0,0,0,0,Sea,7,1,2014,0,0,Cory Harkey,W 28-26,0,StL,TE,0
 0,0,0,0,15230,0,0,0,0,0,0,@NE,7,0,2014,0,0,Chris Owusu,L 25-27,0,NYJ,WR,0
@@ -7200,7 +7200,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15189,0,0,0,0,0,0,SD,8,0,2014,0,0,Nathan Palmer,W 35-21,0,Den,WR,0
 0,0,0,0,15195,0,0,0,0,0,0,Mia,8,0,2014,0,0,Brandon Barden,L 13-27,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,Oak,8,0,2014,0,0,Josh Cooper,W 23-13,0,Cle,WR,0
-0,0,0,0,15214,0,0,0,0,0,0,Oak,8,0,2014,0,0,Gerell Robinson,W 23-13,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,@Jac,8,0,2014,0,0,Gerell Robinson,W 27-13,0,Mia,WR,0
 0,0,0,0,15226,0,0,0,0,0,0,@KC,8,0,2014,0,0,Cory Harkey,L 7-34,0,StL,TE,0
 0,0,7,0,15230,0,0,0,0,0,0,Buf,8,1,2014,0,0,Chris Owusu,L 23-43,0,NYJ,WR,0
 0,0,0,0,15245,0,0,0,0,0,0,@Cle,8,0,2014,0,0,Giorgio Tavecchio,L 13-23,0,Oak,K,0
@@ -8027,7 +8027,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,@Cin,9,0,2014,0,0,Brandon Barden,L 23-33,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,TB,9,0,2014,0,0,Josh Cooper,W 22-17,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,StL,9,0,2014,0,0,Garrett Celek,L 10-13,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,TB,9,0,2014,0,0,Gerell Robinson,W 22-17,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,SD,9,0,2014,0,0,Gerell Robinson,W 37-0,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,StL,9,0,2014,0,0,Jewel Hampton,L 10-13,0,SF,RB,0
 0,0,0,0,15226,0,0,0,0,0,0,@SF,9,0,2014,0,0,Cory Harkey,W 13-10,0,StL,TE,0
 0,0,0,0,15230,0,0,0,0,0,0,@KC,9,0,2014,0,0,Chris Owusu,L 10-24,0,NYJ,WR,0
@@ -8835,7 +8835,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,Dal,10,0,2014,0,0,Brandon Barden,L 17-31,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,@Cin,10,0,2014,0,0,Josh Cooper,W 24-3,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,@NO,10,0,2014,0,0,Garrett Celek,W 27-24,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,@Cin,10,0,2014,0,0,Gerell Robinson,W 24-3,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,@Det,10,0,2014,0,0,Gerell Robinson,L 16-20,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,@NO,10,0,2014,0,0,Jewel Hampton,W 27-24,0,SF,RB,0
 0,0,0,0,15226,0,0,0,0,0,0,@Ari,10,0,2014,0,0,Cory Harkey,L 14-31,0,StL,TE,0
 0,0,0,0,15230,0,0,0,0,0,0,Pit,10,0,2014,0,0,Chris Owusu,W 20-13,0,NYJ,WR,0
@@ -9679,7 +9679,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15189,0,0,0,0,0,0,@StL,11,0,2014,0,0,Nathan Palmer,L 7-22,0,Den,WR,0
 0,0,0,0,15197,0,0,0,0,0,0,Hou,11,0,2014,0,0,Josh Cooper,L 7-23,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,@NYG,11,0,2014,0,0,Garrett Celek,W 16-10,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,Hou,11,0,2014,0,0,Gerell Robinson,L 7-23,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,Buf,11,0,2014,0,0,Gerell Robinson,W 22-9,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,@NYG,11,0,2014,0,0,Jewel Hampton,W 16-10,0,SF,RB,0
 0,0,0,0,15226,0,0,0,0,0,0,Den,11,0,2014,0,0,Cory Harkey,W 22-7,0,StL,TE,0
 0,0,0,0,15245,0,0,0,0,0,0,@SD,11,0,2014,0,0,Giorgio Tavecchio,L 6-13,0,Oak,K,0
@@ -10587,7 +10587,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,@Ind,12,0,2014,0,0,Brandon Barden,L 3-23,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,@Atl,12,0,2014,0,0,Josh Cooper,W 26-24,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,Wsh,12,0,2014,0,0,Garrett Celek,W 17-13,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,@Atl,12,0,2014,0,0,Gerell Robinson,W 26-24,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,@Den,12,0,2014,0,0,Gerell Robinson,L 36-39,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,Wsh,12,0,2014,0,0,Jewel Hampton,W 17-13,0,SF,RB,0
 0,0,0,0,15226,0,0,0,0,0,0,@SD,12,0,2014,0,0,Cory Harkey,L 24-27,0,StL,TE,0
 0,0,0,0,15230,0,0,0,0,0,0,@Buf,12,0,2014,0,0,Chris Owusu,L 3-38,0,NYJ,WR,0
@@ -11557,7 +11557,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15195,0,0,0,0,0,0,NYG,13,0,2014,0,0,Brandon Barden,W 25-24,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,@Buf,13,0,2014,0,0,Josh Cooper,L 10-26,0,Cle,WR,0
 0,0,0,0,15204,0,0,0,0,0,0,Sea,13,0,2014,0,0,Garrett Celek,L 3-19,0,SF,TE,0
-0,0,0,0,15214,0,0,0,0,0,0,@Buf,13,0,2014,0,0,Gerell Robinson,L 10-26,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,@NYJ,13,0,2014,0,0,Gerell Robinson,W 16-13,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,Sea,13,0,2014,0,0,Jewel Hampton,L 3-19,0,SF,RB,0
 0,0,0,0,15230,0,0,0,0,0,0,Mia,13,0,2014,0,0,Chris Owusu,L 13-16,0,NYJ,WR,0
 0,0,0,0,15245,0,0,0,0,0,0,@StL,13,0,2014,0,0,Giorgio Tavecchio,L 0-52,0,Oak,K,0
@@ -12543,7 +12543,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15189,0,0,0,0,0,0,Buf,14,0,2014,0,0,Nathan Palmer,W 24-17,0,Den,WR,0
 0,0,0,0,15195,0,0,0,0,0,0,Hou,14,0,2014,0,0,Brandon Barden,L 13-27,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,Ind,14,0,2014,0,0,Josh Cooper,L 24-25,0,Cle,WR,0
-0,0,0,0,15214,0,0,0,0,0,0,Ind,14,0,2014,0,0,Gerell Robinson,L 24-25,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,Bal,14,0,2014,0,0,Gerell Robinson,L 13-28,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,@Oak,14,0,2014,0,0,Jewel Hampton,L 13-24,0,SF,RB,0
 0,0,7,0,15230,0,0,0,0,0,0,@Min,14,1,2014,0,0,Chris Owusu,L 24-30,0,NYJ,WR,0
 0,0,0,0,15245,0,0,0,0,0,0,SF,14,0,2014,0,0,Giorgio Tavecchio,W 24-13,0,Oak,K,0
@@ -12846,6 +12846,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,60004,0,-9,0,0,0,0,Pit,14,0,2014,0,0,Bengals D/ST,L 21-42,0,D/ST,D/ST,0
 0,0,143,0,16733,0,30,1,0,0,0,Wsh,15,12,2014,0,3,Odell Beckham Jr.,W 24-13,0,NYG,WR,1
 0,0,114,0,13215,0,29,0,0,0,0,@Phi,15,6,2014,0,3,Dez Bryant,W 38-27,0,Dal,WR,0
+0,0,0,36,2580,2,27,0,3,0,29,@Chi,15,0,2014,0,0,Drew Brees,W 31-15,375,NO,QB,3
 0,0,4,0,16803,148,26,0,0,0,0,@Cle,15,1,2014,2,0,Jeremy Hill,W 30-0,0,Cin,RB,25
 0,0,72,0,15825,47,23,0,0,0,0,@Atl,15,5,2014,2,0,Le'Veon Bell,W 27-20,0,Pit,RB,20
 1,0,0,0,60033,0,23,0,0,0,0,Jac,15,0,2014,0,0,Ravens D/ST,W 20-12,0,D/ST,D/ST,0
@@ -12867,6 +12868,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,104,0,12601,0,16,0,0,0,0,@NE,15,5,2014,0,1,Mike Wallace,L 13-41,0,Mia,WR,1
 0,0,11,0,15848,97,16,0,0,0,0,@Buf,15,2,2014,1,0,Eddie Lacy,L 13-21,0,GB,RB,15
 0,0,0,0,17169,0,16,0,0,0,0,@StL,15,0,2014,0,0,Chandler Catanzaro,W 12-6,0,Ari,K,0
+0,0,0,0,60018,0,16,0,0,0,0,@Chi,15,0,2014,0,0,Saints D/ST,W 31-15,0,D/ST,D/ST,0
 0,0,7,0,10456,91,15,0,0,0,0,SF,15,1,2014,1,0,Marshawn Lynch,W 17-7,0,Sea,RB,21
 0,0,96,0,13229,0,15,0,0,0,0,Mia,15,3,2014,0,1,Rob Gronkowski,W 41-13,0,NE,TE,0
 0,0,0,27,14875,46,15,1,1,0,18,@NYG,15,0,2014,0,0,Robert Griffin,L 13-24,236,Wsh,QB,5
@@ -12883,16 +12885,18 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,34,14874,18,14,0,2,1,18,Hou,15,0,2014,0,0,Andrew Luck,W 17-10,187,Ind,QB,8
 0,0,0,0,60006,0,14,0,0,0,0,@Phi,15,0,2014,0,0,Cowboys D/ST,W 38-27,0,D/ST,D/ST,0
 0,0,0,20,1428,-3,13,0,1,0,14,@SD,15,0,2014,0,0,Peyton Manning,W 22-10,233,Den,QB,3
+0,1,0,31,9597,20,13,0,2,3,17,NO,15,0,2014,0,0,Jay Cutler,L 15-31,194,Chi,QB,1
 0,0,131,0,11318,0,13,0,0,0,0,Pit,15,10,2014,0,0,Harry Douglas,L 20-27,0,Atl,WR,0
+0,0,78,0,14912,0,13,0,0,0,0,NO,15,4,2014,0,1,Alshon Jeffery,L 15-31,0,Chi,WR,0
+0,0,15,0,16143,0,13,0,0,0,0,@Chi,15,2,2014,0,2,Josh Hill,W 31-15,0,NO,TE,0
 0,0,0,28,3609,21,12,2,1,1,13,@Car,15,0,2014,1,0,Josh McCown,L 17-19,154,TB,QB,2
 0,0,62,0,9684,0,12,0,0,0,0,Jac,15,4,2014,0,1,Owen Daniels,W 20-12,0,Bal,TE,0
+0,0,65,0,9838,0,12,0,0,0,0,@Chi,15,5,2014,0,1,Marques Colston,W 31-15,0,NO,WR,0
 0,0,0,30,11252,8,12,0,1,0,20,Jac,15,0,2014,0,0,Joe Flacco,W 20-12,221,Bal,QB,4
 0,0,0,0,12731,0,12,0,0,0,0,NYJ,15,0,2014,0,0,Ryan Succop,L 11-16,0,Ten,K,0
 0,0,123,0,13934,0,12,0,0,0,0,@Atl,15,10,2014,0,0,Antonio Brown,W 27-20,0,Pit,WR,0
 0,0,0,0,14889,6,12,0,0,0,0,Dal,15,0,2014,2,0,Chris Polk,L 27-38,0,Phi,RB,2
 0,0,0,28,15864,16,12,0,1,0,16,@Ten,15,0,2014,0,0,Geno Smith,W 16-11,179,NYJ,QB,4
-0,0,0,0,60003,0,12,0,0,0,0,NO,15,0,2014,0,0,Bears D/ST,0-0 10:55 1st,0,D/ST,D/ST,0
-0,0,0,0,60018,0,12,0,0,0,0,@Chi,15,0,2014,0,0,Saints D/ST,0-0 10:55 1st,0,D/ST,D/ST,0
 0,0,0,0,60022,0,12,0,0,0,0,@StL,15,0,2014,0,0,Cardinals D/ST,W 12-6,0,D/ST,D/ST,0
 0,0,0,0,60029,0,12,0,0,0,0,TB,15,0,2014,0,0,Panthers D/ST,W 19-17,0,D/ST,D/ST,0
 0,0,54,0,5362,0,11,0,0,0,0,Den,15,6,2014,0,1,Antonio Gates,L 10-22,0,SD,TE,0
@@ -12900,6 +12904,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,9704,0,11,0,0,0,0,Mia,15,0,2014,0,0,Stephen Gostkowski,W 41-13,0,NE,K,0
 0,0,110,0,10475,0,11,0,0,0,0,TB,15,10,2014,0,0,Greg Olsen,W 19-17,0,Car,TE,0
 0,0,57,0,10522,0,11,0,0,0,0,@KC,15,8,2014,0,1,James Jones,L 13-31,0,Oak,WR,0
+0,0,0,0,13981,59,11,0,0,0,0,@Chi,15,0,2014,1,0,Mark Ingram,W 31-15,0,NO,RB,17
 0,0,0,0,17173,0,11,0,0,0,0,Dal,15,0,2014,0,0,Cody Parkey,L 27-38,0,Phi,K,0
 0,0,0,0,60007,0,11,0,0,0,0,@SD,15,0,2014,0,0,Broncos D/ST,W 22-10,0,D/ST,D/ST,0
 0,0,0,0,60026,0,11,0,0,0,0,SF,15,0,2014,0,0,Seahawks D/ST,W 17-7,0,D/ST,D/ST,0
@@ -12925,6 +12930,8 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,10,24,9667,9,9,0,0,0,10,NYJ,15,0,2014,0,0,Charlie Whitehurst,L 11-16,203,Ten,QB,2
 0,0,93,0,9761,0,9,0,0,0,0,NYJ,15,4,2014,0,0,Delanie Walker,L 11-16,0,Ten,TE,0
 0,0,27,0,10195,71,9,0,0,0,0,GB,15,3,2014,0,0,Fred Jackson,W 21-13,0,Buf,RB,20
+0,0,83,0,10713,11,9,0,0,0,0,@Chi,15,5,2014,0,0,Pierre Thomas,W 31-15,0,NO,RB,2
+0,0,21,0,11278,78,9,0,0,0,0,NO,15,2,2014,0,0,Matt Forte,L 15-31,0,Chi,RB,16
 0,0,98,0,12579,0,9,0,0,0,0,Dal,15,4,2014,0,0,Jeremy Maclin,L 27-38,0,Phi,WR,0
 0,0,38,0,13217,5,9,0,0,0,0,Min,15,7,2014,0,1,Golden Tate,W 16-14,0,Det,WR,2
 0,0,0,19,14001,46,9,0,0,0,11,@Sea,15,0,2014,0,0,Colin Kaepernick,L 7-17,141,SF,QB,9
@@ -12941,6 +12948,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,4333,0,8,0,0,0,0,Pit,15,0,2014,0,0,Matt Bryant,L 20-27,0,Atl,K,0
 0,0,0,0,8479,29,8,0,0,0,0,@Sea,15,0,2014,1,0,Frank Gore,L 7-17,0,SF,RB,11
 0,0,81,0,13226,0,8,0,0,0,0,@NYG,15,2,2014,0,0,Andre Roberts,L 13-24,0,Wsh,WR,0
+0,0,87,0,13232,0,8,0,0,0,0,@Chi,15,5,2014,0,0,Jimmy Graham,W 31-15,0,NO,TE,0
 0,0,1,0,13587,25,8,0,0,0,0,@Ten,15,1,2014,1,0,Chris Ivory,W 16-11,0,NYJ,RB,12
 0,0,74,0,15822,13,8,0,0,0,0,Ari,15,5,2014,0,0,Stedman Bailey,L 6-12,0,StL,WR,1
 0,0,0,0,15918,0,8,0,0,0,0,@NE,15,0,2014,0,0,Caleb Sturgis,L 13-41,0,Mia,K,0
@@ -12959,11 +12967,13 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,77,0,15795,0,7,0,0,0,0,@Ind,15,5,2014,0,0,DeAndre Hopkins,L 10-17,0,Hou,WR,0
 0,0,72,0,15885,0,7,0,0,0,0,@Det,15,5,2014,0,0,Charles Johnson,L 14-16,0,Min,WR,0
 0,0,0,0,15971,14,7,0,0,0,0,@Cle,15,0,2014,1,0,Rex Burkhead,W 30-0,0,Cin,RB,3
+0,0,16,0,16023,0,7,0,0,0,0,NO,15,3,2014,0,1,Marquess Wilson,L 15-31,0,Chi,WR,0
 0,0,13,0,16737,0,7,0,0,0,0,@Car,15,2,2014,0,1,Mike Evans,L 17-19,0,TB,WR,0
 0,0,45,0,16749,34,7,0,0,0,0,@Car,15,3,2014,0,0,Charles Sims,L 17-19,0,TB,RB,7
 1,0,5,0,16945,14,7,0,0,0,0,Oak,15,1,2014,0,0,De'Anthony Thomas,W 31-13,0,KC,RB,2
 0,0,70,0,17163,0,7,0,0,0,0,@Bal,15,6,2014,0,0,Allen Hurns,L 12-20,0,Jac,WR,0
 0,0,0,0,60009,0,7,0,0,0,0,@Buf,15,0,2014,0,0,Packers D/ST,L 13-21,0,D/ST,D/ST,0
+0,0,0,0,3504,0,6,0,0,0,0,@Chi,15,0,2014,0,0,Shayne Graham,W 31-15,0,NO,K,0
 0,0,69,0,4527,0,6,0,0,0,0,@Phi,15,7,2014,0,0,Jason Witten,W 38-27,0,Dal,TE,0
 0,0,0,0,4680,0,6,0,0,0,0,Wsh,15,0,2014,0,0,Josh Brown,W 24-13,0,NYG,K,0
 0,0,68,0,8444,0,6,0,0,0,0,@Atl,15,4,2014,0,0,Heath Miller,W 27-20,0,Pit,TE,0
@@ -12985,6 +12995,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,66,0,15873,0,6,0,0,0,0,@Atl,15,5,2014,0,0,Markus Wheaton,W 27-20,0,Pit,WR,0
 0,0,17,0,15920,59,6,0,0,0,0,@KC,15,2,2014,0,0,Latavius Murray,L 13-31,0,Oak,RB,12
 0,0,0,0,15981,61,6,0,0,0,0,@StL,15,0,2014,0,0,Stepfan Taylor,W 12-6,0,Ari,RB,14
+0,0,67,0,16016,0,6,0,0,0,0,@Chi,15,5,2014,0,0,Kenny Stills,W 31-15,0,NO,WR,0
 0,0,66,0,16581,0,6,0,0,0,0,Jac,15,5,2014,0,0,Marlon Brown,W 20-12,0,Bal,WR,0
 0,0,0,37,16724,2,6,0,0,1,21,@Bal,15,0,2014,0,0,Blake Bortles,L 12-20,210,Jac,QB,1
 0,0,44,0,17143,26,6,0,0,0,0,Den,15,4,2014,0,0,Branden Oliver,L 10-22,0,SD,RB,12
@@ -13002,6 +13013,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,6,0,11247,73,5,1,0,0,0,TB,15,1,2014,0,0,Jonathan Stewart,W 19-17,0,Car,RB,22
 0,0,0,0,11258,55,5,0,0,0,0,@Ten,15,0,2014,0,0,Chris Johnson,W 16-11,0,NYJ,RB,10
 0,0,55,0,11270,0,5,0,0,0,0,@Buf,15,5,2014,0,0,Jordy Nelson,L 13-21,0,GB,WR,0
+0,1,36,0,11295,0,5,0,0,0,0,NO,15,4,2014,0,0,Martellus Bennett,L 15-31,0,Chi,TE,0
 0,0,1,0,11307,52,5,0,0,0,0,Oak,15,1,2014,0,0,Jamaal Charles,W 31-13,0,KC,RB,12
 0,0,0,0,11923,0,5,0,0,0,0,SF,15,0,2014,0,0,Steven Hauschka,W 17-7,0,Sea,K,0
 0,0,9,0,13211,54,5,0,0,0,0,@Bal,15,2,2014,0,0,Toby Gerhart,L 12-20,0,Jac,RB,13
@@ -13044,6 +13056,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,39,0,15923,0,3,0,0,0,0,@KC,15,7,2014,0,0,Mychal Rivera,L 13-31,0,Oak,TE,0
 0,0,37,0,16775,0,3,0,0,0,0,Jac,15,2,2014,0,0,Crockett Gillmore,W 20-12,0,Bal,TE,0
 0,0,31,0,16886,0,3,0,0,0,0,@Atl,15,3,2014,0,0,Martavis Bryant,W 27-20,0,Pit,WR,0
+0,0,39,0,16942,4,3,0,0,0,0,NO,15,3,2014,0,0,Ka'Deem Carey,L 15-31,0,Chi,RB,1
 0,0,34,0,17170,0,3,0,0,0,0,@Cle,15,3,2014,0,0,Ryan Hewitt,W 30-0,0,Cin,TE,0
 0,0,0,0,60005,0,3,0,0,0,0,Cin,15,0,2014,0,0,Browns D/ST,L 0-30,0,D/ST,D/ST,0
 0,0,0,0,60016,0,3,0,0,0,0,@Det,15,0,2014,0,0,Vikings D/ST,L 14-16,0,D/ST,D/ST,0
@@ -13053,6 +13066,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,22,0,9614,0,2,0,0,0,0,@Bal,15,2,2014,0,0,Marcedes Lewis,L 12-20,0,Jac,TE,0
 0,0,22,0,10572,0,2,0,0,0,0,GB,15,2,2014,0,0,Scott Chandler,W 21-13,0,Buf,TE,0
 0,0,27,0,11276,0,2,0,0,0,0,Den,15,3,2014,0,0,Eddie Royal,L 10-22,0,SD,WR,0
+0,0,0,0,11408,21,2,0,0,0,0,NO,15,0,2014,0,0,Josh Morgan,L 15-31,0,Chi,WR,1
 0,0,22,0,12537,0,2,0,0,0,0,Ari,15,3,2014,0,0,Jared Cook,L 6-12,0,StL,TE,0
 0,0,29,0,12567,0,2,0,0,0,0,@NE,15,3,2014,0,0,Brandon Gibson,L 13-41,0,Mia,WR,0
 0,0,25,0,12588,0,2,0,0,0,0,Wsh,15,3,2014,0,0,Kevin Ogletree,W 24-13,0,NYG,WR,0
@@ -13062,6 +13076,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,11,13969,7,2,0,0,0,6,NYJ,15,0,2014,0,0,Jake Locker,L 11-16,57,Ten,QB,2
 0,0,0,24,14012,3,2,0,0,1,14,@Cle,15,0,2014,0,0,Andy Dalton,W 30-0,117,Cin,QB,2
 0,0,20,0,14056,5,2,0,0,0,0,@NE,15,2,2014,0,0,Daniel Thomas,L 13-41,0,Mia,RB,2
+0,0,43,0,14921,0,2,1,0,0,0,@Chi,15,4,2014,0,0,Nick Toon,W 31-15,0,NO,WR,0
 0,0,21,0,15226,0,2,0,0,0,0,Ari,15,1,2014,0,0,Cory Harkey,L 6-12,0,StL,TE,0
 0,0,6,0,15369,22,2,0,0,0,0,@Phi,15,1,2014,0,0,Lance Dunbar,W 38-27,0,Dal,RB,5
 0,0,21,0,15624,0,2,0,0,0,0,@Ind,15,2,2014,0,0,Damaris Johnson,L 10-17,0,Hou,WR,0
@@ -13069,6 +13084,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,23,0,15896,0,2,0,0,0,0,@KC,15,3,2014,0,0,Brice Butler,L 13-31,0,Oak,WR,0
 0,0,23,0,16055,4,2,0,0,0,0,Ari,15,3,2014,0,0,Benjamin Cunningham,L 6-12,0,StL,RB,2
 0,0,23,0,16227,0,2,0,0,0,0,@Car,15,1,2014,0,0,Russell Shepard,L 17-19,0,TB,WR,0
+0,0,10,0,16530,10,2,0,0,0,0,@Chi,15,2,2014,0,0,Khiry Robinson,W 31-15,0,NO,RB,3
 0,0,28,0,16725,0,2,0,0,0,0,GB,15,1,2014,0,0,Sammy Watkins,W 21-13,0,Buf,WR,0
 0,0,44,0,16779,0,2,1,0,0,0,Dal,15,1,2014,0,0,Josh Huff,L 27-38,0,Phi,WR,0
 0,0,0,0,16783,23,2,0,0,0,0,Cin,15,0,2014,0,0,Terrance West,L 0-30,0,Cle,RB,5
@@ -13080,6 +13096,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,10,0,17167,17,2,0,0,0,0,TB,15,1,2014,0,0,Philly Brown,W 19-17,0,Car,WR,1
 0,0,0,0,60030,0,2,0,0,0,0,@Bal,15,0,2014,0,0,Jaguars D/ST,L 12-20,0,D/ST,D/ST,0
 0,0,0,0,1440,0,1,0,0,0,0,@Sea,15,0,2014,0,0,Phil Dawson,L 7-17,0,SF,K,0
+0,0,0,0,2548,0,1,0,0,0,0,NO,15,0,2014,0,0,Jay Feely,L 15-31,0,Chi,K,0
 0,0,18,0,2564,0,1,0,0,0,0,@NYG,15,1,2014,0,0,Santana Moss,L 13-24,0,Wsh,WR,0
 0,0,12,0,4582,0,1,0,0,0,0,@Sea,15,1,2014,0,0,Brandon Lloyd,L 7-17,0,SF,WR,0
 0,0,16,0,5941,0,1,0,0,0,0,@SD,15,2,2014,0,0,Wes Welker,W 22-10,0,Den,WR,0
@@ -13088,7 +13105,6 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,16,0,10287,0,1,0,0,0,0,Wsh,15,1,2014,0,0,Daniel Fells,W 24-13,0,NYG,TE,0
 0,0,0,0,11238,13,1,0,0,0,0,@KC,15,0,2014,0,0,Darren McFadden,L 13-31,0,Oak,RB,2
 0,0,11,0,11272,0,1,0,0,0,0,@StL,15,1,2014,0,0,John Carlson,W 12-6,0,Ari,TE,0
-0,0,0,0,11278,14,1,0,0,0,0,NO,15,0,2014,0,0,Matt Forte,0-0 10:55 1st,0,Chi,RB,4
 0,0,15,0,11283,9,1,0,0,0,0,@NYG,15,3,2014,0,0,DeSean Jackson,L 13-24,0,Wsh,WR,1
 0,0,11,0,11674,0,1,0,0,0,0,Mia,15,1,2014,0,0,Danny Amendola,W 41-13,0,NE,WR,0
 0,0,19,0,12563,0,1,0,0,0,0,@Sea,15,3,2014,0,0,Michael Crabtree,L 7-17,0,SF,WR,0
@@ -13098,7 +13114,6 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,17,0,13225,0,1,0,0,0,0,Dal,15,2,2014,0,0,Riley Cooper,L 27-38,0,Phi,WR,0
 0,0,17,0,13524,0,1,0,0,0,0,Den,15,1,2014,0,0,Seyi Ajirotutu,L 10-22,0,SD,WR,0
 0,0,12,0,13703,0,1,0,0,0,0,Wsh,15,1,2014,0,0,Preston Parker,W 24-13,0,NYG,WR,0
-0,0,0,0,13981,10,1,0,0,0,0,@Chi,15,0,2014,0,0,Mark Ingram,0-0 10:55 1st,0,NO,RB,1
 0,0,10,0,14007,0,1,0,0,0,0,Ari,15,1,2014,0,0,Lance Kendricks,L 6-12,0,StL,TE,0
 0,0,16,0,14027,0,1,0,0,0,0,@KC,15,2,2014,0,0,Vincent Brown,L 13-31,0,Oak,WR,0
 0,0,16,0,14032,0,1,0,0,0,0,Jac,15,2,2014,0,0,Torrey Smith,W 20-12,0,Bal,WR,0
@@ -13139,7 +13154,6 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,2489,0,0,0,0,0,0,@Car,15,0,2014,0,0,Rian Lindell,L 17-19,0,TB,K,0
 0,0,0,0,2549,0,0,0,0,0,0,@Ten,15,0,2014,0,0,Michael Vick,W 16-11,0,NYJ,QB,0
 0,0,24,0,2578,0,0,1,0,0,0,Hou,15,4,2014,0,0,Reggie Wayne,W 17-10,0,Ind,WR,0
-0,0,0,1,2580,0,0,0,0,0,1,@Chi,15,0,2014,0,0,Drew Brees,0-0 10:55 1st,10,NO,QB,0
 0,0,0,0,3636,0,0,0,0,0,0,@Ten,15,0,2014,0,0,David Garrard,W 16-11,0,NYJ,QB,0
 0,0,0,0,4245,0,0,0,0,0,0,Cin,15,0,2014,0,0,Billy Cundiff,L 0-30,0,Cle,K,0
 0,0,0,0,4459,0,0,0,0,0,0,@StL,15,0,2014,0,0,Carson Palmer,W 12-6,0,Ari,QB,0
@@ -13153,8 +13167,11 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,4713,0,0,0,0,0,0,NYJ,15,0,2014,0,0,Kevin Walter,L 11-16,0,Ten,WR,0
 0,0,0,0,5437,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Kassim Osgood,L 7-17,0,SF,WR,0
 0,0,0,0,5531,0,0,0,0,0,0,@Ten,15,0,2014,0,0,Kellen Winslow,W 16-11,0,NYJ,TE,0
+0,0,5,0,5557,0,0,0,0,0,0,@Chi,15,1,2014,0,0,Benjamin Watson,W 31-15,0,NO,TE,0
+0,0,0,0,5580,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Greg Jones,W 31-15,0,NO,RB,0
 0,0,0,0,5593,0,0,0,0,0,0,TB,15,0,2014,0,0,Ben Hartsock,W 19-17,0,Car,TE,0
 0,0,0,0,5615,0,0,0,0,0,0,@KC,15,0,2014,0,0,Matt Schaub,L 13-31,0,Oak,QB,0
+0,0,0,0,5631,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Luke McCown,W 31-15,0,NO,QB,0
 0,0,0,0,6301,0,0,0,0,0,0,Jac,15,0,2014,0,0,Vonta Leach,W 20-12,0,Bal,RB,0
 0,0,0,0,8417,9,0,0,0,0,0,Den,15,0,2014,0,0,Ronnie Brown,L 10-22,0,SD,RB,2
 0,0,0,0,8440,0,0,0,0,0,0,@Cle,15,0,2014,0,0,Jason Campbell,W 30-0,0,Cin,QB,0
@@ -13166,10 +13183,12 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,8644,0,0,0,0,0,0,@Det,15,0,2014,0,0,Matt Cassel,L 14-16,0,Min,QB,0
 0,0,0,0,8663,0,0,0,0,0,0,Jac,15,0,2014,0,0,Billy Bajema,W 20-12,0,Bal,TE,0
 0,0,0,0,9270,0,0,0,0,0,0,Hou,15,0,2014,0,0,Joshua Cribbs,W 17-10,0,Ind,WR,0
+0,0,0,0,9354,0,0,0,0,0,0,NO,15,0,2014,0,0,Robbie Gould,L 15-31,0,Chi,K,0
 0,0,0,0,9400,0,0,0,0,0,0,@Atl,15,0,2014,0,0,Lance Moore,W 27-20,0,Pit,WR,0
 0,0,0,0,9530,0,0,0,0,0,0,@Buf,15,0,2014,0,0,John Kuhn,L 13-21,0,GB,RB,0
 0,0,0,0,9589,0,0,0,0,0,0,@Buf,15,0,2014,0,0,Vince Young,L 13-21,0,GB,QB,0
 0,0,0,0,9592,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Vernon Davis,L 7-17,0,SF,TE,0
+0,0,0,0,9611,0,0,0,0,0,0,NO,15,0,2014,0,0,Santonio Holmes,L 15-31,0,Chi,WR,0
 0,0,0,0,9613,0,0,0,0,0,0,TB,15,0,2014,0,0,DeAngelo Williams,W 19-17,0,Car,RB,0
 0,0,0,0,9635,0,0,0,0,0,0,Den,15,0,2014,0,0,Kellen Clemens,L 10-22,0,SD,QB,0
 0,0,2,0,9639,0,0,0,0,0,0,Oak,15,1,2014,0,0,Anthony Fasano,W 31-13,0,KC,TE,0
@@ -13179,23 +13198,28 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,9668,0,0,0,0,0,0,NYJ,15,0,2014,0,0,Derek Hagan,L 11-16,0,Ten,WR,0
 0,0,0,0,9686,0,0,0,0,0,0,SF,15,0,2014,0,0,Michael Robinson,W 17-7,0,Sea,RB,0
 0,0,0,0,9689,0,0,0,0,0,0,Dal,15,0,2014,0,0,Brad Smith,L 27-38,0,Phi,WR,0
+0,0,0,0,9705,0,0,0,0,0,0,NO,15,0,2014,0,0,Brandon Marshall,L 15-31,0,Chi,WR,0
 0,0,0,0,9716,0,0,0,0,0,0,TB,15,0,2014,0,0,Domenik Hixon,W 19-17,0,Car,WR,0
 0,0,0,0,9741,0,0,0,0,0,0,@StL,15,0,2014,0,0,Jeff King,W 12-6,0,Ari,TE,0
 0,0,0,0,9780,0,0,0,0,0,0,@Atl,15,0,2014,0,0,Bruce Gradkowski,W 27-20,0,Pit,QB,0
 0,0,0,0,9835,0,0,0,0,0,0,@Ten,15,0,2014,0,0,Ben Obomanu,W 16-11,0,NYJ,WR,0
+0,0,0,0,10057,0,0,0,0,0,0,NO,15,0,2014,0,0,Montell Owens,L 15-31,0,Chi,RB,0
 0,0,0,0,10147,0,0,0,0,0,0,Cin,15,0,2014,0,0,Miles Austin,L 0-30,0,Cle,WR,0
+0,0,0,0,10327,0,0,0,0,0,0,NO,15,0,2014,0,0,Micheal Spurlock,L 15-31,0,Chi,WR,0
 0,0,0,0,10452,0,0,0,0,0,0,@Det,15,0,2014,0,0,Adrian Peterson,L 14-16,0,Min,RB,0
 0,0,4,0,10453,3,0,0,0,0,0,@StL,15,1,2014,0,0,Ted Ginn Jr.,W 12-6,0,Ari,WR,1
 0,0,0,0,10466,0,0,0,0,0,0,@NE,15,0,2014,0,0,Brady Quinn,L 13-41,0,Mia,QB,0
+0,0,0,0,10471,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Robert Meachem,W 31-15,0,NO,WR,0
 0,0,0,0,10480,0,0,0,0,0,0,GB,15,0,2014,0,0,Kevin Kolb,W 21-13,0,Buf,QB,0
 0,0,0,0,10482,0,0,0,0,0,0,SF,15,0,2014,0,0,Zach Miller,W 17-7,0,Sea,TE,0
 0,0,0,0,10488,0,0,0,0,0,0,SF,15,0,2014,0,0,Sidney Rice,W 17-7,0,Sea,WR,0
+0,0,0,0,10496,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Brian Leonard,W 31-15,0,NO,RB,0
 0,0,0,0,10517,0,0,0,0,0,0,Jac,15,0,2014,0,0,Jacoby Jones,W 20-12,0,Bal,WR,0
 0,0,0,0,10521,0,0,0,0,0,0,@Atl,15,0,2014,0,0,Matt Spaeth,W 27-20,0,Pit,TE,0
 0,0,0,0,10536,0,0,0,0,0,0,@KC,15,0,2014,0,0,Trent Edwards,L 13-31,0,Oak,QB,0
 0,0,0,0,10544,0,0,0,0,0,0,@StL,15,0,2014,0,0,Michael Bush,W 12-6,0,Ari,RB,0
 0,0,0,0,10580,0,0,0,0,0,0,Den,15,0,2014,0,0,Le'Ron McClain,L 10-22,0,SD,RB,0
-0,0,0,0,10598,0,0,0,0,0,0,NO,15,0,2014,0,0,Dante Rosario,0-0 10:55 1st,0,Chi,TE,0
+0,0,4,0,10598,0,0,0,0,0,0,NO,15,1,2014,0,0,Dante Rosario,L 15-31,0,Chi,TE,0
 0,0,0,0,10648,0,0,0,0,0,0,GB,15,0,2014,0,0,Jordan Palmer,W 21-13,0,Buf,QB,0
 0,0,0,0,10660,0,0,0,0,0,0,Cin,15,0,2014,0,0,Tyler Thigpen,L 0-30,0,Cle,QB,0
 0,0,0,0,10686,0,0,0,0,0,0,@Cle,15,0,2014,0,0,Clark Harris,W 30-0,0,Cin,TE,0
@@ -13211,6 +13235,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,11280,0,0,0,0,0,0,@Det,15,0,2014,0,0,Jerome Simpson,L 14-16,0,Min,WR,0
 0,0,0,0,11282,0,0,0,0,0,0,@NYG,15,0,2014,0,0,Fred Davis,L 13-24,0,Wsh,TE,0
 0,0,0,0,11291,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Chad Henne,L 12-20,0,Jac,QB,0
+0,0,0,0,11304,0,0,0,0,0,0,NO,15,0,2014,0,0,Earl Bennett,L 15-31,0,Chi,WR,0
 0,0,0,0,11319,0,0,0,0,0,0,NYJ,15,0,2014,0,0,Craig Stevens,L 11-16,0,Ten,TE,0
 0,0,0,0,11325,0,0,0,0,0,0,@Buf,15,0,2014,0,0,Jermichael Finley,L 13-21,0,GB,TE,0
 0,0,0,0,11329,0,0,0,0,0,0,Wsh,15,0,2014,0,0,Mario Manningham,W 24-13,0,NYG,WR,0
@@ -13224,7 +13249,6 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,11390,0,0,0,0,0,0,@StL,15,0,2014,0,0,Dennis Dixon,W 12-6,0,Ari,QB,0
 0,0,0,0,11392,0,0,0,0,0,0,Min,15,0,2014,0,0,Kellen Davis,W 16-14,0,Det,TE,0
 0,0,0,0,11394,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Josh Johnson,L 7-17,0,SF,QB,0
-0,0,0,0,11408,0,0,0,0,0,0,NO,15,0,2014,0,0,Josh Morgan,0-0 10:55 1st,0,Chi,WR,0
 0,0,0,0,11410,0,0,0,0,0,0,@StL,15,0,2014,0,0,Jalen Parmele,W 12-6,0,Ari,RB,0
 0,0,0,0,11417,0,0,0,0,0,0,@Car,15,0,2014,0,0,Spencer Larsen,L 17-19,0,TB,RB,0
 0,0,0,0,11438,0,0,0,0,0,0,@Ten,15,0,2014,0,0,Lex Hilliard,W 16-11,0,NYJ,RB,0
@@ -13240,6 +13264,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,11717,0,0,0,0,0,0,@KC,15,0,2014,0,0,Marcel Reece,L 13-31,0,Oak,RB,0
 0,0,0,0,11754,0,0,0,0,0,0,@Cle,15,0,2014,0,0,BenJarvus Green-Ellis,W 30-0,0,Cin,RB,0
 0,0,0,0,11788,0,0,0,0,0,0,Den,15,0,2014,0,0,Danny Woodhead,L 10-22,0,SD,RB,0
+0,0,0,0,11933,0,0,0,0,0,0,NO,15,0,2014,0,0,Darius Reynaud,L 15-31,0,Chi,RB,0
 0,0,0,0,11946,0,0,0,0,0,0,Cin,15,0,2014,0,0,Anthony Armstrong,L 0-30,0,Cle,WR,0
 0,0,0,1,12471,-1,0,0,0,0,0,Oak,15,0,2014,0,0,Chase Daniel,W 31-13,0,KC,QB,1
 0,0,0,0,12473,0,0,0,0,0,0,@Det,15,0,2014,0,0,Josh Freeman,L 14-16,0,Min,QB,0
@@ -13249,6 +13274,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,12485,0,0,0,0,0,0,@NYG,15,0,2014,0,0,Pat White,L 13-24,0,Wsh,QB,0
 0,0,0,0,12488,0,0,0,0,0,0,@Buf,15,0,2014,0,0,Kahlil Bell,L 13-21,0,GB,RB,0
 0,0,0,0,12490,0,0,0,0,0,0,@Ind,15,0,2014,0,0,Andre Brown,L 10-17,0,Hou,RB,0
+0,0,0,0,12496,0,0,0,0,0,0,NO,15,0,2014,0,0,Tony Fiammetta,L 15-31,0,Chi,RB,0
 0,0,0,0,12499,0,0,0,0,0,0,@Ten,15,0,2014,0,0,Mike Goodson,W 16-11,0,NYJ,RB,0
 0,0,0,0,12503,3,0,0,0,0,0,Wsh,15,0,2014,0,0,Rashad Jennings,W 24-13,0,NYG,RB,1
 0,0,0,0,12506,0,0,0,0,0,0,Den,15,0,2014,0,0,David Johnson,L 10-22,0,SD,TE,0
@@ -13258,12 +13284,14 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,12517,0,0,0,0,0,0,Wsh,15,0,2014,0,0,Chris Ogbonnaya,W 24-13,0,NYG,RB,0
 0,0,0,0,12519,0,0,0,0,0,0,@Cle,15,0,2014,0,0,Cedric Peerman,W 30-0,0,Cin,RB,0
 0,0,0,0,12521,0,0,0,0,0,0,@KC,15,0,2014,0,0,Kory Sheets,L 13-31,0,Oak,RB,0
+0,0,0,0,12532,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Travis Beckum,W 31-15,0,NO,TE,0
 0,0,0,0,12535,0,0,0,0,0,0,Dal,15,0,2014,0,0,James Casey,L 27-38,0,Phi,TE,0
 0,0,0,0,12536,0,0,0,0,0,0,NYJ,15,0,2014,0,0,Chase Coffman,L 11-16,0,Ten,TE,0
 0,0,0,0,12545,0,0,0,0,0,0,@SD,15,0,2014,0,0,Cameron Morrah,W 22-10,0,Den,TE,0
 0,0,0,0,12548,0,0,0,0,0,0,Pit,15,0,2014,0,0,Bear Pascoe,L 20-27,0,Atl,TE,0
 0,0,0,0,12549,0,0,0,0,0,0,Min,15,0,2014,0,0,Brandon Pettigrew,W 16-14,0,Det,TE,0
 0,0,0,0,12550,0,0,0,0,0,0,Den,15,0,2014,0,0,John Phillips,L 10-22,0,SD,TE,0
+0,0,0,0,12552,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Richard Quinn,W 31-15,0,NO,TE,0
 0,0,0,0,12553,0,0,0,0,0,0,@Det,15,0,2014,0,0,Kory Sperry,L 14-16,0,Min,TE,0
 0,0,0,0,12555,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Ramses Barden,L 12-20,0,Jac,WR,0
 0,0,0,0,12561,0,0,0,0,0,0,Mia,15,0,2014,0,0,Austin Collie,W 41-13,0,NE,WR,0
@@ -13276,6 +13304,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,12597,0,0,0,0,0,0,@Cle,15,0,2014,0,0,Brandon Tate,W 30-0,0,Cin,WR,0
 0,0,0,0,12598,0,0,0,0,0,0,@Ind,15,0,2014,0,0,Mike Thomas,L 10-17,0,Hou,WR,0
 0,0,0,0,12600,0,0,0,0,0,0,TB,15,0,2014,0,0,Tiquan Underwood,W 19-17,0,Car,WR,0
+0,0,0,0,12699,0,0,0,0,0,0,NO,15,0,2014,0,0,Zach Miller,L 15-31,0,Chi,TE,0
 0,0,0,0,12705,0,0,0,0,0,0,@Car,15,0,2014,0,0,Brandon Myers,L 17-19,0,TB,TE,0
 0,0,0,0,12724,0,0,0,0,0,0,Jac,15,0,2014,0,0,Bernard Scott,W 20-12,0,Bal,RB,0
 0,0,0,0,12730,0,0,0,0,0,0,@Atl,15,0,2014,0,0,LaRod Stephens-Howling,W 27-20,0,Pit,RB,0
@@ -13290,6 +13319,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,13158,0,0,0,0,0,0,Pit,15,0,2014,0,0,Antone Smith,L 20-27,0,Atl,RB,0
 0,0,0,0,13188,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Chad Hall,L 12-20,0,Jac,WR,0
 0,0,0,0,13197,0,0,0,0,0,0,Ari,15,0,2014,0,0,Sam Bradford,L 6-12,0,StL,QB,0
+0,0,0,0,13198,0,0,0,0,0,0,NO,15,0,2014,0,0,Jimmy Clausen,L 15-31,0,Chi,QB,0
 0,0,0,0,13203,0,0,0,0,0,0,GB,15,0,2014,0,0,C.J. Spiller,W 21-13,0,Buf,RB,0
 0,0,0,0,13204,0,0,0,0,0,0,Den,15,0,2014,0,0,Ryan Mathews,L 10-22,0,SD,RB,0
 0,0,0,0,13206,0,0,0,0,0,0,@StL,15,0,2014,0,0,Jonathan Dwyer,W 12-6,0,Ari,RB,0
@@ -13304,6 +13334,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,13228,0,0,0,0,0,0,@Cle,15,0,2014,0,0,Jermaine Gresham,W 30-0,0,Cin,TE,0
 0,0,0,0,13231,0,0,0,0,0,0,Jac,15,0,2014,0,0,Dennis Pitta,W 20-12,0,Bal,TE,0
 0,0,0,0,13272,0,0,0,0,0,0,TB,15,0,2014,0,0,Ed Dickson,W 19-17,0,Car,TE,0
+0,0,0,0,13275,0,0,0,0,0,0,NO,15,0,2014,0,0,Armanti Edwards,L 15-31,0,Chi,WR,0
 0,0,0,0,13289,0,0,0,0,0,0,SF,15,0,2014,0,0,Tony Moeaki,W 17-7,0,Sea,TE,0
 0,0,0,0,13326,0,0,0,0,0,0,@Car,15,0,2014,0,0,Nate Arthur Byham,L 17-19,0,TB,TE,0
 0,0,0,0,13335,0,0,0,0,0,0,@NYG,15,0,2014,0,0,Mike Caussin,L 13-24,0,Wsh,TE,0
@@ -13318,7 +13349,8 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,13397,0,0,0,0,0,0,@Car,15,0,2014,0,0,Mike Kafka,L 17-19,0,TB,QB,0
 0,0,0,0,13398,0,0,0,0,0,0,Hou,15,0,2014,0,0,Deji Karim,W 17-10,0,Ind,RB,0
 0,0,0,0,13401,0,0,0,0,0,0,@SD,15,0,2014,0,0,Jameson Konz,W 22-10,0,Den,TE,0
-0,0,0,0,13409,0,0,0,0,0,0,NO,15,0,2014,0,0,Marc Mariani,0-0 10:55 1st,0,Chi,WR,0
+0,0,0,0,13407,1,0,0,0,0,0,@Chi,15,0,2014,0,0,Erik Lorig,W 31-15,0,NO,RB,1
+0,0,0,0,13409,0,0,0,0,0,0,NO,15,0,2014,0,0,Marc Mariani,L 15-31,0,Chi,WR,0
 0,0,0,0,13414,0,0,0,0,0,0,SF,15,0,2014,0,0,Anthony McCoy,W 17-7,0,Sea,TE,0
 0,0,0,0,13431,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Fendi Onobun,L 12-20,0,Jac,TE,0
 0,0,7,0,13440,0,0,0,0,0,0,@Buf,15,1,2014,0,0,Andrew Quarless,L 13-21,0,GB,TE,0
@@ -13342,8 +13374,11 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,13637,0,0,0,0,0,0,GB,15,0,2014,0,0,Naaman Roosevelt,W 21-13,0,Buf,WR,0
 0,0,0,0,13642,6,0,0,0,0,0,@Sea,15,0,2014,0,0,Alfonso Smith,L 7-17,0,SF,RB,4
 0,0,0,0,13662,0,0,0,0,0,0,SF,15,0,2014,0,0,Bryan Walters,W 17-7,0,Sea,WR,0
+0,0,0,0,13698,0,0,0,0,0,0,NO,15,0,2014,0,0,Jeron Mastrud,L 15-31,0,Chi,TE,0
 0,0,9,0,13726,0,0,0,0,0,0,@NYG,15,1,2014,0,0,Logan Paulsen,L 13-24,0,Wsh,TE,0
 0,0,0,0,13785,0,0,0,0,0,0,Jac,15,0,2014,0,0,Nathan Overbay,W 20-12,0,Bal,TE,0
+0,0,0,0,13863,0,0,0,0,0,0,NO,15,0,2014,0,0,Steve Maneri,L 15-31,0,Chi,TE,0
+0,0,0,0,13872,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Andy Tanner,W 31-15,0,NO,WR,0
 0,0,0,0,13916,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Harvey Unga,L 12-20,0,Jac,RB,0
 0,0,0,0,13935,0,0,0,0,0,0,Den,15,0,2014,0,0,Danario Alexander,L 10-22,0,SD,WR,0
 0,0,0,0,13938,0,0,0,0,0,0,Pit,15,0,2014,0,0,Josh Vaughan,L 20-27,0,Atl,RB,0
@@ -13405,6 +13440,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,14240,0,0,0,0,0,0,@Det,15,0,2014,0,0,Pat Devlin,L 14-16,0,Min,QB,0
 0,0,0,0,14255,0,0,0,0,0,0,@Buf,15,0,2014,0,0,DuJuan Harris,L 13-21,0,GB,RB,0
 0,0,0,0,14266,0,0,0,0,0,0,@StL,15,0,2014,0,0,Robert Hughes,W 12-6,0,Ari,RB,0
+0,0,0,0,14275,0,0,0,0,0,0,NO,15,0,2014,0,0,Jerrod Johnson,L 15-31,0,Chi,QB,0
 0,0,0,0,14280,0,0,0,0,0,0,SF,15,0,2014,0,0,Ricardo Lockette,W 17-7,0,Sea,WR,0
 0,0,0,0,14289,0,0,0,0,0,0,Pit,15,0,2014,0,0,Kyle Miller,L 20-27,0,Atl,TE,0
 0,0,0,0,14295,0,0,0,0,0,0,@Phi,15,0,2014,0,0,Jamar Newsome,W 38-27,0,Dal,WR,0
@@ -13418,6 +13454,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,14353,0,0,0,0,0,0,@Buf,15,0,2014,0,0,Scott Tolzien,L 13-21,0,GB,QB,0
 0,0,0,0,14400,0,0,0,0,0,0,@Det,15,0,2014,0,0,Michael Higgins,L 14-16,0,Min,TE,0
 0,0,6,0,14402,0,0,0,0,0,0,GB,15,1,2014,0,0,Chris Hogan,W 21-13,0,Buf,WR,0
+0,0,0,0,14424,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Joseph Morgan,W 31-15,0,NO,WR,0
 0,0,0,0,14432,0,0,0,0,0,0,@Ind,15,0,2014,0,0,William Powell,L 10-17,0,Hou,RB,0
 0,0,0,0,14433,0,0,0,0,0,0,Jac,15,0,2014,0,0,Allen Reisner,W 20-12,0,Bal,TE,0
 0,0,0,0,14434,0,0,0,0,0,0,Hou,15,0,2014,0,0,Konrad Reuland,W 17-10,0,Ind,TE,0
@@ -13431,6 +13468,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,14561,0,0,0,0,0,0,@Phi,15,0,2014,0,0,Kerry Taylor,W 38-27,0,Dal,WR,0
 0,0,0,0,14565,0,0,0,0,0,0,@NE,15,0,2014,0,0,Jake Rogers,L 13-41,0,Mia,K,0
 0,0,0,0,14570,0,0,0,0,0,0,@Det,15,0,2014,0,0,Lestar Jean,L 14-16,0,Min,WR,0
+0,0,0,0,14571,0,0,0,0,0,0,NO,15,0,2014,0,0,Terrence Toliver,L 15-31,0,Chi,WR,0
 1,0,0,0,14583,0,0,0,0,0,0,Jac,15,0,2014,0,0,Kamar Aiken,W 20-12,0,Bal,WR,0
 0,0,0,0,14590,0,0,0,0,0,0,Dal,15,0,2014,0,0,Jeff Maehl,L 27-38,0,Phi,WR,0
 0,0,0,0,14594,0,0,0,0,0,0,@Det,15,0,2014,0,0,McLeod Bethel-Thompson,L 14-16,0,Min,QB,0
@@ -13455,6 +13493,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,14887,0,0,0,0,0,0,Wsh,15,0,2014,0,0,David Wilson,W 24-13,0,NYG,RB,0
 0,0,0,0,14888,0,0,0,0,0,0,Ari,15,0,2014,0,0,Isaiah Pead,L 6-12,0,StL,RB,0
 0,0,0,0,14890,0,0,0,0,0,0,@NE,15,0,2014,0,0,LaMichael James,L 13-41,0,Mia,RB,0
+0,0,0,0,14892,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Edwin Baker,W 31-15,0,NO,RB,0
 0,0,0,0,14893,0,0,0,0,0,0,TB,15,0,2014,0,0,Tauren Poole,W 19-17,0,Car,RB,0
 0,0,0,0,14895,0,0,0,0,0,0,@SD,15,0,2014,0,0,Ronnie Hillman,W 22-10,0,Den,RB,0
 0,0,0,0,14896,0,0,0,0,0,0,@StL,15,0,2014,0,0,Chris Rainey,W 12-6,0,Ari,RB,0
@@ -13467,7 +13506,6 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,14907,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Justin Blackmon,L 12-20,0,Jac,WR,0
 0,0,0,0,14909,0,0,0,0,0,0,NYJ,15,0,2014,0,0,Kendall Wright,L 11-16,0,Ten,WR,0
 0,0,0,0,14910,0,0,0,0,0,0,@Ten,15,0,2014,0,0,Stephen Hill,W 16-11,0,NYJ,WR,0
-0,0,0,0,14912,0,0,0,0,0,0,NO,15,0,2014,0,0,Alshon Jeffery,0-0 10:55 1st,0,Chi,WR,0
 0,0,0,0,14914,0,0,0,0,0,0,Ari,15,0,2014,0,0,Brian Quick,L 6-12,0,StL,WR,0
 0,0,0,0,14915,0,0,0,0,0,0,TB,15,0,2014,0,0,Marvin McNutt,W 19-17,0,Car,WR,0
 0,0,0,0,14916,0,0,0,0,0,0,@Ind,15,0,2014,0,0,Keshawn Martin,L 10-17,0,Hou,WR,0
@@ -13483,6 +13521,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15029,0,0,0,0,0,0,Oak,15,0,2014,0,0,Junior Hemingway,W 31-13,0,KC,WR,0
 0,0,0,0,15033,0,0,0,0,0,0,Hou,15,0,2014,0,0,LaVon Brazill,W 17-10,0,Ind,WR,0
 0,0,0,0,15034,0,0,0,0,0,0,@Atl,15,0,2014,0,0,Danny Coale,W 27-20,0,Pit,WR,0
+0,0,0,0,15037,0,0,0,0,0,0,NO,15,0,2014,0,0,B.J. Cunningham,L 15-31,0,Chi,WR,0
 0,0,0,0,15043,0,0,0,0,0,0,@Atl,15,0,2014,0,0,David Paulson,W 27-20,0,Pit,TE,0
 0,0,0,0,15044,0,0,0,0,0,0,@KC,15,0,2014,0,0,Juron Criner,L 13-31,0,Oak,WR,0
 0,0,0,0,15050,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Bradie Ewing,L 12-20,0,Jac,RB,0
@@ -13508,11 +13547,12 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15189,0,0,0,0,0,0,@SD,15,0,2014,0,0,Nathan Palmer,W 22-10,0,Den,WR,0
 0,0,0,0,15195,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Brandon Barden,L 12-20,0,Jac,TE,0
 0,0,0,0,15197,0,0,0,0,0,0,Cin,15,0,2014,0,0,Josh Cooper,L 0-30,0,Cle,WR,0
-0,0,0,0,15214,0,0,0,0,0,0,Cin,15,0,2014,0,0,Gerell Robinson,L 0-30,0,Cle,WR,0
+0,0,0,0,15214,0,0,0,0,0,0,@NE,15,0,2014,0,0,Gerell Robinson,L 13-41,0,Mia,WR,0
 0,0,0,0,15220,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Jewel Hampton,L 7-17,0,SF,RB,0
 0,0,8,0,15230,0,0,0,0,0,0,@Ten,15,1,2014,0,0,Chris Owusu,W 16-11,0,NYJ,WR,0
 0,0,0,0,15245,0,0,0,0,0,0,@KC,15,0,2014,0,0,Giorgio Tavecchio,L 13-31,0,Oak,K,0
 0,0,0,0,15252,0,0,0,0,0,0,Mia,15,0,2014,0,0,Brian Tyms,W 41-13,0,NE,WR,0
+0,0,0,0,15255,0,0,0,0,0,0,NO,15,0,2014,0,0,Dale Moss,L 15-31,0,Chi,WR,0
 0,0,0,0,15257,0,0,0,0,0,0,Jac,15,0,2014,0,0,Phillip Supernaw,W 20-12,0,Bal,TE,0
 0,0,0,0,15269,0,0,0,0,0,0,Jac,15,0,2014,0,0,Nick Stephens,W 20-12,0,Bal,QB,0
 0,0,0,0,15289,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Brandon Carswell,L 7-17,0,SF,WR,0
@@ -13536,16 +13576,20 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,15403,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Derek Carrier,L 7-17,0,SF,TE,0
 0,0,0,0,15407,0,0,0,0,0,0,@Ten,15,0,2014,0,0,Matt Simms,W 16-11,0,NYJ,QB,0
 0,0,0,0,15416,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Danny Noble,L 12-20,0,Jac,TE,0
+0,0,0,0,15420,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Chris Givens,W 31-15,0,NO,WR,0
 0,0,0,0,15426,0,0,0,0,0,0,Den,15,0,2014,0,0,Jake Byrne,L 10-22,0,SD,TE,0
 0,0,0,0,15427,0,0,0,0,0,0,SF,15,0,2014,0,0,Carson Wiggs,W 17-7,0,Sea,K,0
 0,0,0,0,15448,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Mike Brown,L 12-20,0,Jac,WR,0
+0,0,0,0,15457,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Travaris Cadet,W 31-15,0,NO,RB,0
 0,0,0,0,15474,0,0,0,0,0,0,Min,15,0,2014,0,0,Patrick Edwards,W 16-14,0,Det,WR,0
+0,0,0,0,15477,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Derek Dimke,W 31-15,0,NO,K,0
 0,0,0,0,15478,0,0,0,0,0,0,Mia,15,0,2014,0,0,Brandon Bolden,W 41-13,0,NE,RB,0
 0,0,0,0,15501,0,0,0,0,0,0,@Car,15,0,2014,0,0,Bobby Rainey,L 17-19,0,TB,RB,0
 0,0,0,0,15503,0,0,0,0,0,0,GB,15,0,2014,0,0,Deonte Thompson,W 21-13,0,Buf,WR,0
 0,0,0,0,15514,0,0,0,0,0,0,@KC,15,0,2014,0,0,Jared Green,L 13-31,0,Oak,WR,0
 0,0,0,0,15515,0,0,0,0,0,0,Oak,15,0,2014,0,0,Sean McGrath,W 31-13,0,KC,TE,0
 0,0,0,0,15536,0,0,0,0,0,0,Cin,15,0,2014,0,0,LaRon Byrd,L 0-30,0,Cle,WR,0
+0,0,0,0,15555,0,0,0,0,0,0,NO,15,0,2014,0,0,Josh Bellamy,L 15-31,0,Chi,WR,0
 0,0,0,0,15564,0,0,0,0,0,0,@StL,15,0,2014,0,0,Brittan Golden,W 12-6,0,Ari,WR,0
 0,0,0,0,15600,0,0,0,0,0,0,Min,15,0,2014,0,0,Emil Igwenagu,W 16-14,0,Det,TE,0
 0,0,0,0,15628,0,0,0,0,0,0,Oak,15,0,2014,0,0,Jerrell Jackson,W 31-13,0,KC,WR,0
@@ -13555,6 +13599,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,7,0,15647,0,0,0,0,0,0,@Det,15,1,2014,0,0,Chase Ford,L 14-16,0,Min,TE,0
 0,0,0,0,15652,0,0,0,0,0,0,Jac,15,0,2014,0,0,Michael Willie,W 20-12,0,Bal,WR,0
 0,0,0,0,15653,0,0,0,0,0,0,@KC,15,0,2014,0,0,Jamize Olawale,L 13-31,0,Oak,RB,0
+0,0,0,0,15659,0,0,0,0,0,0,NO,15,0,2014,0,0,Joe Anderson,L 15-31,0,Chi,WR,0
 0,0,0,0,15670,0,0,0,0,0,0,SF,15,0,2014,0,0,Cooper Helfet,W 17-7,0,Sea,TE,0
 0,0,0,0,15674,0,0,0,0,0,0,@NE,15,0,2014,0,0,Danny Hrapmann,L 13-41,0,Mia,K,0
 0,0,0,0,15688,0,0,0,0,0,0,@Buf,15,0,2014,0,0,Brandon Bostick,L 13-21,0,GB,TE,0
@@ -13614,7 +13659,6 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,16018,0,0,0,0,0,0,@Atl,15,0,2014,0,0,Jawan Jamison,W 27-20,0,Pit,RB,0
 0,0,0,0,16020,0,0,0,0,0,0,SF,15,0,2014,0,0,Spencer Ware,W 17-7,0,Sea,RB,0
 0,0,0,0,16022,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Ace Sanders,L 12-20,0,Jac,WR,0
-0,0,7,0,16023,0,0,0,0,0,0,NO,15,1,2014,0,0,Marquess Wilson,0-0 10:55 1st,0,Chi,WR,0
 0,0,0,0,16026,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Quinton Patton,L 7-17,0,SF,WR,0
 0,0,0,0,16033,0,0,0,0,0,0,SF,15,0,2014,0,0,Luke Wilson,W 17-7,0,Sea,TE,0
 0,0,0,0,16052,0,0,0,0,0,0,@Cle,15,0,2014,0,0,Jasper Collins,W 30-0,0,Cin,WR,0
@@ -13625,6 +13669,8 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,16095,0,0,0,0,0,0,SF,15,0,2014,0,0,Keavon Milton,W 17-7,0,Sea,TE,0
 0,0,0,0,16113,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Lamaar Thomas,L 12-20,0,Jac,WR,0
 0,0,0,0,16121,0,0,0,0,0,0,SF,15,0,2014,0,0,Luke Willson,W 17-7,0,Sea,TE,0
+0,0,0,0,16135,0,0,0,0,0,0,NO,15,0,2014,0,0,Michael Ford,L 15-31,0,Chi,RB,0
+0,0,0,0,16140,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Ryan Griffin,W 31-15,0,NO,QB,0
 0,0,0,0,16141,0,0,0,0,0,0,Oak,15,0,2014,0,0,Mark Harrison,W 31-13,0,KC,WR,0
 0,0,0,0,16156,0,0,0,0,0,0,@Det,15,0,2014,0,0,Ryan Otten,L 14-16,0,Min,TE,0
 0,0,0,0,16158,0,0,0,0,0,0,@Car,15,0,2014,0,0,Jordan Rodgers,L 17-19,0,TB,QB,0
@@ -13674,6 +13720,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,16547,0,0,0,0,0,0,NYJ,15,0,2014,0,0,Maikon Bonani,L 11-16,0,Ten,K,0
 0,0,0,0,16569,0,0,0,0,0,0,@Buf,15,0,2014,0,0,Myles White,L 13-21,0,GB,WR,0
 0,0,0,0,16593,0,0,0,0,0,0,@KC,15,0,2014,0,0,Matt McGloin,L 13-31,0,Oak,QB,0
+0,0,0,0,16731,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Brandin Cooks,W 31-15,0,NO,WR,0
 0,0,0,18,16736,13,0,0,0,2,10,Cin,15,0,2014,0,0,Johnny Manziel,L 0-30,80,Cle,QB,5
 0,0,0,0,16755,0,0,0,0,0,0,@Atl,15,0,2014,0,0,Dri Archer,W 27-20,0,Pit,RB,0
 0,0,0,0,16760,0,0,0,0,0,0,Mia,15,0,2014,0,0,Jimmy Garoppolo,W 41-13,0,NE,QB,0
@@ -13693,6 +13740,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,16812,0,0,0,0,0,0,@Ten,15,0,2014,0,0,Tajh Boyd,W 16-11,0,NYJ,QB,0
 0,0,0,0,16813,0,0,0,0,0,0,@StL,15,0,2014,0,0,Logan Thomas,W 12-6,0,Ari,QB,0
 0,0,0,0,16814,0,0,0,0,0,0,NYJ,15,0,2014,0,0,Zach Mettenberger,L 11-16,0,Ten,QB,0
+0,0,0,0,16821,0,0,0,0,0,0,NO,15,0,2014,0,0,David Fales,L 15-31,0,Chi,QB,0
 0,0,0,0,16828,0,0,0,0,0,0,Mia,15,0,2014,0,0,Jeremy Gallon,W 41-13,0,NE,WR,0
 0,0,0,0,16836,0,0,0,0,0,0,@Buf,15,0,2014,0,0,Jared Abbrederis,L 13-21,0,GB,WR,0
 0,0,0,0,16838,0,0,0,0,0,0,Mia,15,0,2014,0,0,Tyler Gaffney,W 41-13,0,NE,RB,0
@@ -13701,6 +13749,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,16913,0,0,0,0,0,0,Mia,15,0,2014,0,0,James White,W 41-13,0,NE,RB,0
 0,0,0,0,16915,0,0,0,0,0,0,Jac,15,0,2014,0,0,Keith Wenning,W 20-12,0,Bal,QB,0
 0,0,0,0,16916,0,0,0,0,0,0,@NYG,15,0,2014,0,0,Zach Hocker,L 13-24,0,Wsh,K,0
+0,0,0,0,16928,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Jalen Saunders,W 31-15,0,NO,WR,0
 0,0,0,0,16946,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Bruce Ellington,L 7-17,0,SF,WR,0
 0,0,0,0,16950,0,0,0,0,0,0,Jac,15,0,2014,0,0,Lorenzo Taliaferro,W 20-12,0,Bal,RB,0
 0,0,0,0,16956,0,0,0,0,0,0,@StL,15,0,2014,0,0,Marion Grice,W 12-6,0,Ari,RB,0
@@ -13713,6 +13762,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,4,0,17139,0,0,0,0,0,0,Wsh,15,1,2014,0,0,Corey Washington,W 24-13,0,NYG,WR,0
 0,0,0,0,17141,0,0,0,0,0,0,@SD,15,0,2014,0,0,Kapri Bibbs,W 22-10,0,Den,RB,0
 0,0,0,0,17144,0,0,0,0,0,0,@Car,15,0,2014,0,0,Robert Herron,L 17-19,0,TB,WR,0
+0,0,0,0,17145,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Brandon Coleman,W 31-15,0,NO,WR,0
 0,0,0,0,17146,0,0,0,0,0,0,Wsh,15,0,2014,0,0,Marcus Harris,W 24-13,0,NYG,WR,0
 0,0,0,0,17147,0,0,0,0,0,0,@NE,15,0,2014,0,0,Arthur Lynch,L 13-41,0,Mia,TE,0
 0,0,0,0,17148,0,0,0,0,0,0,Jac,15,0,2014,0,0,Michael Campanaro,W 20-12,0,Bal,WR,0
@@ -13733,7 +13783,9 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,17179,0,0,0,0,0,0,@NYG,15,0,2014,0,0,Ryan Grant,L 13-24,0,Wsh,WR,0
 0,0,7,0,17181,0,0,0,0,0,0,Oak,15,1,2014,0,0,Frankie Hammond,W 31-13,0,KC,WR,0
 0,0,0,0,17183,0,0,0,0,0,0,Ari,15,0,2014,0,0,Trey Watts,L 6-12,0,StL,RB,0
+0,0,0,0,17184,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Willie Snead,W 31-15,0,NO,WR,0
 0,0,0,0,17185,0,0,0,0,0,0,@Buf,15,0,2014,0,0,LaDarius Perkins,L 13-21,0,GB,RB,0
+0,0,0,0,17186,0,0,0,0,0,0,@Chi,15,0,2014,0,0,Austin Johnson,W 31-15,0,NO,RB,0
 0,0,6,0,17187,0,0,0,0,0,0,@StL,15,1,2014,0,0,Darren Fells,W 12-6,0,Ari,TE,0
 0,0,0,0,17188,0,0,0,0,0,0,@KC,15,0,2014,0,0,Brian Leonhardt,L 13-31,0,Oak,TE,0
 0,0,0,0,17189,0,0,0,0,0,0,Oak,15,0,2014,0,0,Demetrius Harris,W 31-13,0,KC,TE,0
@@ -13756,6 +13808,7 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,17206,0,0,0,0,0,0,TB,15,0,2014,0,0,Matt Blanchard,W 19-17,0,Car,QB,0
 0,0,0,0,17207,0,0,0,0,0,0,@Phi,15,0,2014,0,0,Dustin Vaughan,W 38-27,0,Dal,QB,0
 0,0,0,0,17208,0,0,0,0,0,0,Wsh,15,0,2014,0,0,Orleans Darkwa,W 24-13,0,NYG,RB,0
+0,0,0,0,17209,0,0,0,0,0,0,NO,15,0,2014,0,0,Senorise Perry,L 15-31,0,Chi,RB,0
 0,0,0,0,17210,0,0,0,0,0,0,Cin,15,0,2014,0,0,Glenn Winston,L 0-30,0,Cle,RB,0
 0,0,0,0,17211,0,0,0,0,0,0,Hou,15,0,2014,0,0,Zurlon Tipton,W 17-10,0,Ind,RB,0
 0,0,0,0,17212,0,0,0,0,0,0,Cin,15,0,2014,0,0,Ray Agnew,L 0-30,0,Cle,RB,0
@@ -13771,15 +13824,16 @@ misc_TD,two_pt_conversions,receiving_yards,pass_attempts,player_id,rush_yards,to
 0,0,0,0,17354,0,0,0,0,0,0,@Sea,15,0,2014,0,0,Asante Cleveland,L 7-17,0,SF,TE,0
 0,0,0,0,17355,0,0,0,0,0,0,@NYG,15,0,2014,0,0,Rashad Ross,L 13-24,0,Wsh,WR,0
 0,0,0,0,17356,0,0,0,0,0,0,@Bal,15,0,2014,0,0,Nic Jacobs,L 12-20,0,Jac,TE,0
+0,0,0,0,17360,0,0,0,0,0,0,NO,15,0,2014,0,0,Chris Williams,L 15-31,0,Chi,WR,0
 0,0,0,0,17370,0,0,0,0,0,0,Pit,15,0,2014,0,0,Freddie Martino,L 20-27,0,Atl,WR,0
+0,0,0,0,17382,0,0,0,0,0,0,NO,15,0,2014,0,0,Blake Annen,L 15-31,0,Chi,TE,0
 0,0,0,0,17383,0,0,0,0,0,0,SF,15,0,2014,0,0,RaShaun Allen,W 17-7,0,Sea,TE,0
 0,0,0,0,17384,0,0,0,0,0,0,Oak,15,0,2014,0,0,Charcandrick West,W 31-13,0,KC,RB,0
 0,0,0,0,17392,0,0,0,0,0,0,@Buf,15,0,2014,0,0,Justin Perillo,L 13-21,0,GB,TE,0
 0,0,0,0,17397,0,0,0,0,0,0,@Atl,15,0,2014,0,0,Josh Harris,W 27-20,0,Pit,RB,0
 0,0,0,0,60001,0,0,0,0,0,0,Pit,15,0,2014,0,0,Falcons D/ST,L 20-27,0,D/ST,D/ST,0
-0,0,10,0,14921,0,-1,1,0,0,0,@Chi,15,1,2014,0,0,Nick Toon,0-0 10:55 1st,0,NO,WR,0
+0,0,0,0,60003,0,0,0,0,0,0,NO,15,0,2014,0,0,Bears D/ST,L 15-31,0,D/ST,D/ST,0
 0,0,0,0,15058,0,-1,0,0,0,0,@Det,15,0,2014,0,0,Blair Walsh,L 14-16,0,Min,K,0
-0,0,0,4,9597,0,-2,0,0,1,1,NO,15,0,2014,0,0,Jay Cutler,0-0 10:55 1st,7,Chi,QB,0
 0,0,2,0,9703,0,-2,1,0,0,0,NYJ,15,1,2014,0,0,Leon Washington,L 11-16,0,Ten,RB,0
 0,0,4,0,16002,0,-2,1,0,0,0,Jac,15,1,2014,0,0,Kyle Juszczyk,W 20-12,0,Bal,RB,0
 0,0,0,0,60015,0,-2,0,0,0,0,@NE,15,0,2014,0,0,Dolphins D/ST,L 13-41,0,D/ST,D/ST,0
