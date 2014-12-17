@@ -153,6 +153,10 @@ def generate_bootstrap_histograms(data, title):
             xlim=(-3, 3),
             small=True
         )
+        confidence = np.percentile(values, q=[2.5, 50, 97.5])
+        lower, mid, upper = [round(i, 2) for i in sorted(confidence)]
+        msg = '95% {}: {} +/- {} (Lower: {} Mid: {} Upper: {})'
+        print(msg.format(expert, mid, (mid-lower), lower, mid, upper))
 
 def generate_error_histograms(df, column, title):
     """
@@ -170,7 +174,7 @@ def generate_error_histograms(df, column, title):
             figsize=(10,5),
             titlesize=26,
             xsize=26,
-            # xlim=(-3, 3),
+            xlim=(-40, 40),
             small=True
         )
 
@@ -182,10 +186,10 @@ def generate_histogram_grid(data):
     for x, source in enumerate(data.keys()):
         for y, position in enumerate(positions):
             # resize xaxis tick marks
-            [item.set_fontsize(18) for item in axes[x][y].get_xticklabels()]
+            [item.set_fontsize(20) for item in axes[x][y].get_xticklabels()]
             axes[x][y].hist(data[source][position], color=cmap(1.*y/len(positions)))
             axes[x][y].set_title('{}\n{}'.format(source, position), 
-                                    fontdict={'fontsize': 18})
+                                    fontdict={'fontsize': 20})
             axes[x][y].set_yticklabels('')
             # always center x-axis at 0
             axes[x][y].set_xlim(-5., 5.)
@@ -233,7 +237,7 @@ if __name__ == '__main__':
     # generate_error_histograms(joined, column='REL_DIFF',
     #                             title='Relative Error')
     generate_bootstrap_histograms(abs_err_by_expert,
-                                    title='Mean Absolute Error')
+                                    title='Mean Error')
     # generate_bootstrap_histograms(rel_err_by_expert,
     #                                 title='Mean Rel. Error')
     generate_histogram_grid(abs_err_by_expert_position)
