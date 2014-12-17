@@ -6,6 +6,7 @@ import utils
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 from glob import glob
 import re
 
@@ -93,6 +94,7 @@ def bootstrap_experts(df, col_to_bootstrap, statfunction=np.mean):
     np.random.seed(42) # set random seed for consistent results
     experts = {}
     for expert_name in df.EXPERT.unique().tolist():
+        print('Bootstrapping {} for {}'.format(col_to_bootstrap, expert_name))
         # filter to the relevant expert and column
         data = df[ df.EXPERT == expert_name ][col_to_bootstrap]
         # use the bootstrap to create 10000 x N matrix
@@ -110,7 +112,9 @@ def bootstrap_experts_positions(df, col_to_bootstrap, statfunction=np.mean):
     for ex_name in experts:
         pos_results = {}
 
+        msg = 'Bootstrapping {} for {} ({})'
         for pos in positions:
+            print(msg.format(col_to_bootstrap, ex_name, pos))
             # filter to the relevant expert and position
             condition = (df.EXPERT == ex_name) & (df.POSITION == pos)
             data = df[condition][col_to_bootstrap]
@@ -134,12 +138,32 @@ def generate_histograms(data):
             figsize=(10,5),
             titlesize=26,
             xsize=26,
-            xlim=(-2.75, 2.75),
+            xlim=(-3, 3),
             small=True
         )
 
 def generate_histogram_grid(data):
-    pass
+    fig, axes = plt.subplots(7, 5, figsize=(20,20), sharex='row')
+    fig.tight_layout(pad=3.0, h_pad=5.0)
+    cmap = plt.get_cmap('Paired') # colormap to use
+    positions = ['QB', 'RB', 'WR', 'TE', 'K'] # want to draw in specifc order
+    for x, source in enumerate(data.keys()):
+        for y, position in enumerate(positions):
+            # resize xaxis tick marks
+            [item.set_fontsize(18) for item in axes[x][y].get_xticklabels()]
+            axes[x][y].hist(data[source][position], color=cmap(1.*y/len(positions)))
+            axes[x][y].set_title('{}\n{}'.format(source, position), 
+                                    fontdict={'fontsize': 18})
+            axes[x][y].set_yticklabels('')
+            # always center x-axis at 0
+            axes[x][y].set_xlim(-5., 5.)
+            axes[x][y].xaxis.set_major_locator(MaxNLocator(symmetric=True))
+            axes[x][y].locator_params(nbins=5)
+            axes[x][y].axvline(x=0, ls=':', color='k', linewidth=2.5)
+            axes[x][y].spines['top'].set_visible(False)
+            axes[x][y].spines['left'].set_visible(False)
+            axes[x][y].spines['right'].set_visible(False)
+    plt.savefig('charts/fantasypros/histogram-grid.png', bbox_inches='tight')
 
 if __name__ == '__main__':
     projections = read_projections()
@@ -155,10 +179,10 @@ if __name__ == '__main__':
                         left_on=['PLAYER_NAME', 'WEEK', 'POSITION'],
                         right_on=['PLAYER_NAME', 'week', 'position'],
                         how='left')
-    cols = ['PLAYER_NAME', 'TEAM', 'POSITION', 'WEEK', 'EXPERT',
-            'POSITION_RANK', 'FPTS', 'PTS_SCORED']
     
     # drop players that don't have teams - Brandon Jacobs, JP Wilson, etc.
+    # also, some sites consider dexter mccluster an RB, some WR, and some both
+    # we're just going to consider him an RB
     joined.dropna(how='all', subset=['TEAM', 'PTS_SCORED'], inplace=True)
     joined['PTS_DIFF'] = (joined.FPTS - joined.PTS_SCORED)
     joined['REL_DIFF'] = (joined.PTS_DIFF / joined.FPTS)
@@ -169,3 +193,4 @@ if __name__ == '__main__':
     rel_err_by_expert_position = bootstrap_experts_positions(joined, 'REL_DIFF')
 
     generate_histograms(abs_err_by_expert)
+    generate_histogram_grid(abs_err_by_expert_position)
