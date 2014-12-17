@@ -127,18 +127,50 @@ def bootstrap_experts_positions(df, col_to_bootstrap, statfunction=np.mean):
         results[ex_name] = pos_results
     return results
 
-def generate_histograms(data):
+def generate_bootstrap_histograms(data, title):
+    """
+    Generate histograms for the bootstrapped values.
+
+    Parameters
+    ----------
+    data: dict, ex. {
+                        'expert1': [ 1, 2, 1, 0, 0.5 ],
+                        'expert2': [ 4, 5.5, 6, 4, 5 ]
+                    }
+    title: string, a title of what the distribution is. duh.
+    """
     for expert, values in data.iteritems():
-        filename = ''.join(char for char in expert if char not in '.,')
-        filename = filename.strip().replace(' ', '-').lower()
+        ex_name = ''.join(char for char in expert if char not in '.,')
+        filename = title + '-' + ex_name
+        filename = filename.strip().lower().replace(' ', '-')
         utils.histogram(
             data=values,
-            filename='charts/fantasypros/{}'.format(filename),
-            title='Mean Point Error - {}'.format(expert),
+            filename='charts/fantasypros/{}.png'.format(filename),
+            title='{} - {}'.format(title, expert),
             figsize=(10,5),
             titlesize=26,
             xsize=26,
             xlim=(-3, 3),
+            small=True
+        )
+
+def generate_error_histograms(df, column, title):
+    """
+    Generate actual error distributions for each expert.
+    Plots the distribution of the given column.
+    """
+    for expert in df.EXPERT.unique().tolist():
+        ex_name = ''.join(char for char in expert if char not in '.,')
+        filename = title + '-' + ex_name
+        filename = filename.strip().lower().replace(' ', '-')
+        utils.histogram(
+            data=df[column],
+            filename='charts/fantasypros/{}.png'.format(filename),
+            title='{} - {}'.format(title, expert),
+            figsize=(10,5),
+            titlesize=26,
+            xsize=26,
+            # xlim=(-3, 3),
             small=True
         )
 
@@ -181,16 +213,27 @@ if __name__ == '__main__':
                         how='left')
     
     # drop players that don't have teams - Brandon Jacobs, JP Wilson, etc.
-    # also, some sites consider dexter mccluster an RB, some WR, and some both
-    # we're just going to consider him an RB
-    joined.dropna(how='all', subset=['TEAM', 'PTS_SCORED'], inplace=True)
+    # also, some sites consider Dexter McCluster an RB, some WR, and some both
+    # we're just going to consider him however they projected him
+    cols = ['PLAYER_NAME', 'TEAM', 'POSITION', 'WEEK', 'EXPERT',
+            'POSITION_RANK','FPTS', 'PTS_SCORED']
+    joined = joined[cols]
+    
+    joined.dropna(how='any', subset=['TEAM', 'PTS_SCORED'], inplace=True)
     joined['PTS_DIFF'] = (joined.FPTS - joined.PTS_SCORED)
     joined['REL_DIFF'] = (joined.PTS_DIFF / joined.FPTS)
-
+    
     abs_err_by_expert = bootstrap_experts(joined, 'PTS_DIFF')
     abs_err_by_expert_position = bootstrap_experts_positions(joined, 'PTS_DIFF')
-    rel_err_by_expert = bootstrap_experts(joined, 'REL_DIFF')
-    rel_err_by_expert_position = bootstrap_experts_positions(joined, 'REL_DIFF')
+    # rel_err_by_expert = bootstrap_experts(joined, 'REL_DIFF')
+    # rel_err_by_expert_position = bootstrap_experts_positions(joined, 'REL_DIFF')
 
-    generate_histograms(abs_err_by_expert)
+    generate_error_histograms(joined, column='PTS_DIFF',
+                                title='Absolute Error')
+    # generate_error_histograms(joined, column='REL_DIFF',
+    #                             title='Relative Error')
+    generate_bootstrap_histograms(abs_err_by_expert,
+                                    title='Mean Absolute Error')
+    # generate_bootstrap_histograms(rel_err_by_expert,
+    #                                 title='Mean Rel. Error')
     generate_histogram_grid(abs_err_by_expert_position)
