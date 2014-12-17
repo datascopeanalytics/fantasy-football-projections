@@ -43,7 +43,6 @@ NAME_CORRECTIONS = {
     'Steve Johnson': 'Stevie Johnson',
     'Taylor Yates': 'T.J. Yates',
     'Timothy Wright': 'Tim Wright',
-    'Ty Hilton': 'T.Y. Hilton',
     'Will Tukuafu': "Will Ta'ufo'ou",
 }
 
