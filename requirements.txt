@@ -1,5 +1,5 @@
 beautifulsoup4==4.3.2
-html5lib==0.999
+html5lib==0.99999999
 lxml==3.4.1
 matplotlib==1.4.2
 mock==1.0.1
